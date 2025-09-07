@@ -1,0 +1,490 @@
+{
+  "food_additives": {
+    "appendix_a": {
+      "table_9_food_additives": {
+        "title": "List of food additives for use in food products",
+        "product_columns": [
+          "Candid crystallized and glazed fruit",
+          "Murabba or Preserve",
+          "Scratches, crushes, food syrups, Sharbots, cordial and barely water",
+          "Ginger cocktail",
+          "Fruit or vegetable juice",
+          "Palpable with preservatives for industrialized use only",
+          "Concentrated fruit or veg juice pulpure with preservatives for industrial use only",
+          "Cherry chutney",
+          "Fruits and vegetable or mango chutney",
+          "Mango pulp or pure",
+          "Fruit pulp or pure",
+          "Pickles",
+          "Green chili paste",
+          "Ginger paste",
+          "Garlic paste",
+          "Onion paste",
+          "Whole chili paste"
+        ],
+        "additives": {
+          "acidifying_agents": [
+            {
+              "name": "Citric Acid",
+              "products": {
+                "candid_crystallized_and_glazed_fruit": "GMP",
+                "murabba_or_preserve": "GMP",
+                "scratches_crushes_food_syrups_sharbots_cordial_and_barely_water": "GMP",
+                "ginger_cocktail": "GMP",
+                "fruit_or_vegetable_juice": "GMP",
+                "palpable_with_preservatives_for_industrialized_use_only": "GMP",
+                "concentrated_fruit_or_veg_juice_pulpure_with_preservatives_for_industrial_use_only": "GMP",
+                "cherry_chutney": "GMP",
+                "fruits_and_vegetable_or_mango_chutney": "GMP",
+                "mango_pulp_or_pure": "GMP",
+                "fruit_pulp_or_pure": "GMP",
+                "pickles": "GMP",
+                "green_chili_paste": "GMP",
+                "ginger_paste": "GMP",
+                "garlic_paste": "GMP",
+                "onion_paste": "GMP",
+                "whole_chili_paste": "GMP"
+              }
+            }
+          ],
+          "antioxidants": [
+            {
+              "name": "Ascorbic Acid",
+              "products": {
+                "murabba_or_preserve": "GMP",
+                "scratches_crushes_food_syrups_sharbots_cordial_and_barely_water": "GMP",
+                "ginger_cocktail": "GMP",
+                "fruit_or_vegetable_juice": "GMP",
+                "palpable_with_preservatives_for_industrialized_use_only": "GMP",
+                "concentrated_fruit_or_veg_juice_pulpure_with_preservatives_for_industrial_use_only": "GMP",
+                "fruits_and_vegetable_or_mango_chutney": "GMP",
+                "mango_pulp_or_pure": "GMP",
+                "fruit_pulp_or_pure": "GMP",
+                "green_chili_paste": "GMP",
+                "ginger_paste": "GMP",
+                "garlic_paste": "GMP",
+                "onion_paste": "GMP",
+                "whole_chili_paste": "GMP"
+              }
+            }
+          ],
+          "firming_agents": [
+            {
+              "name": "Calcium Chloride",
+              "products": {
+                "candid_crystallized_and_glazed_fruit": "GMP",
+                "murabba_or_preserve": "GMP",
+                "cherry_chutney": "350 ppm maximum",
+                "fruits_and_vegetable_or_mango_chutney": "350 ppm maximum only on fruit/vegetable pieces"
+              }
+            }
+          ],
+          "preservatives": [
+            {
+              "name": "Benzoic Acid & its Sodium & Potassium Salt or both",
+              "products": {
+                "murabba_or_preserve": "200 ppm maximum",
+                "scratches_crushes_food_syrups_sharbots_cordial_and_barely_water": "600 ppm maximum",
+                "ginger_cocktail": "600 ppm maximum",
+                "fruit_or_vegetable_juice": "600 ppm maximum",
+                "palpable_with_preservatives_for_industrialized_use_only": "600 ppm maximum",
+                "cherry_chutney": "250 ppm maximum",
+                "fruits_and_vegetable_or_mango_chutney": "250 ppm maximum",
+                "mango_pulp_or_pure": "250 ppm maximum"
+              }
+            }
+          ]
+        }
+      },
+      "table_10_food_additives": {
+        "title": "List of food additives for use in Food products",
+        "product_columns": [
+          "Jam",
+          "Jelly",
+          "Fruit cheese",
+          "Fruit bar",
+          "Fruit cereal flakes",
+          "Thermally processed fruit beverages",
+          "Fruit drinks",
+          "Ready to serve food beverages",
+          "Tomato ketchup",
+          "Culinary pays other sources",
+          "Soybean sauce",
+          "Soup Order",
+          "Fruit powder",
+          "Vegetable powder",
+          "Instant fruit vegetable chutney mixed",
+          "Culinary powder seasoning mixed powder",
+          "Nectar's fruit juices",
+          "A specially packed vegetable juices",
+          "Concentrated fruit when choose pulp"
+        ],
+        "additives": {
+          "acidifying_agents": [
+            {
+              "name": "Citric Acid",
+              "products": {
+                "jam": "GMP",
+                "jelly": "GMP",
+                "fruit_cheese": "GMP",
+                "thermally_processed_fruit_beverages": "GMP",
+                "fruit_drinks": "GMP",
+                "ready_to_serve_food_beverages": "GMP",
+                "tomato_ketchup": "GMP",
+                "culinary_pays_other_sources": "GMP",
+                "soybean_sauce": "GMP",
+                "soup_order": "GMP",
+                "fruit_powder": "GMP",
+                "vegetable_powder": "GMP",
+                "instant_fruit_vegetable_chutney_mixed": "GMP",
+                "culinary_powder_seasoning_mixed_powder": "GMP",
+                "nectar_s_fruit_juices": "GMP",
+                "a_specially_packed_vegetable_juices": "GMP",
+                "concentrated_fruit_when_choose_pulp": "GMP"
+              }
+            }
+          ],
+          "antifoaming_agents": [
+            {
+              "name": "Dimethyl Polysiloxane",
+              "products": {
+                "soup_order": "10ppm maximum",
+                "fruit_powder": "10ppm maximum",
+                "concentrated_fruit_when_choose_pulp": "10ppm maximum"
+              }
+            }
+          ],
+          "antioxidants": [
+            {
+              "name": "Ascorbic Acid",
+              "products": {
+                "jam": "GMP",
+                "jelly": "GMP",
+                "fruit_cheese": "GMP",
+                "thermally_processed_fruit_beverages": "GMP",
+                "fruit_drinks": "GMP",
+                "ready_to_serve_food_beverages": "GMP",
+                "tomato_ketchup": "GMP",
+                "culinary_pays_other_sources": "GMP",
+                "soybean_sauce": "GMP",
+                "soup_order": "GMP",
+                "fruit_powder": "GMP",
+                "vegetable_powder": "GMP",
+                "instant_fruit_vegetable_chutney_mixed": "GMP",
+                "culinary_powder_seasoning_mixed_powder": "GMP",
+                "nectar_s_fruit_juices": "GMP",
+                "a_specially_packed_vegetable_juices": "GMP",
+                "concentrated_fruit_when_choose_pulp": "GMP"
+              }
+            }
+          ],
+          "colours": [
+            {
+              "name": "Caramel",
+              "products": {
+                "jam": "GMP",
+                "jelly": "GMP",
+                "fruit_cheese": "GMP",
+                "thermally_processed_fruit_beverages": "GMP",
+                "fruit_drinks": "GMP",
+                "ready_to_serve_food_beverages": "GMP",
+                "tomato_ketchup": "GMP",
+                "culinary_pays_other_sources": "GMP",
+                "soybean_sauce": "GMP",
+                "soup_order": "GMP",
+                "fruit_powder": "GMP",
+                "vegetable_powder": "GMP",
+                "instant_fruit_vegetable_chutney_mixed": "GMP",
+                "culinary_powder_seasoning_mixed_powder": "GMP",
+                "nectar_s_fruit_juices": "GMP",
+                "a_specially_packed_vegetable_juices": "GMP",
+                "concentrated_fruit_when_choose_pulp": "GMP"
+              }
+            }
+          ],
+          "firming_agents": [
+            {
+              "name": "Calcium Chloride",
+              "products": {
+                "jam": "200 ppm maximum for use only on the fruit pieces",
+                "jelly": "200 ppm maximum for use only on the fruit pieces",
+                "fruit_cheese": "200 ppm maximum for use only on the fruit pieces",
+                "fruit_bar": "200 ppm maximum for use only on the fruit pieces",
+                "fruit_cereal_flakes": "200 ppm maximum for use only on the fruit pieces"
+              }
+            }
+          ],
+          "flavours": [
+            {
+              "name": "Natural Flavouring and Natural Flavouring Substances",
+              "products": {
+                "jam": "GMP",
+                "jelly": "GMP",
+                "fruit_cheese": "GMP",
+                "fruit_bar": "GMP",
+                "fruit_cereal_flakes": "GMP",
+                "thermally_processed_fruit_beverages": "GMP",
+                "fruit_drinks": "GMP",
+                "ready_to_serve_food_beverages": "GMP",
+                "tomato_ketchup": "GMP",
+                "culinary_pays_other_sources": "GMP",
+                "soybean_sauce": "GMP",
+                "soup_order": "GMP",
+                "fruit_powder": "GMP",
+                "vegetable_powder": "GMP",
+                "instant_fruit_vegetable_chutney_mixed": "GMP",
+                "culinary_powder_seasoning_mixed_powder": "GMP",
+                "nectar_s_fruit_juices": "GMP",
+                "a_specially_packed_vegetable_juices": "GMP",
+                "concentrated_fruit_when_choose_pulp": "GMP"
+              }
+            }
+          ]
+        }
+      },
+      "table_11_food_additives": {
+        "title": "List of Food Additives for use in food products",
+        "product_columns": [
+          "Table Olives",
+          "Raisins",
+          "Dates",
+          "Grated Desiccated Coconut",
+          "Dry Fruits & Nuts"
+        ],
+        "additives": {
+          "acidifying_agents": [
+            {
+              "name": "Citric Acid",
+              "products": {
+                "table_olives": "15 gm/kg maximum"
+              }
+            },
+            {
+              "name": "Acetic Acid",
+              "products": {
+                "table_olives": "GMP"
+              }
+            }
+          ],
+          "preservatives": [
+            {
+              "name": "Sulphur Dioxide, Sodium/ Potassium/ Calcium Sulphite/ bisulphate/ metasulphite",
+              "products": {
+                "table_olives": "1.5 gm/kg maximum only SO2",
+                "dates": "50 gm/kg maximum only SO2",
+                "dry_fruits_nuts": "2.0 gm/kg maximum"
+              }
+            }
+          ]
+        }
+      },
+      "table_12_sugars_and_salt": {
+        "title": "List of Food Additives for use in Sugars and Salt",
+        "product_columns": [
+          "Refined sugar",
+          "Sugar Icing/ Powdered sugar",
+          "Dextrose",
+          "Glucose syrup",
+          "Dried glucose syrup",
+          "Edible common salt/ Iodized salt/ Iron fortified common salt",
+          "Misri, Gur, Jaggery, Plantation white sugar, Cube sugar",
+          "Khandsari sugar (Sulphur sugar), Bura sugar",
+          "Khandsari sugar (Desi)",
+          "Golden syrup"
+        ],
+        "additives": {
+          "preservative": [
+            {
+              "name": "Sulphur dioxide",
+              "products": {
+                "refined_sugar": "20 ppm max",
+                "sugar_icing_powdered_sugar": "20 ppm max",
+                "dextrose": "70 ppm max",
+                "glucose_syrup": "40 ppm max",
+                "dried_glucose_syrup": "40 ppm max",
+                "misri_gur_jaggery_plantation_white_sugar_cube_sugar": "70 ppm max",
+                "khandsari_sugar_sulphur_sugar_bura_sugar": "150 ppm max"
+              }
+            }
+          ],
+          "anticaking_agents": [
+            {
+              "name": "Carbonates of calcium and magnesium",
+              "products": {
+                "sugar_icing_powdered_sugar": "15g/kg max, singly or in combination",
+                "edible_common_salt_iodized_salt_iron_fortified_common_salt": "20g/kg max, singly or in combination"
+              }
+            }
+          ]
+        }
+      },
+      "table_13_cocoa_powder_chocolate_etc": {
+        "title": "List of food additives for use in Cocoa powder, Chocolate, Sugar boiled confectionery, Chewing gum/ Bubble gum",
+        "product_columns": [
+          "Cocoa powder",
+          "Chocolate- White, Milk, Plain, Composite, Filled",
+          "Sugar based/ Sugar free confectionery",
+          "Lozenges",
+          "Chewing gum/ Bubble gum"
+        ],
+        "additives": {
+          "preservatives": [
+            {
+              "name": "Benzoic acid, Sodium and Potassium benzoate",
+              "products": {
+                "cocoa_powder": "1500 ppm max",
+                "chocolate": "1500ppm max",
+                "sugar_based_sugar_free_confectionery": "1500ppm max",
+                "lozenges": "1500ppm max",
+                "chewing_gum_bubble_gum": "1500ppm max"
+              }
+            }
+          ],
+          "anticaking_agents": [
+            {
+              "name": "Calcium phosphate, Silicon dioxide, Sodium aluminium silicate",
+              "products": {
+                "cocoa_powder": "10 g/kg (Clubbed from 1 to 3)"
+              }
+            }
+          ],
+          "colours": [
+            {
+              "name": "Chlorophyll",
+              "products": {
+                "chocolate": "Max 100 ppm in filled chocolates only",
+                "sugar_based_sugar_free_confectionery": "GMP",
+                "lozenges": "GMP",
+                "chewing_gum_bubble_gum": "GMP"
+              }
+            }
+          ],
+          "flavours": [
+            {
+              "name": "Natural flavour and Natural flavouring substances",
+              "products": {
+                "cocoa_powder": "GMP",
+                "chocolate": "GMP",
+                "sugar_based_sugar_free_confectionery": "GMP",
+                "lozenges": "GMP",
+                "chewing_gum_bubble_gum": "GMP"
+              }
+            }
+          ]
+        }
+      },
+      "table_14_milk_products": {
+        "title": "List of food additives for use in Milk products",
+        "additives": {
+          "stabilisers_and_emulsifiers": [
+            {
+              "name": "Carrageenan",
+              "products": {
+                "processed_cheese": "5 g/kg max",
+                "cheese_spreads": "150 mg/kg max"
+              }
+            },
+            {
+              "name": "Gelatine",
+              "products": {
+                "processed_cheese": "10 g/kg max"
+              }
+            },
+            {
+              "name": "Pectins",
+              "products": {
+                "processed_cheese": "10 g/kg max"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "appendix_b_microbiological_requirements": {
+      "table_1_sea_foods": {
+        "title": "Microbiological Requirements for Sea Foods",
+        "products": [
+          {
+            "name": "Frozen shrimps or prawns (Raw)",
+            "total_plate_count_max": "five lakhs /gm",
+            "e_coli_max": "20/gm",
+            "staphylococcus_aureus_max": "100 / gm"
+          },
+          {
+            "name": "Frozen shrimps or prawns (Cooked)",
+            "total_plate_count_max": "one lakh /gm",
+            "e_coli": "Absent in 25 gm",
+            "staphylococcus_aureus": "Absent in 25 gm"
+          }
+        ]
+      },
+      "table_2_milk_products": {
+        "title": "Microbiological Parameter for Milk Products",
+        "products": [
+          {
+            "name": "Pasteurised milk",
+            "total_plate_count_m_max": "50,000/g",
+            "coliform_count_m_max": "Less than 10/g",
+            "e_coli": "Absent/g"
+          },
+          {
+            "name": "Cream",
+            "total_plate_count_m_max": "1,500/g",
+            "coliform_count_m_max": "Less than 10/g",
+            "e_coli": "Absent/g"
+          }
+        ]
+      },
+      "table_3_spices": {
+        "title": "Microbiological Parameters for Spices",
+        "products": [
+          {
+            "name": "Caraway (Shiahjira)",
+            "salmonella": "Absent in 25 gm"
+          },
+          {
+            "name": "Cardomom (Elaichi)",
+            "salmonella": "Absent in 25 gm"
+          },
+          {
+            "name": "Chillies and Capsicum (Lal Mirchi)",
+            "salmonella": "Absent in 25 gm"
+          }
+        ]
+      },
+      "table_4_food_products": {
+        "title": "Microbiological requirements of food products given below",
+        "products": [
+          {
+            "name": "Thermally processed fruits and vegetable products",
+            "parameters": {
+              "total_plate_count_max": "50 / ml",
+              "incubation_at_37c_for_10_days_and_55c_for_7_days": "No changes in pH"
+            }
+          },
+          {
+            "name": "Dehydrated fruits and vegetable products",
+            "parameters": {
+              "total_plate_count_max": "40,000 / gm"
+            }
+          },
+          {
+            "name": "Carbonated beverages, ready - to - serve beverages",
+            "parameters": {
+              "total_plate_count_max_cfu_ml": 50,
+              "yeast_and_mould_count_max_cfu_ml": 2.0,
+              "coli_form_count": "Absent in 100 ml"
+            }
+          },
+          {
+            "name": "Jam / Marmalade / Fruit jelly / Fruit Chutney and Sauces",
+            "parameters": {
+              "mould_count": "Positive in not more than 40.00 percent of the field examined",
+              "yeast_and_spores_max": "125 per 1 / 60 c.m.m"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

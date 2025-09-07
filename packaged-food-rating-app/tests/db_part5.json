@@ -1,0 +1,497 @@
+{
+  "food_additives": {
+    "appendix_a": {
+      "table_6_thermally_processed_fruits": {
+        "title": "List of Food Additives for use in Thermally Processed Fruits",
+        "product_columns": [
+          "Peaches",
+          "Grapefruits",
+          "Pineapple",
+          "Plums",
+          "Raspberries",
+          "Peas",
+          "Strawberries",
+          "Orange",
+          "Fruit cocktail/tropical fruit cocktail",
+          "Apricot",
+          "Palmito",
+          "Mangoes",
+          "Guava",
+          "Chicu",
+          "Papaya",
+          "Lichi",
+          "Kenu",
+          "Pomegranate",
+          "Custard apple",
+          "Fruits not specified"
+        ],
+        "additives": {
+          "acidifying_agents": [
+            {
+              "name": "Citric Acid",
+              "products": {
+                "peaches": "GMP",
+                "grapefruits": "GMP",
+                "pineapple": "GMP",
+                "plums": "GMP",
+                "raspberries": "GMP",
+                "peas": "GMP",
+                "strawberries": "GMP",
+                "orange": "GMP",
+                "fruit_cocktail_tropical_fruit_cocktail": "GMP",
+                "apricot": "GMP",
+                "palmito": "GMP",
+                "mangoes": "GMP",
+                "guava": "GMP",
+                "chicu": "GMP",
+                "papaya": "GMP",
+                "lichi": "GMP",
+                "kenu": "GMP",
+                "pomegranate": "GMP",
+                "custard_apple": "GMP",
+                "fruits_not_specified": "GMP"
+              }
+            },
+            {
+              "name": "Lactic Acid",
+              "products": {
+                "peas": "GMP",
+                "strawberries": "GMP",
+                "apricot": "GMP",
+                "guava": "GMP",
+                "chicu": "GMP",
+                "papaya": "GMP",
+                "lichi": "GMP",
+                "kenu": "GMP",
+                "pomegranate": "GMP",
+                "custard_apple": "GMP",
+                "fruits_not_specified": "GMP"
+              }
+            }
+          ],
+          "anti_clouding_agent": [
+            {
+              "name": "Methyl Cellulose",
+              "products": {
+                "grapefruits": "10 ppm maximum",
+                "orange": "10 ppm maximum"
+              }
+            }
+          ],
+          "antifoaming_agents": [
+            {
+              "name": "Dimethyl Polisiloxane",
+              "products": {
+                "pineapple": "10 ppm maximum"
+              }
+            }
+          ],
+          "antioxidants": [
+            {
+              "name": "Ascorbic Acid",
+              "products": {
+                "peaches": "550 ppm maximum",
+                "grapefruits": "550 ppm maximum",
+                "peas": "550 ppm maximum",
+                "strawberries": "550 ppm maximum",
+                "orange": "550 ppm maximum",
+                "fruit_cocktail_tropical_fruit_cocktail": "550 ppm maximum",
+                "apricot": "550 ppm maximum",
+                "palmito": "550 ppm maximum",
+                "mangoes": "550 ppm maximum",
+                "guava": "550 ppm maximum",
+                "chicu": "550 ppm maximum",
+                "papaya": "550 ppm maximum",
+                "lichi": "550 ppm maximum",
+                "kenu": "550 ppm maximum",
+                "pomegranate": "550 ppm maximum",
+                "custard_apple": "550 ppm maximum",
+                "fruits_not_specified": "550 ppm maximum"
+              }
+            }
+          ],
+          "colours": {
+            "natural": [
+              {
+                "name": "Methylester of Beta-apo-8 carotenic acid",
+                "products": {
+                  "plums": "200 ppm maximum",
+                  "raspberries": "200 ppm maximum",
+                  "apricot": "200 ppm maximum",
+                  "palmito": "200 ppm maximum",
+                  "mangoes": "200 ppm maximum",
+                  "guava": "200 ppm maximum",
+                  "chicu": "200 ppm maximum",
+                  "papaya": "200 ppm maximum",
+                  "lichi": "200 ppm maximum",
+                  "kenu": "200 ppm maximum",
+                  "pomegranate": "200 ppm maximum"
+                }
+              }
+            ],
+            "synthetic": [
+              {
+                "name": "Ponceau 4R",
+                "products": {
+                  "plums": "200 ppm maximum",
+                  "raspberries": "200 ppm maximum",
+                  "strawberries": "200 ppm maximum",
+                  "apricot": "200 ppm maximum",
+                  "palmito": "200 ppm maximum",
+                  "mangoes": "200 ppm maximum",
+                  "guava": "200 ppm maximum",
+                  "chicu": "200 ppm maximum",
+                  "papaya": "200 ppm maximum",
+                  "lichi": "200 ppm maximum",
+                  "kenu": "200 ppm maximum",
+                  "pomegranate": "200 ppm maximum"
+                }
+              }
+            ]
+          },
+          "firming_agents": [
+            {
+              "name": "Calcium Chloride",
+              "products": {
+                "peaches": "350 ppm maximum",
+                "grapefruits": "350 ppm maximum",
+                "plums": "350 ppm maximum",
+                "raspberries": "350 ppm maximum",
+                "peas": "350 ppm maximum",
+                "strawberries": "350 ppm maximum",
+                "orange": "350 ppm maximum",
+                "fruit_cocktail_tropical_fruit_cocktail": "350 ppm maximum",
+                "apricot": "350 ppm maximum",
+                "palmito": "350 ppm maximum",
+                "mangoes": "350 ppm maximum",
+                "guava": "350 ppm maximum",
+                "chicu": "350 ppm maximum",
+                "papaya": "350 ppm maximum",
+                "lichi": "350 ppm maximum",
+                "kenu": "350 ppm maximum",
+                "pomegranate": "350 ppm maximum",
+                "custard_apple": "350 ppm maximum",
+                "fruits_not_specified": "350 ppm maximum"
+              }
+            }
+          ],
+          "thickening_agents": [
+            {
+              "name": "Modified Starches",
+              "products": {
+                "pineapple": "1% m/m maximum"
+              }
+            }
+          ]
+        }
+      },
+      "table_7_thermally_processed_vegetables": {
+        "title": "List of Food Additives in Thermally Processed Vegetables",
+        "product_columns": [
+          "Canned tomatoes",
+          "Greenbeans or wax bean",
+          "Sweet corn or baby corn",
+          "Mushrooms",
+          "Green peas",
+          "Carrots",
+          "Chestnuts and Chestnuts puree",
+          "Groundnuts",
+          "Sesame and mustard pastes and other oil seed paste",
+          "Asparagus",
+          "Processed Peas",
+          "Ladies finger",
+          "Cauliflower",
+          "Brinjal",
+          "Sweet Potato",
+          "Garkin",
+          "Spinach",
+          "Table onions",
+          "Garlic",
+          "Bellpepper",
+          "Rajma",
+          "All pulses and dals whole and splits",
+          "Other vegetables and curried vegetables",
+          "Ready to eat vegetables"
+        ],
+        "additives": {
+          "acidifying_agents": [
+            {
+              "name": "Acetic Acid",
+              "products": {
+                "canned_tomatoes": "GMP",
+                "sweet_corn_or_baby_corn": "GMP",
+                "green_peas": "GMP",
+                "groundnuts": "GMP",
+                "asparagus": "GMP",
+                "processed_peas": "GMP",
+                "ladies_finger": "GMP",
+                "cauliflower": "GMP",
+                "brinjal": "GMP",
+                "sweet_potato": "GMP",
+                "garkin": "GMP",
+                "spinach": "GMP",
+                "table_onions": "GMP",
+                "garlic": "GMP",
+                "bellpepper": "GMP",
+                "rajma": "GMP",
+                "all_pulses_and_dals_whole_and_splits": "GMP",
+                "other_vegetables_and_curried_vegetables": "GMP"
+              }
+            },
+            {
+              "name": "Citric Acid",
+              "products": {
+                "canned_tomatoes": "GMP",
+                "greenbeans_or_wax_bean": "GMP",
+                "sweet_corn_or_baby_corn": "GMP",
+                "mushrooms": "GMP",
+                "green_peas": "GMP",
+                "carrots": "GMP",
+                "chestnuts_and_chestnuts_puree": "GMP",
+                "groundnuts": "GMP",
+                "sesame_and_mustard_pastes_and_other_oil_seed_paste": "GMP",
+                "asparagus": "GMP",
+                "processed_peas": "GMP",
+                "ladies_finger": "GMP",
+                "cauliflower": "GMP",
+                "brinjal": "GMP",
+                "sweet_potato": "GMP",
+                "garkin": "GMP",
+                "spinach": "GMP",
+                "table_onions": "GMP",
+                "garlic": "GMP",
+                "bellpepper": "GMP",
+                "rajma": "GMP",
+                "all_pulses_and_dals_whole_and_splits": "GMP",
+                "other_vegetables_and_curried_vegetables": "GMP",
+                "ready_to_eat_vegetables": "GMP"
+              }
+            },
+            {
+              "name": "L-Tartaric Acid",
+              "products": {
+                "canned_tomatoes": "GMP",
+                "greenbeans_or_wax_bean": "GMP",
+                "sweet_corn_or_baby_corn": "GMP",
+                "mushrooms": "GMP",
+                "green_peas": "GMP",
+                "carrots": "GMP",
+                "chestnuts_and_chestnuts_puree": "10 g/ kg maximum",
+                "groundnuts": "10 g/ kg maximum",
+                "sesame_and_mustard_pastes_and_other_oil_seed_paste": "GMP",
+                "asparagus": "GMP",
+                "processed_peas": "GMP",
+                "ladies_finger": "GMP",
+                "cauliflower": "GMP",
+                "brinjal": "GMP",
+                "sweet_potato": "GMP",
+                "garkin": "GMP",
+                "spinach": "GMP",
+                "table_onions": "GMP",
+                "garlic": "GMP",
+                "bellpepper": "GMP",
+                "rajma": "GMP",
+                "all_pulses_and_dals_whole_and_splits": "GMP",
+                "other_vegetables_and_curried_vegetables": "GMP",
+                "ready_to_eat_vegetables": "GMP"
+              }
+            }
+          ],
+          "antioxidants": [
+            {
+              "name": "Ascorbic Acid",
+              "products": {
+                "greenbeans_or_wax_bean": "GMP",
+                "sweet_corn_or_baby_corn": "GMP",
+                "processed_peas": "GMP",
+                "ladies_finger": "GMP",
+                "cauliflower": "GMP",
+                "brinjal": "GMP",
+                "sweet_potato": "GMP",
+                "garkin": "GMP",
+                "spinach": "GMP",
+                "table_onions": "GMP",
+                "garlic": "GMP",
+                "bellpepper": "GMP",
+                "rajma": "GMP",
+                "all_pulses_and_dals_whole_and_splits": "GMP",
+                "other_vegetables_and_curried_vegetables": "GMP",
+                "ready_to_eat_vegetables": "GMP"
+              }
+            }
+          ],
+          "firming_agents": [
+            {
+              "name": "Calcium Chloride",
+              "products": {
+                "canned_tomatoes": "0.80% total calcium max",
+                "greenbeans_or_wax_bean": "0.80% total calcium max",
+                "sweet_corn_or_baby_corn": "0.80% total calcium max",
+                "mushrooms": "350 ppm maximum",
+                "asparagus": "350 ppm maximum",
+                "processed_peas": "350 ppm maximum",
+                "ladies_finger": "350 ppm maximum",
+                "cauliflower": "350 ppm maximum",
+                "brinjal": "350 ppm maximum",
+                "sweet_potato": "350 ppm maximum",
+                "garkin": "350 ppm maximum",
+                "spinach": "350 ppm maximum",
+                "table_onions": "350 ppm maximum",
+                "garlic": "350 ppm maximum",
+                "bellpepper": "350 ppm maximum",
+                "rajma": "350 ppm maximum",
+                "all_pulses_and_dals_whole_and_splits": "350 ppm maximum",
+                "other_vegetables_and_curried_vegetables": "350 ppm maximum",
+                "ready_to_eat_vegetables": "350 ppm maximum"
+              }
+            }
+          ],
+          "thickening_agents": [
+            {
+              "name": "Vegetable gums",
+              "products": {
+                "greenbeans_or_wax_bean": "10g/kg maximum",
+                "sweet_corn_or_baby_corn": "10g/kg maximum",
+                "mushrooms": "10g/kg maximum",
+                "groundnuts": "GMP",
+                "sesame_and_mustard_pastes_and_other_oil_seed_paste": "1% maximum",
+                "asparagus": "10g/kg maximum",
+                "processed_peas": "10g/kg maximum",
+                "ladies_finger": "10g/kg maximum",
+                "cauliflower": "10g/kg maximum",
+                "brinjal": "10g/kg maximum",
+                "sweet_potato": "10g/kg maximum",
+                "garkin": "10g/kg maximum",
+                "spinach": "10g/kg maximum",
+                "table_onions": "10g/kg maximum",
+                "garlic": "10g/kg maximum",
+                "bellpepper": "10g/kg maximum",
+                "rajma": "10g/kg maximum",
+                "all_pulses_and_dals_whole_and_splits": "10g/kg maximum",
+                "other_vegetables_and_curried_vegetables": "10g/kg maximum",
+                "ready_to_eat_vegetables": "10g/kg maximum"
+              }
+            }
+          ]
+        }
+      },
+      "table_8_food_additives_in_food_products": {
+        "title": "List of Food Additives for use in food products",
+        "product_columns": [
+          "Tamarind Pulp / Puree & Conc.",
+          "Synthetic Syrups for Dispensers",
+          "Tomato Puree & Paste",
+          "Vinegar",
+          "Carbonated Water",
+          "Dehydrated Fruits",
+          "Carbonated Fruit Beverages or fruit drinks",
+          "Dehydrated Vegetable",
+          "Frozen Fruit/Fruit Products",
+          "Frozen Vegetables",
+          "Fruit Based Beverage Mix/ Powdered Fruit Based Beverages"
+        ],
+        "additives": {
+          "acidifying_agents": [
+            {
+              "name": "Citric Acid",
+              "products": {
+                "synthetic_syrups_for_dispensers": "GMP",
+                "tomato_puree_and_paste": "GMP",
+                "carbonated_water": "GMP",
+                "carbonated_fruit_beverages_or_fruit_drinks": "GMP",
+                "fruit_based_beverage_mix_powdered_fruit_based_beverages": "GMP"
+              }
+            },
+            {
+              "name": "Lactic Acid",
+              "products": {
+                "synthetic_syrups_for_dispensers": "GMP",
+                "tomato_puree_and_paste": "GMP",
+                "carbonated_fruit_beverages_or_fruit_drinks": "GMP",
+                "fruit_based_beverage_mix_powdered_fruit_based_beverages": "GMP"
+              }
+            }
+          ],
+          "anticaking_agents": [
+            {
+              "name": "Carbonates of calcium and magnesium",
+              "products": {
+                "dehydrated_fruits": "2% maximum in powders only",
+                "dehydrated_vegetable": "2% maximum in powders only",
+                "fruit_based_beverage_mix_powdered_fruit_based_beverages": "2% maximum in powders only"
+              }
+            }
+          ],
+          "antioxidants": [
+            {
+              "name": "Ascorbic Acid",
+              "products": {
+                "synthetic_syrups_for_dispensers": "GMP",
+                "tomato_puree_and_paste": "GMP",
+                "carbonated_water": "GMP",
+                "dehydrated_fruits": "GMP",
+                "carbonated_fruit_beverages_or_fruit_drinks": "GMP",
+                "fruit_based_beverage_mix_powdered_fruit_based_beverages": "GMP"
+              }
+            }
+          ],
+          "colours": {
+            "natural": [
+              {
+                "name": "Chlorophyll",
+                "products": {
+                  "synthetic_syrups_for_dispensers": "200 ppm maximum",
+                  "vinegar": "GMP only",
+                  "carbonated_water": "100 ppm maximum",
+                  "carbonated_fruit_beverages_or_fruit_drinks": "100 ppm maximum",
+                  "fruit_based_beverage_mix_powdered_fruit_based_beverages": "200 ppm maximum"
+                }
+              }
+            ],
+            "synthetic": [
+              {
+                "name": "Ponceau 4R",
+                "products": {
+                  "synthetic_syrups_for_dispensers": "200 ppm maximum",
+                  "carbonated_water": "100 ppm maximum",
+                  "carbonated_fruit_beverages_or_fruit_drinks": "100 ppm maximum",
+                  "fruit_based_beverage_mix_powdered_fruit_based_beverages": "200 ppm maximum"
+                }
+              }
+            ]
+          },
+          "preservatives": [
+            {
+              "name": "Benzoic Acid and its Sodium, Potassium Salt",
+              "products": {
+                "tamarind_pulp_puree_and_conc": "750 ppm maximum",
+                "synthetic_syrups_for_dispensers": "500 ppm maximum",
+                "tomato_puree_and_paste": "250 ppm maximum in Puree",
+                "carbonated_water": "120 ppm maximum",
+                "carbonated_fruit_beverages_or_fruit_drinks": "120 ppm maximum"
+              }
+            },
+            {
+              "name": "Sulphur di-oxide",
+              "products": {
+                "synthetic_syrups_for_dispensers": "350 ppm maximum",
+                "tomato_puree_and_paste": "750 ppm maximum in Paste",
+                "carbonated_water": "70 ppm maximum",
+                "dehydrated_fruits": "700 ppm maximum",
+                "carbonated_fruit_beverages_or_fruit_drinks": "70 ppm maximum",
+                "dehydrated_vegetable": "2000 ppm maximum"
+              }
+            },
+            {
+              "name": "Sorbic acid its Na, K and Ca salts",
+              "products": {
+                "tamarind_pulp_puree_and_conc": "300 ppm maximum",
+                "carbonated_water": "120 ppm maximum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

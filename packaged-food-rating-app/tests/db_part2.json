@@ -1,0 +1,1649 @@
+{
+  "chapter_2_food_product_standards": {
+    "hydrogenated_vegetable_oils": {
+      "vanaspati": {
+        "definition": "Any refined edible vegetable oil or oils, subjected to a process of hydrogenation.",
+        "source_oils": [
+          "Groundnut oil",
+          "Cottonseed oil",
+          "Sesame oil",
+          "Coconut oil",
+          "Dhupa fat",
+          "Kokum fat",
+          "Linseed oil",
+          "Mahua oil",
+          "Maize (Corn) oil",
+          "Mango kernel fat",
+          "Mustard/Rape-seed oil",
+          "Niger-seed oil",
+          "Palm oil",
+          "Phulwara fat",
+          "Rice bran oil",
+          "Safflower (Kariseed) oil",
+          "Soyabean oil",
+          "Sunflower oil",
+          "Watermelon seed oil"
+        ],
+        "special_provisions": {
+          "sal_seed_fat_limit": "Not more than 10% of the total oil mix.",
+          "imported_palm_oil_provision": "Imported crude palm oil and its fractions must be used for vanaspati/hydrogenated oil production only by manufacturers with on-site hydrogen generation and hydrogenation facilities."
+        },
+        "general_requirements": {
+          "harmful_substances": "Shall not contain any harmful colouring, flavouring or matter deleterious to health.",
+          "color": "No color resembling ghee shall be added.",
+          "flavor": "If flavor is used, it must be distinct from ghee, from a list of permissible flavors.",
+          "diacetyl_for_armed_forces": "Diacetyl (max 4.0 ppm) may be added to vanaspati for the Armed Forces.",
+          "appearance_and_taste": "On melting, shall be clear, free from staleness or rancidity, with pleasant taste and smell.",
+          "sesame_oil_test": "Shall contain sufficient raw or refined sesame (til) oil so that when mixed with refined groundnut oil (20:80), the Baudouin test is not lighter than 2.0 red units.",
+          "additives": "No anti-oxidant, synergist, emulsifier, or other such substance shall be added without prior sanction of the Authority."
+        },
+        "compositional_requirements": {
+          "moisture_max_percent": 0.25,
+          "melting_point_c_capillary_slip_method": "31-41",
+          "unsaponifiable_matter_max_percent": {
+            "default": 2.0,
+            "with_more_than_30_percent_rice_bran_oil": 2.5
+          },
+          "free_fatty_acid_as_oleic_acid_max_percent": 0.25,
+          "synthetic_vitamin_a_min_iu_per_gram": 25.0,
+          "residual_nickel_max_ppm": 1.5,
+          "argemone_oil_test": "Negative"
+        }
+      },
+      "bakery_shortening": {
+        "definition": "Vanaspati used as a shortening or leavening agent for bakery products.",
+        "general_requirements": "Conforms to Vanaspati standards, with exceptions.",
+        "exceptions": {
+          "melting_point_capillary_slip_method_max_c": 41,
+          "aeration": "Only nitrogen, air, or inert gas may be used. Quantity shall not exceed 12% by volume.",
+          "emulsifiers": "May contain added mono-glycerides and diglycerides."
+        }
+      }
+    },
+    "fruit_and_vegetable_products": {
+      "container_filling_standards": {
+        "description": "For all rigid containers, the product shall occupy not less than 90.0% of the water capacity of the container. Water capacity is the volume of distilled water at 20°C that a sealed container can hold.",
+        "note": "This is a recurring standard for many products."
+      },
+      "thermally_processed_fruits": {
+        "definition": "Products obtained from sound, matured, fresh, dehydrated or frozen fruits, processed by heat to prevent spoilage.",
+        "drained_weight_min_percent": {
+          "liquid_pack": 50.0,
+          "solid_pack": 70.0
+        }
+      },
+      "thermally_processed_fruit_cocktail": {
+        "definition": "Product from a mixture of fresh, frozen, dehydrated or processed fruits, processed by heat to prevent spoilage.",
+        "drained_weight_min_percent": {
+          "liquid_pack": 50.0,
+          "solid_pack": 70.0
+        }
+      },
+      "thermally_processed_vegetables": {
+        "definition": "Product from fresh, dehydrated or frozen vegetables, processed by heat to prevent spoilage.",
+        "drained_weight_min_percent": {
+          "liquid_pack": {
+            "mushrooms": 50.0,
+            "green_beans_carrots_peas_sweet_corn_baby_corn": 50.0,
+            "mushrooms_in_sauce": 25.0,
+            "other_vegetables": 50.0
+          },
+          "solid_pack": 70.0
+        }
+      },
+      "thermally_processed_curried_vegetables_ready_to_eat_vegetables": {
+        "definition": "Product prepared from various vegetables, legumes, cereals or pulses, processed by heat to prevent spoilage.",
+        "composition": "May contain salt, sweeteners, spices, edible vegetable oils, milk fat, etc."
+      },
+      "thermally_processed_vegetable_soups": {
+        "definition": "Unfermented product from juice/pulp/puree of vegetables, cooked and heat processed to prevent spoilage.",
+        "requirements": {
+          "total_soluble_solids_min_percent": {
+            "general": 5.0,
+            "tomato_soup": 7.0
+          }
+        }
+      },
+      "thermally_processed_fruit_juices": {
+        "definition": "Unfermented, pulpy, turbid or clear juice from ripe fruit, processed by heat. May be reconstituted from concentrate.",
+        "sweeteners": "May contain nutritive sweeteners (up to 50 g/kg, or 200 g/kg in very acidic fruits). Not called 'sweetened' if added sweeteners do not exceed 15 g/kg.",
+        "requirements_table": [
+          {
+            "product": "Apple Juice",
+            "tss_min_percent": 10,
+            "acidity_as_citric_acid_max_percent": "3.5 (as malic acid)"
+          },
+          {
+            "product": "Orange Juice",
+            "tss_min_percent": 10,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Grape Fruit Juice",
+            "tss_min_percent": 9,
+            "acidity_as_citric_acid_max_percent": "-"
+          },
+          {
+            "product": "Lemon Juice",
+            "tss_min_percent": 6,
+            "acidity_as_citric_acid_min_percent": 4.0
+          },
+          {
+            "product": "Lime Juice",
+            "tss_min_percent": "-",
+            "acidity_as_citric_acid_min_percent": 5.0
+          },
+          {
+            "product": "Grape Juice",
+            "tss_min_percent": 15,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Pineapple Juice",
+            "tss_min_percent": 10,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Black Currant",
+            "tss_min_percent": 11,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Mango, Guava or any other pulp fruit",
+            "tss_min_percent": 15,
+            "acidity_as_citric_acid_max_percent": "3.5P"
+          },
+          {
+            "product": "Other fruit juices of single species - not very acidic",
+            "tss_min_percent": 10,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Other fruit juices of single species - very acidic",
+            "tss_min_percent": 10,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Other fruit juices of single species or combination thereof - not very acidic",
+            "tss_min_percent": 10,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Other fruit juices of single species or combination thereof - very acidic",
+            "tss_min_percent": 10,
+            "acidity_as_citric_acid_max_percent": 3.5
+          }
+        ]
+      },
+      "thermally_processed_vegetable_juices": {
+        "definition": "Unfermented or lactic acid fermented product from edible parts of vegetables, processed by heat.",
+        "requirements": {
+          "total_soluble_solids_min_percent_free_of_added_salts": 5.0
+        }
+      },
+      "thermally_processed_tomato_juice": {
+        "definition": "Unfermented juice from ripe tomatoes, processed by heat. Free from skin, seeds, and coarse parts.",
+        "requirements": {
+          "total_soluble_solids_min_percent_free_of_added_salt": 5.0
+        }
+      },
+      "thermally_processed_fruit_nectars": {
+        "definition": "Unfermented, pulpy or non-pulpy product from fruit juice/pulp, blended with water and sweeteners and processed by heat.",
+        "requirements_table": [
+          {
+            "product": "Orange Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 40,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Grape Fruit Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Pineapple Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 40,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Mango Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Guava Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Peach Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Pear Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Apricot Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Non-pulpy Black Currant Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Other Fruit Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Other Fruit Nectars of High Acidity/Pulpy / Strong flavour",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          },
+          {
+            "product": "Mixed Fruit Nectar",
+            "tss_min_percent": 15,
+            "min_fruit_juice_content_percent": 20,
+            "acidity_as_citric_acid_max_percent": 1.5
+          }
+        ]
+      },
+      "thermally_processed_fruit_beverages_fruit_drink_ready_to_serve_fruit_beverages": {
+        "definition": "Unfermented product from fruit juice/pulp/puree with water and other ingredients, heat processed.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 10.0,
+          "fruit_juice_content_min_percent": {
+            "lime_lemon_beverage": 5.0,
+            "all_other_beverages": 10.0
+          }
+        }
+      },
+      "thermally_processed_mango_pulp_puree": {
+        "definition": "Unfermented product from ripe mangoes, heat processed.",
+        "requirements": {
+          "total_soluble_solids_min_percent": {
+            "sweetened": 15.0,
+            "unsweetened": 12.0
+          },
+          "acidity_as_citric_acid_min_percent_for_sweetened_canned": 0.3
+        }
+      },
+      "thermally_processed_fruit_pulp_puree_other_than_mango": {
+        "definition": "Unfermented product from ripe fruit, heat processed.",
+        "sweeteners": "May be described as sweetened if nutritive sweeteners exceed 15g/kg.",
+        "requirements": {
+          "total_soluble_solids_min_percent_exclusive_of_added_sugar": 6.0,
+          "acidity_as_citric_acid_min_percent": 0.3
+        }
+      },
+      "thermally_processed_concentrated_fruit_vegetable_juice_pulp_puree": {
+        "definition": "Unfermented, fermentable product from fruit/vegetable juice, pulp, or puree, from which water has been removed to at least double the original soluble content."
+      },
+      "thermally_processed_tomato_puree_and_paste": {
+        "definition": "Unfermented product obtained by concentrating tomato juice.",
+        "requirements_table": [
+          {
+            "product": "Tomato puree",
+            "total_soluble_solids_min_percent": 9.0
+          },
+          {
+            "product": "Tomato Paste",
+            "total_soluble_solids_min_percent": 25.0
+          }
+        ]
+      },
+      "soup_powders": {
+        "definition": "Product obtained by mechanical dehydration of fruit/vegetable juice, pulp, or puree.",
+        "requirements": {
+          "moisture_max_percent": 5.0,
+          "total_soluble_solids_min_percent_on_ready_to_serve_basis": 5.0
+        }
+      },
+      "fruit_vegetable_juice_pulp_puree_with_preservatives_for_industrial_use_only": {
+        "definition": "Unfermented, fermentable product from fruit/vegetable juice, pulp, or puree, preserved for industrial use."
+      },
+      "concentrated_fruit_vegetable_juice_pulp_puree_with_preservatives_for_industrial_use_only": {
+        "definition": "Unfermented, fermentable product from fruit/vegetable juice, pulp, or puree with water removed to at least double the original soluble content."
+      },
+      "tamarind_pulp_puree_and_concentrate": {
+        "definition": "Unfermented, fermentable product from tamarind, preserved by thermal processing or preservatives.",
+        "requirements_table": [
+          {
+            "product": "Tamarind Pulp/Puree",
+            "min_tss_percent": 32,
+            "min_acidity_percent": 4.5,
+            "ash_insoluble_in_hcl_max_percent": 0.4
+          },
+          {
+            "product": "Tamarind Concentrate",
+            "min_tss_percent": 65,
+            "min_acidity_percent": 9.0,
+            "ash_insoluble_in_hcl_max_percent": 0.8
+          }
+        ]
+      },
+      "fruit_bar_toffee": {
+        "definition": "Product from fruit pulp/puree blended with sweeteners and fats, dehydrated into a sheet.",
+        "requirements": {
+          "moisture_max_percent": 20.0,
+          "total_soluble_solids_min_percent": 75.0,
+          "fruit_content_min_percent": 25.0
+        }
+      },
+      "fruit_vegetable_cereal_flakes": {
+        "definition": "Product from fruit/vegetable pulp/puree blended with starch, cereals, and sweeteners, dehydrated into flakes.",
+        "requirements": {
+          "moisture_max_percent": 6.0,
+          "acid_insoluble_ash_max_percent": 0.5,
+          "starch_max_percent": 25.0
+        }
+      },
+      "squashes_crushes_fruit_syrups_fruit_sharbats_and_barley_water": {
+        "definition": "Products from unfermented fruit juice/puree blended with sweeteners, water, and other ingredients.",
+        "requirements_table": [
+          {
+            "product": "Squash",
+            "min_fruit_juice_puree_percent": 25,
+            "total_soluble_solids_min_percent": 40,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Crush",
+            "min_fruit_juice_puree_percent": 25,
+            "total_soluble_solids_min_percent": 55,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Fruit Syrup/Fruit Sharbats",
+            "min_fruit_juice_puree_percent": 25,
+            "total_soluble_solids_min_percent": 65,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Cordial",
+            "min_fruit_juice_puree_percent": 25,
+            "total_soluble_solids_min_percent": 30,
+            "acidity_as_citric_acid_max_percent": 3.5
+          },
+          {
+            "product": "Barley Water",
+            "min_fruit_juice_puree_percent": 25,
+            "total_soluble_solids_min_percent": 30,
+            "acidity_as_citric_acid_max_percent": 2.5
+          }
+        ],
+        "notes": "Syrups/sharbats with a minimum of 10% dry fruits can be called fruit syrups."
+      },
+      "ginger_cocktail": {
+        "definition": "Product from ginger juice, oleoresin, or essence with water and sweeteners.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 30.0
+        }
+      },
+      "synthetic_syrup_for_use_in_dispensers_for_carbonated_water": {
+        "definition": "Syrup for carbonated water, blending sweeteners with water and other ingredients.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 30.0
+        }
+      },
+      "synthetic_syrup_or_sharbat": {
+        "definition": "Syrup from sugar, dextrose, or liquid glucose. May contain fruit juice.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 65
+        }
+      },
+      "murabba": {
+        "definition": "Product prepared from fruits, rhizomes, or vegetables by impregnating with sweeteners to preserve.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 65.0,
+          "fruit_contents_min_percent": 55.0
+        }
+      },
+      "candied_crystallised_and_glazed_fruit_vegetable_rhizome_fruit_peel": {
+        "definitions": {
+          "candied": "Product from fruits/vegetables impregnated with sweeteners.",
+          "crystallised": "Candied product coated with crystallized sugar.",
+          "glazed": "Candied product coated with a thin layer of heavy syrup."
+        },
+        "requirements": {
+          "total_sugar_min_percent": 70.0,
+          "reducing_sugar_to_total_sugar_min_percent": 25.0
+        }
+      },
+      "tomato_ketchup_and_tomato_sauce": {
+        "definition": "Product from tomato juice/puree/paste blended with sweeteners, salt, vinegar, spices, and condiments.",
+        "requirements": {
+          "total_soluble_solids_min_percent_salt_free_basis": 25.0,
+          "acidity_as_acetic_acid_min_percent": 1.0
+        }
+      },
+      "culinary_pastes_fruits_and_vegetable_sauces_other_than_tomato_sauce_and_soya_sauce": {
+        "definition": "Culinary preparation from edible fruits/vegetables, cooked with sweeteners, salt, spices, etc.",
+        "requirements_table": [
+          {
+            "product": "Chilli Sauce",
+            "total_soluble_solids_min_percent": 8.0,
+            "acidity_as_acetic_acid_min_percent": 1.0
+          },
+          {
+            "product": "Fruits / Vegetable Sauces",
+            "total_soluble_solids_min_percent": 15.0,
+            "acidity_as_acetic_acid_min_percent": 1.2
+          },
+          {
+            "product": "Culinary Paste/ Sauce",
+            "total_soluble_solids_min_percent": 8.0,
+            "acidity_as_acetic_acid_min_percent": 1.0
+          },
+          {
+            "product": "Ginger Paste",
+            "total_soluble_solids_min_percent": 3.0,
+            "acidity_as_acetic_acid_min_percent": 1.0
+          }
+        ]
+      },
+      "soyabean_sauce": {
+        "definition": "Product from fermented soyabean paste blended with salt and sweeteners.",
+        "requirements": {
+          "total_soluble_solids_min_percent_salt_free_basis": 25.0,
+          "acidity_as_acetic_acid_min_percent": 0.6
+        }
+      },
+      "carbonated_fruit_beverages_or_fruit_drinks": {
+        "definition": "Beverage from fruit juice and carbonated water with sugar and other ingredients.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 10.0,
+          "fruit_content_min_percent": {
+            "lime_lemon_juice": 5.0,
+            "other_fruits": 10.0
+          }
+        }
+      },
+      "jam": {
+        "definition": "Product from fruit pieces or pulp/puree boiled with sweeteners to a suitable consistency.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 65.0,
+          "fruit_content_min_percent": {
+            "general": 45.0,
+            "strawberry_raspberry": 25.0
+          }
+        }
+      },
+      "fruit_jelly": {
+        "definition": "Product from fruit juice boiled with sweeteners and concentrated to gelatinize on cooling.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 65.0,
+          "fruit_content_min_percent": 45.0
+        }
+      },
+      "fruit_cheese": {
+        "definition": "Product from fruit pulp/puree cooked with salt and sweeteners to a thick consistency that sets on cooling.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 65.0,
+          "fruit_content_min_percent": {
+            "general": 45.0,
+            "strawberry_raspberry": 25.0
+          }
+        }
+      },
+      "marmalades": {
+        "definition": "Product from fruit, peel, pulp, and juice boiled with sweeteners to gelatinize on cooling.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 65.0,
+          "fruit_content_except_peel_min_percent": 45.0,
+          "peel_in_suspension_min_percent": 5.0
+        }
+      },
+      "dehydrated_fruits": {
+        "definition": "Product from edible parts of fruits with moisture removed to preserve it.",
+        "requirements": {
+          "moisture_max_percent": 20.0
+        }
+      },
+      "dehydrated_vegetables": {
+        "definition": "Product from edible portions of vegetables with moisture removed to preserve it.",
+        "requirements_table": [
+          {
+            "name": "Green Leafy Vegetables",
+            "moisture_max_percent": 7,
+            "sulphur_dioxide_max_ppm": 2000,
+            "total_ash_max_percent": "-",
+            "ash_insoluble_in_hcl_max_percent": "-",
+            "peroxidase_test": "Negative"
+          },
+          {
+            "name": "Tubers (Arvi, Lotus Root Tapioca, Yam, Carrot, Potato)",
+            "moisture_max_percent": 7,
+            "sulphur_dioxide_max_ppm": 2000,
+            "total_ash_max_percent": "-",
+            "ash_insoluble_in_hcl_max_percent": "-",
+            "peroxidase_test": "Negative"
+          },
+          {
+            "name": "Karela",
+            "moisture_max_percent": 6,
+            "sulphur_dioxide_max_ppm": "-",
+            "total_ash_max_percent": "-",
+            "ash_insoluble_in_hcl_max_percent": "-",
+            "peroxidase_test": "Negative"
+          },
+          {
+            "name": "Cabbage",
+            "moisture_max_percent": 6,
+            "sulphur_dioxide_max_ppm": 2000,
+            "total_ash_max_percent": "-",
+            "ash_insoluble_in_hcl_max_percent": "-",
+            "peroxidase_test": "Negative"
+          },
+          {
+            "name": "Okra",
+            "moisture_max_percent": 8,
+            "sulphur_dioxide_max_ppm": 2000,
+            "total_ash_max_percent": "-",
+            "ash_insoluble_in_hcl_max_percent": "-",
+            "peroxidase_test": "Negative"
+          },
+          {
+            "name": "Other Vegetables",
+            "moisture_max_percent": 8,
+            "sulphur_dioxide_max_ppm": 2000,
+            "total_ash_max_percent": 5,
+            "ash_insoluble_in_hcl_max_percent": 0.5,
+            "peroxidase_test": "Negative"
+          },
+          {
+            "name": "Powders of onion and Garlic",
+            "moisture_max_percent": 5,
+            "sulphur_dioxide_max_ppm": "-",
+            "total_ash_max_percent": 5,
+            "ash_insoluble_in_hcl_max_percent": 0.5,
+            "peroxidase_test": "Negative"
+          },
+          {
+            "name": "Powders of other vegetables including tomatoes",
+            "moisture_max_percent": 5,
+            "sulphur_dioxide_max_ppm": 2000,
+            "total_ash_max_percent": 5,
+            "ash_insoluble_in_hcl_max_percent": 0.5,
+            "peroxidase_test": "Negative"
+          }
+        ]
+      },
+      "frozen_fruits_fruit_products": {
+        "definition": "Product from fresh, sound fruits, quick frozen to -18°C or colder."
+      },
+      "frozen_vegetables": {
+        "definition": "Product from sound, clean vegetables, quick frozen to -18°C or colder.",
+        "requirements": {
+          "peroxidase_test": "Negative"
+        }
+      },
+      "frozen_curried_vegetables_ready_to_eat_vegetables": {
+        "definition": "Product from vegetables, legumes, cereals or pulses, frozen to -18°C or colder."
+      },
+      "fruit_based_beverage_mix_powdered_fruit_based_beverage": {
+        "definition": "Powdered product for dilution, from fruit solids with sweeteners and other ingredients.",
+        "requirements": {
+          "moisture_max_percent": 5.0,
+          "fruit_juice_content_min_percent_when_reconstituted": 5.0
+        }
+      },
+      "fruits_and_vegetable_chutney": {
+        "definition": "Product from cooked fruits and/or vegetables with sweeteners, preserved by thermal processing or other means.",
+        "requirements": {
+          "total_soluble_solids_min_percent": {
+            "fruit_chutney": 50.0,
+            "vegetable_chutney": 25.0,
+            "hot_and_sour_spicy_chutney": 25.0
+          },
+          "fruits_and_vegetable_content_min_percent": 40.0,
+          "ph_max": 4.6,
+          "total_ash_max_percent": 5.0,
+          "ash_insoluble_in_hcl_max_percent": 0.5
+        }
+      },
+      "mango_chutney": {
+        "definition": "Product from cooked mangoes with sweeteners, preserved by thermal processing or other means.",
+        "requirements": {
+          "total_soluble_solids_min_percent": 50.0,
+          "fruit_content_min_percent": 40.0,
+          "ph_max": 4.6,
+          "total_ash_max_percent": 5.0,
+          "ash_insoluble_in_hcl_max_percent": 0.5
+        }
+      },
+      "pickles": {
+        "definition": "Preparation from fruits or vegetables preserved in salt, acid, sugar, or a combination.",
+        "types_and_requirements": {
+          "pickles_in_citrus_juice_or_brine": {
+            "drained_weight_min_percent": 60.0,
+            "sodium_chloride_content_in_brine_min_percent": 12.0,
+            "acidity_as_citric_acid_in_citrus_juice_min_percent": 1.2
+          },
+          "pickles_in_oil": {
+            "drained_weight_min_percent": 60.0
+          },
+          "pickles_in_vinegar": {
+            "drained_weight_min_percent": 60.0,
+            "acidity_of_vinegar_as_acetic_acid_min_percent": 2.0
+          }
+        }
+      },
+      "table_olives": {
+        "definition": "Product from sound, clean olive fruits, processed and preserved.",
+        "requirements_table": [
+          {
+            "product": "Green olives (hermetically sealed)",
+            "sodium_chloride_in_brine_min_percent": 5.0,
+            "ph_of_brine_max": 4.0
+          },
+          {
+            "product": "Green olives (non-hermetically sealed)",
+            "sodium_chloride_in_brine_min_percent": 6.0,
+            "ph_of_brine_max": 4.5
+          },
+          {
+            "product": "Green olives with natural lactic fermentation",
+            "acidity_as_lactic_acid_min_percent": 0.4
+          },
+          {
+            "product": "Seasoned green olives (hermetically sealed)",
+            "sodium_chloride_in_brine_min_percent": 4.0,
+            "ph_of_brine_max": 4.0
+          },
+          {
+            "product": "Seasoned green olives (non-hermetically sealed)",
+            "sodium_chloride_in_brine_min_percent": 6.0,
+            "ph_of_brine_max": 4.5
+          },
+          {
+            "product": "Olives turning color",
+            "sodium_chloride_in_brine_min_percent": 6.0
+          },
+          {
+            "product": "Black Olives (in brine)",
+            "sodium_chloride_in_brine_min_percent": 7.0
+          },
+          {
+            "product": "Black Olives (in dry salt)",
+            "sodium_chloride_in_brine_min_percent": 10.0
+          }
+        ],
+        "general_requirements": {
+          "damaged_matter_max_percent": 2.0,
+          "insect_damaged_units_max_percent": 2.0,
+          "foreign_matter_max": "1 unit per kg"
+        }
+      },
+      "grated_desiccated_coconut": {
+        "definition": "Product from peeled, milled, and dried coconut kernel.",
+        "requirements": {
+          "extraneous_vegetable_matter_max": "15 units/100 gm",
+          "moisture_max_percent": 3.0,
+          "total_ash_max_percent": 2.5,
+          "oil_content_min_percent": 55.0,
+          "acidity_of_extracted_fat_max_percent": 0.3,
+          "sulphur_dioxide_max_mg_kg": 50.0
+        }
+      },
+      "vinegar": {
+        "brewed_vinegar": {
+          "definition": "Product from alcoholic and acetic acid fermentation of suitable mediums. Not fortified with acetic acid.",
+          "requirements": {
+            "acidity_as_acetic_acid_min_percent_m_v": 3.75,
+            "total_solids_min_percent_m_v": 1.5,
+            "total_ash_content_min_percent": 0.18,
+            "prohibited_substances": "Sulphuric acid, other mineral acids, foreign substances, colouring matter except caramel."
+          }
+        },
+        "synthetic_vinegar": {
+          "definition": "Product from acetic acid with or without caramel and spices.",
+          "requirements": {
+            "acidity_min_percent_m_v": 3.75,
+            "prohibited_substances": "Sulphuric acid, other mineral acids, foreign substances, colouring matter except caramel."
+          },
+          "labeling": "Must be distinctly labeled as 'SYNTHETIC - PREPARED FROM ACETIC ACID'."
+        }
+      }
+    },
+    "nuts_and_raisins": {
+      "groundnut_kernel_deshelled": {
+        "definition": "Kernels from the plant arachis hypogols, for direct human consumption.",
+        "prohibited_substances": "Non-edible seeds like mahua, caster, neem or argemone, coloring matter, and preservatives.",
+        "requirements": {
+          "moisture_max_percent": 7.0,
+          "damaged_kernel_max_percent_by_weight": 5.0,
+          "aflatoxin_content_max_ppb": 30
+        }
+      },
+      "raisins": {
+        "definition": "Dried sound, clean grapes of proper maturity. May be with or without seeds and stems, and bleached with Sulphur Dioxide.",
+        "requirements": {
+          "moisture_max_percent": 15.0,
+          "damaged_raisins_max_percent": 2.0,
+          "sugared_raisins_max_percent": 15.0
+        }
+      },
+      "pistachio_nuts": {
+        "definition": "Mature seeds of Pistacia vera L with naturally or mechanically opened shells. May be raw, roasted, or salted.",
+        "requirements": {
+          "moisture_max_percent": 7.0,
+          "unopened_shells_max_percent": 2.0,
+          "empty_shells_max_percent": 1.0
+        }
+      },
+      "dates": {
+        "definition": "Dried sound, clean fruits of proper maturity from Phoenix dactylifera. May be treated with sugar, glucose syrup, flour, and vegetable oil.",
+        "requirements": {
+          "moisture_max_percent": 30.0,
+          "ash_insoluble_in_dil_hcl_max_percent": 0.1,
+          "blemished_damaged_units_max_percent": 5.0,
+          "extraneous_matter_max_percent": 1.0
+        }
+      },
+      "dry_fruits_and_nuts": {
+        "definition": "Products from dried sound, clean fruits and nuts of proper maturity.",
+        "requirements": {
+          "extraneous_vegetable_matter_max_percent": 1.0,
+          "damaged_discoloured_units_max_percent": 2.0,
+          "acidity_of_extracted_fat_as_oleic_acid_max_percent": 1.25
+        }
+      },
+      "bean": {
+        "definition": "Dry kidney shaped or flattened seeds of leguminous varieties.",
+        "requirements": {
+          "hydrocyanic_acid_max_ppm": 20
+        }
+      }
+    },
+    "cereals_and_cereal_products": {
+      "atta": {
+        "definition": "Coarse product from milling or grinding clean wheat.",
+        "requirements": {
+          "moisture_max_percent": 14.0,
+          "total_ash_max_percent_dry_basis": 2.0,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.15,
+          "gluten_min_percent_dry_basis": 6.0,
+          "alcoholic_acidity_max_percent_as_h2so4_dry_basis": 0.18,
+          "freedom_from_rodent_hair_and_excreta": "Yes"
+        }
+      },
+      "fortified_atta": {
+        "definition": "Atta with added calcium carbonate, iron, thiamine, riboflavin, and niacin.",
+        "requirements": {
+          "calcium_carbonate_content_percent_by_weight": "0.30 - 0.35"
+        }
+      },
+      "protein_rich_paushtik_atta": {
+        "definition": "Wheat atta mixed with up to 10% groundnut or soya flour or a combination.",
+        "requirements": {
+          "moisture_max_percent": 14.0,
+          "total_ash_max_percent_dry_basis": 2.75,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1,
+          "total_protein_min_percent_dry_basis": 12.5,
+          "crude_fibre_max_percent_dry_basis": 2.5,
+          "alcoholic_acidity_max_percent_as_h2so4": 0.12
+        }
+      },
+      "maida": {
+        "definition": "Fine product from milling and bolting clean wheat.",
+        "requirements": {
+          "moisture_max_percent": 14.0,
+          "total_ash_max_percent_dry_basis": 1.0,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1,
+          "gluten_min_percent_dry_basis": 7.5,
+          "alcoholic_acidity_max_percent_as_h2so4_dry_basis": 0.12
+        }
+      },
+      "fortified_maida": {
+        "definition": "Maida with added calcium carbonate, iron, thiamine, riboflavin, and niacin.",
+        "requirements": {
+          "calcium_carbonate_content_percent_by_weight": "0.30 - 0.35"
+        }
+      },
+      "protein_rich_paushtik_maida": {
+        "definition": "Maida mixed with up to 10% groundnut or soya flour or a combination.",
+        "requirements": {
+          "moisture_max_percent": 14.0,
+          "total_ash_max_percent_dry_basis": 1.4,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1,
+          "total_protein_min_percent_dry_basis": 12.5,
+          "crude_fibre_max_percent_dry_basis": 0.53,
+          "alcoholic_acidity_max_percent_as_h2so4": 0.12,
+          "gluten_min_percent_dry_basis": 7.0
+        }
+      },
+      "semolina_suji_or_rawa": {
+        "definition": "Product from grinding and bolting clean wheat.",
+        "requirements": {
+          "moisture_max_percent": 14.5,
+          "total_ash_max_percent_dry_basis": 1.0,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1,
+          "gluten_min_percent_dry_basis": 6.0,
+          "alcoholic_acidity_max_percent_as_h2so4_dry_basis": 0.18
+        }
+      },
+      "besan": {
+        "definition": "Product from grinding dehusked Bengal gram.",
+        "requirements": {
+          "total_ash_max_percent": 5.0,
+          "ash_insoluble_in_dilute_hydrochloric_acid_max_percent": 0.5
+        }
+      },
+      "pearl_barley_jau": {
+        "definition": "Product from sound and clean barley. Free from fermented, musty taste/odour, adulterants, insect/fungus infestation, and rodent contamination.",
+        "requirements": {
+          "other_foodgrains_max_percent": 1.0
+        }
+      },
+      "barley_powder": {
+        "definition": "Product from grinding clean and sound dehusked barley grains.",
+        "requirements": {
+          "barley_starches_min_percent": 98.0,
+          "total_ash_max_percent_dry_basis": 1.0,
+          "ash_insoluble_in_dilute_hydrochloric_acid_max_percent_dry_basis": 0.1,
+          "crude_fibre_max_percent_dry_basis": 0.5,
+          "alcoholic_acidity_max_percent_as_h2so4": 0.10
+        }
+      },
+      "wholemeal_barley_powder_or_barley_flour_or_choker_yukt_jau_ka_churan": {
+        "definition": "Product from grinding clean and sound dehusked barley grains.",
+        "requirements": {
+          "moisture_max_percent": 14.0,
+          "total_ash_max_percent_dry_basis": 3.0,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.5,
+          "alcoholic_acidity_max_percent_as_h2so4_dry_basis": 0.17
+        }
+      },
+      "food_grains_general_standards": {
+        "definition": "Whole or broken kernels of cereals, millets and pulses.",
+        "prohibited_substances": "Argemone, Maxicana and Kesari in any form, added colouring matter, insecticide residues beyond specified limits."
+      },
+      "food_grains_specific_standards": [
+        {
+          "grain": "Wheat",
+          "moisture_max_percent": 14.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 6.0,
+          "damaged_grains_max_percent": 6.0,
+          "weevilled_grains_max_percent": 10.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30,
+          "deoxynivalenol_don_max_ug_kg": 1000
+        },
+        {
+          "grain": "Maize",
+          "moisture_max_percent": 16.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 3.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 10.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Jawar and Bajra",
+          "moisture_max_percent": 16.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 3.0,
+          "damaged_grains_max_percent": 6.0,
+          "weevilled_grains_max_percent": 6.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Rice",
+          "moisture_max_percent": 16.0,
+          "foreign_matter_max_percent": 1.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 10.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Masur Whole",
+          "moisture_max_percent": 14.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 3.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 6.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Urd Whole",
+          "moisture_max_percent": 14.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 4.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 6.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Moong Whole",
+          "moisture_max_percent": 14.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 4.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 6.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Chana Whole",
+          "moisture_max_percent": 16.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 4.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 10.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Split Pulse (Dal) Arhar",
+          "moisture_max_percent": 14.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 0.5,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 3.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Split Pulse (Dal) Moong",
+          "moisture_max_percent": 14.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 4.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 3.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Split Pulse (Dal) Urd",
+          "moisture_max_percent": 14.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 4.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 3.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Dal Chana",
+          "moisture_max_percent": 16.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 2.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 3.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Split Pulse Masur",
+          "moisture_max_percent": 14.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 2.0,
+          "damaged_grains_max_percent": 5.0,
+          "weevilled_grains_max_percent": 3.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        },
+        {
+          "grain": "Any other foodgrains not specified above",
+          "moisture_max_percent": 16.0,
+          "foreign_matter_max_percent": 1.0,
+          "other_edible_grains_max_percent": 6.0,
+          "weevilled_grains_max_percent": 10.0,
+          "damaged_grains_max_percent": 5.0,
+          "uric_acid_max_mg_kg": 100,
+          "aflatoxin_max_ug_kg": 30
+        }
+      ],
+      "cornflour_maize_starch": {
+        "definition": "Starch obtained from maize (zea mays L.).",
+        "requirements": {
+          "moisture_max_percent": 12.5,
+          "total_ash_max_percent_dry_basis": 0.5,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1,
+          "alcoholic_acidity_max_ml_n_naoh_per_100g": 2.0
+        }
+      },
+      "corn_flakes": {
+        "definition": "Product from dehulled, degermed and cooked corn by flaking and toasting.",
+        "requirements": {
+          "moisture_max_percent": 7.5,
+          "total_ash_excluding_salt_max_percent_dry_basis": 1.0,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1,
+          "alcoholic_acidity_max_ml_n_naoh_per_100g": 2.0
+        }
+      },
+      "custard_powder": {
+        "definition": "Product from maize or sago/topioca with other starches and ingredients.",
+        "requirements": {
+          "moisture_max_percent": 12.5,
+          "total_ash_excluding_salt_max_percent_dry_basis": 0.5,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1
+        }
+      },
+      "macaroni_products": {
+        "definition": "Products like macaroni, spaghetti, vermicelli from suji or maida with other ingredients.",
+        "requirements": {
+          "moisture_max_percent": 12.5,
+          "total_ash_max_percent_dry_basis": 1.0,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1,
+          "nitrogen_min_percent_dry_basis": 1.7
+        }
+      },
+      "malted_and_malt_based_foods": {
+        "malted_milk_food": {
+          "definition": "Product from mixing milk or milk powder with wort from malted cereals and wheat flour, prepared in a powder or granule form.",
+          "requirements_table": [
+            {
+              "product_type": "without cocoa powder",
+              "moisture_max_percent": 5,
+              "total_protein_min_percent_dry_basis": 12.5,
+              "total_fat_min_percent_dry_basis": 7.5,
+              "total_ash_max_percent_dry_basis": 5,
+              "acid_insoluble_ash_max_percent_dry_basis": 0.1,
+              "solubility_min_percent": 85,
+              "test_for_starch": "Negative",
+              "bacterial_count_max_per_gram": 50000,
+              "coliform_count_max_per_gram": 10
+            },
+            {
+              "product_type": "with cocoa powder",
+              "moisture_max_percent": 5,
+              "total_protein_min_percent_dry_basis": 11.25,
+              "total_fat_min_percent_dry_basis": 6,
+              "total_ash_max_percent_dry_basis": 5,
+              "acid_insoluble_ash_max_percent_dry_basis": 0.1,
+              "solubility_min_percent": 80,
+              "cocoa_powder_min_percent_dry_basis": 5.0,
+              "test_for_starch": "—",
+              "bacterial_count_max_per_gram": 50000,
+              "coliform_count_max_per_gram": 10
+            }
+          ],
+          "microbiological_requirements": "Yeast and mould, Salmonella and Shigella, E.Coli, Vibrio cholera and V.Paraheamolyticus, Faecal streptococci and Staphylococcus aureas are all to be absent in specified quantities."
+        },
+        "malt_based_foods_malt_food": {
+          "definition": "Product from mixing malt with other cereal and legume flour, with or without milk or other ingredients.",
+          "requirements": {
+            "moisture_max_percent": 5,
+            "total_protein_min_percent_dry_basis": 7.0,
+            "total_ash_max_percent_dry_basis": 5,
+            "acid_insoluble_ash_max_percent_dry_basis": 0.1,
+            "total_plate_count_max_per_gram": 50000,
+            "coliform_count_max_per_gram": 10,
+            "yeast_and_mould_count_max_per_gram": 100,
+            "e_coli": "Absent in 10 gram",
+            "salmonella_and_shigella": "Absent in 25 gram",
+            "alcoholic_acidity_max_percent_as_h2so4": 0.30,
+            "vibrio_cholera_and_v_paraheamolyticus": "Absent in 0.1 gm",
+            "faecal_streptococci_and_staphylococcus_aureas": "Absent in 0.1 gm"
+          }
+        }
+      },
+      "rolled_oats": {
+        "definition": "Product from sound hulled oats, in the form of crisp flakes.",
+        "requirements": {
+          "moisture_max_percent": 10.0,
+          "total_ash_max_percent_dry_basis": 2.0,
+          "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.1,
+          "nitrogen_min_percent_dry_basis": 1.8,
+          "crude_fibre_max_percent_dry_basis": 2.0,
+          "alcoholic_acidity_max_ml_n_naoh_per_100g": 8.0
+        }
+      },
+      "solvent_extracted_flours": {
+        "solvent_extract_soya_flour": {
+          "definition": "Product from clean soyabeans, cracked, dehulled, solvent extracted with food grade hexane and ground.",
+          "requirements": {
+            "moisture_max_percent": 9.0,
+            "total_ash_max_percent_dry_basis": 7.2,
+            "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.4,
+            "protein_min_percent_dry_basis": 48,
+            "crude_fibre_max_percent_dry_basis": 4.2,
+            "fat_max_percent_dry_basis": 1.5,
+            "total_bacterial_count_max_per_gm": 50000,
+            "coliform_bacteria_max_per_gm": 10,
+            "salmonella_bacteria": "Nil in 25 gm",
+            "hexane_food_grade_max_ppm": 10.00
+          }
+        },
+        "solvent_extracted_groundnut_flour": {
+          "definition": "Product from fresh, clean, degermed groundnut kernels, extracted with food grade hexane.",
+          "requirements": {
+            "moisture_max_percent": 8.0,
+            "total_ash_max_percent_dry_basis": 5.0,
+            "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.38,
+            "protein_min_percent_dry_basis": 48,
+            "crude_fibre_max_percent_dry_basis": 5.0,
+            "fat_max_percent_dry_basis": 1.5,
+            "total_bacterial_count_max_per_gm": 50000,
+            "coliform_bacteria_max_per_gm": 10,
+            "salmonella_bacteria": "Nil in 25 gm",
+            "hexane_food_grade_max_ppm": 10.00
+          }
+        },
+        "solvent_extracted_sesame_flour": {
+          "definition": "Product from pressed, clean sesame seeds, solvent extracted with food grade hexane.",
+          "requirements": {
+            "moisture_max_percent": 9.0,
+            "total_ash_max_percent_dry_basis": 6.0,
+            "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.15,
+            "protein_min_percent_dry_basis": 47,
+            "crude_fibre_max_percent_dry_basis": 6.0,
+            "fat_max_percent_dry_basis": 1.5,
+            "total_bacterial_count_max_per_gm": 50000,
+            "coliform_bacteria_max_per_gm": 10,
+            "salmonella_bacteria": "Nil in 25 gm",
+            "oxalic_acid_content_max_percent_dry_basis": 0.5,
+            "hexane_food_grade_max_ppm": 10.00
+          }
+        },
+        "solvent_extracted_coconut_flour": {
+          "definition": "Product from fresh coconut kernels or dried copra, extracted with food grade hexane.",
+          "requirements": {
+            "moisture_max_percent": 9.0,
+            "total_ash_max_percent_dry_basis": 6.0,
+            "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.35,
+            "protein_min_percent_dry_basis": 22.0,
+            "crude_fibre_max_percent_dry_basis": 9.0,
+            "fat_max_percent_dry_basis": 1.5,
+            "total_bacterial_count_max_per_gm": 50000,
+            "coliform_bacteria_max_per_gm": 10,
+            "salmonella_bacteria": "Nil in 25 gm",
+            "hexane_food_grade_max_ppm": 10.00
+          }
+        },
+        "solvent_extracted_cotton_seed_flour": {
+          "definition": "Product from solvent extraction of oil from oil cake from cotton seed.",
+          "requirements": {
+            "moisture_max_percent": 8.0,
+            "total_ash_max_percent_dry_basis": 5.0,
+            "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": 0.35,
+            "crude_protein_min_percent_dry_basis": 47,
+            "available_lysine_min_g_per_100g_of_crude_protein": 3.6,
+            "crude_fibre_max_percent_dry_basis": 5.0,
+            "free_gossypol_max_percent_dry_basis": 0.06,
+            "total_gossypol_max_percent_dry_basis": 1.2,
+            "fat_max_percent_dry_basis": 1.5,
+            "total_bacterial_count_max_per_gm": 50000,
+            "coliform_bacteria_max_per_gm": 10,
+            "salmonella_bacteria": "Nil in 25 gm",
+            "hexane_food_grade_max_ppm": 10.00
+          }
+        }
+      },
+      "starchy_foods": {
+        "arrowroot": "Separated and purified starch from the rhizomes of Maranta arundinacea or Curcuma augustifolia.",
+        "sago": {
+          "definition": "Small hard globules or pearls from the starch of the sago palm or tapioca tubers.",
+          "requirements": {
+            "total_ash_max_percent_dry_basis": 0.4,
+            "ash_insoluble_in_dilute_hydrochloric_acid_max_percent_dry_basis": 0.1
+          }
+        }
+      },
+      "bakery_products": {
+        "biscuits_including_wafer_biscuits": {
+          "definition": "Made from maida, vanaspati or other fats/oils, with various ingredients.",
+          "requirements": {
+            "ash_insoluble_in_dilute_hydrochloric_acid_max_percent_dry_basis": 0.1,
+            "acidity_of_extracted_fat_as_oleic_acid_max_percent": 1.5,
+            "oligofructose_max_percent": 15
+          }
+        },
+        "bread": {
+          "definition": "Product from a mixture of wheat atta, maida, water, salt, yeast, and other ingredients.",
+          "requirements": {
+            "alcoholic_acidity_max_ml_n_naoh_per_100g": 7.5,
+            "ash_insoluble_in_dilute_hcl_max_percent_dry_basis": {
+              "except_masala_or_fruit_bread": 0.1,
+              "masala_or_fruit_bread": 0.2
+            },
+            "oligofructose_max_percent": 15
+          }
+        }
+      }
+    },
+    "meat_and_meat_products": {
+      "definitions": {
+        "animal": "Ovines, Caprines, Suillines, Bovines, poultry, and fish.",
+        "carcass": "Dead body or any part of an animal slaughtered for human consumption.",
+        "meat": "Flesh and other edible parts of a carcass.",
+        "meat_food_products": "Articles of food from meat, prepared by drying, curing, smoking, cooking, etc., with specific exclusions.",
+        "slaughter_house": "Licensed building for the slaughter of animals for human consumption."
+      },
+      "canned_corned_beef": {
+        "definition": "Product from boneless meat of bovine animals, uniformly cured and heat treated.",
+        "ingredients": "Edible common salt, sodium/potassium nitrite. May contain ascorbic acid/isoascorbate acid and their sodium salts (max 500 mg/kg), nutritive sweeteners.",
+        "microbiological_requirements": {
+          "total_plate_count_max_per_gram": 1000,
+          "e_coli": "Absent in 25 gram",
+          "solmonella": "Absent in 25 gram",
+          "staphylococcus_aureus": "Absent in 25 gram",
+          "clostridium_perfringens_and_clostridium_botulinum": "Absent in 25 gram"
+        }
+      },
+      "canned_luncheon_meat": {
+        "definition": "Product from edible meat of mammalian animals or poultry, uniformly cured and heat treated.",
+        "ingredients": "Edible common salt, sodium/potassium nitrite. May be with or without binders, spices, seasonings, flavor enhancers, ascorbic acid/isoascorbic acid (max 500 mg/kg), and sodium/potassium mono-di-polyphosphates (max 3000 mg/kg)."
+      },
+      "canned_cooked_ham": {
+        "definition": "Product from meat of pigs, free from bones, cartilage, tendons, and ligaments. Uniformly cured and heat treated.",
+        "ingredients": "Edible common salt, sodium/potassium nitrite. May contain sweeteners, spices, gelatin, flavor enhancers, ascorbic acid/isoascorbic acid (max 500 mg/kg), sodium/potassium mono-di-polyphosphates (max 3000 mg/kg), and other emulsifying/stabilizing agents."
+      },
+      "canned_chopped_meat": {
+        "definition": "Product from edible meat of mammalian animals or poultry, uniformly cured and heat treated.",
+        "ingredients": "Edible common salt, sodium/potassium nitrite. May be with or without binders, spices, seasonings, flavor enhancers, ascorbic acid/isoascorbic acid (max 500 mg/kg), and sodium/potassium mono-di-polyphosphates (max 3000 mg/kg)."
+      },
+      "canned_chicken": {
+        "definition": "Product from edible meat of poultry, free from bones, blood clots, skin, etc. Cured with salt and sodium nitrite.",
+        "requirements": "Free from added color, flavor, and meat tenderizer. Heat treated to be shelf stable."
+      },
+      "canned_mutton_and_goat_meat": {
+        "definition": "Product from edible meat of sheep and goat, free from bones, blood clots, skin, etc. Cured with salt and sodium nitrate/nitrite.",
+        "requirements": "Free from added color, flavor, and meat tenderizer. Heat treated to be shelf stable."
+      },
+      "frozen_mutton_chicken_goat_and_buffalo_meat": {
+        "definition": "Product from edible meat of specified animals, quickly frozen to -18°C or colder.",
+        "microbiological_requirements": {
+          "total_plate_count_max_per_gram": 100000,
+          "e_coli_max_per_gram": 100,
+          "staphylococcus_aureus_max_per_gram": 100,
+          "clostridium_perfringens_and_clostridium_botulinum_max_per_gram": 30,
+          "yeast_and_mould_count_max_per_gram": 1000,
+          "salmonella": "Absent in 25 gram",
+          "listeria_monocytogenes": "Absent in 25 gram"
+        }
+      }
+    },
+    "fish_and_fish_products": {
+      "frozen_shrimps_or_prawns": {
+        "definition": "Product from fresh shrimps of sound quality, frozen to -18°C or colder. May be peeled, unpeeled, raw or cooked.",
+        "requirements": {
+          "total_volatile_base_nitrogen_max_mg_100g_raw": 30
+        }
+      },
+      "frozen_lobsters": {
+        "definition": "Product from fresh lobsters of sound quality, frozen to -18°C or colder. May be raw or cooked.",
+        "requirements": {
+          "total_volatile_base_nitrogen_max_mg_100g_raw": 30
+        }
+      },
+      "frozen_squid_and_parts_of_squid": {
+        "definition": "Product from fresh squid of sound quality, frozen to -18°C or colder.",
+        "requirements": {
+          "total_volatile_base_nitrogen_max_mg_100g": 30
+        },
+        "additives": "No food additive allowed."
+      },
+      "frozen_finfish": {
+        "definition": "Product from fresh fish of good quality, frozen to -18°C or colder.",
+        "requirements": {
+          "total_volatile_base_nitrogen_max_mg_100g": 30,
+          "histamine_max_mg_100g": 20
+        }
+      },
+      "frozen_fish_fillets_or_minced_fish_flesh": {
+        "definition": "Products from fresh wholesome fish, frozen to -18°C or colder.",
+        "requirements": {
+          "total_volatile_base_nitrogen_max_mg_100g": 30,
+          "histamine_max_mg_100g": 20
+        }
+      },
+      "dried_shark_fins": {
+        "definition": "Product from fins of fresh shark, dried.",
+        "requirements": {
+          "moisture_max_percent": 10.0,
+          "ash_insoluble_in_hcl_on_dry_basis_max_percent": 1.0,
+          "yeast_and_mould_count": "Absent in 25gm"
+        },
+        "additives": "No food additive allowed."
+      },
+      "salted_fish_dried_salted_fish": {
+        "definition": "Product from fresh wholesome fish, saturated with salt and dried.",
+        "requirements": {
+          "moisture_max_percent": 16.0,
+          "sodium_chloride_percent": "10.0-15.0",
+          "ash_insoluble_in_hcl_on_dry_basis_max_percent": 1.0,
+          "yeast_and_mould_count": "Absent in 25gm"
+        }
+      },
+      "canned_finfish": {
+        "definition": "Product from flesh of fresh finfish, packed and heat treated for commercial sterility.",
+        "requirements": {
+          "histamine_content_max_mg_100g": 20,
+          "total_volatile_base_nitrogen_max_mg_100g": 30
+        }
+      },
+      "canned_shrimp": {
+        "definition": "Product from fresh shrimp with head, shell, and antenna removed, packed and heat treated.",
+        "requirements": {
+          "total_volatile_base_nitrogen_max_mg_100g": 30,
+          "acidity_in_brine_as_citric_acid_max_percent": 0.2
+        }
+      },
+      "canned_sardines_or_sardine_type_products": {
+        "definition": "Product from fresh or frozen fish of specific species, packed and heat treated.",
+        "requirements": {
+          "histamine_content_max_mg_100g": 20,
+          "total_volatile_base_nitrogen_max_mg_100g": 30
+        }
+      },
+      "canned_salmon": {
+        "definition": "Product from fresh fish of specific species, packed and heat treated.",
+        "requirements": {
+          "total_volatile_base_nitrogen_max_mg_100g_raw": 30
+        },
+        "additives": "No food additive allowed."
+      },
+      "canned_crab_meat": {
+        "definition": "Product from live crabs, packed and heat treated.",
+        "requirements": {
+          "total_volatile_base_nitrogen_max_mg_100g": 30,
+          "acidity_in_brine_as_citric_acid_percent": "0.06-0.2"
+        }
+      },
+      "canned_tuna_and_bonito": {
+        "definition": "Product from fresh fish of specific species, packed and heat treated.",
+        "requirements": {
+          "histamine_content_max_mg_100g": 20,
+          "total_volatile_base_nitrogen_max_mg_100g": 30
+        }
+      }
+    },
+    "sweets_and_confectionery": {
+      "sugar_boiled_confectionery": {
+        "definition": "Processed food from boiled sugar with or without doctoring agents. May have center filling or coating.",
+        "ingredients": "Sugar, invert sugar, jaggery, milk, edible molasses, starches, fats, nuts, cocoa, vitamins, etc.",
+        "requirements": {
+          "ash_sulphated_max_percent_salt_free": {
+            "general": 2.5,
+            "with_spice_center_filling": 3.0
+          },
+          "ash_insoluble_in_dilute_hcl_max_percent": {
+            "general": 0.2,
+            "with_spice_center_filling": 0.4
+          },
+          "milk_toffee_additional_requirements": {
+            "total_protein_min_percent_dry_basis": 3.0,
+            "fat_content_min_percent_dry_basis": 4.0
+          },
+          "butter_toffee_additional_requirements": {
+            "fat_content_min_percent_dry_basis": 4.0
+          }
+        }
+      },
+      "lozenges": {
+        "definition": "Confections from pulverized sugar with binding materials, made by cold mixing.",
+        "requirements": {
+          "sucrose_min_percent": 85.0,
+          "ash_sulphated_max_percent_salt_free_basis": 3.0,
+          "ash_insoluble_in_dilute_hcl_max_percent": 0.2
+        }
+      },
+      "chewing_gum_and_bubble_gum": {
+        "definition": "Prepared from gum base, sugar, and liquid glucose.",
+        "requirements_table": [
+          {
+            "product_type": "Chewing gum",
+            "gum_min_percent": 12.5,
+            "moisture_max_percent": 3.5,
+            "sulphated_ash_max_percent": 9.5,
+            "acid_insoluble_ash_max_percent": 2.0,
+            "reducing_sugars_min_percent": 4.5,
+            "sucrose_max_percent": 70.0
+          },
+          {
+            "product_type": "Bubble gum",
+            "gum_min_percent": 14.0,
+            "moisture_max_percent": 3.5,
+            "sulphated_ash_max_percent": 11.5,
+            "acid_insoluble_ash_max_percent": 3.5,
+            "reducing_sugars_min_percent": 5.5,
+            "sucrose_max_percent": 60.0
+          }
+        ]
+      },
+      "chocolate": {
+        "definition": "Homogeneous product from cocoa beans, cocoa nib, etc., with or without sugar, milk solids, and cocoa butter. No vegetable fat other than cocoa butter.",
+        "types": [
+          "Milk chocolates",
+          "Milk Covering Chocolate",
+          "Plain Chocolate",
+          "Plain Covering Chocolate",
+          "Blended Chocolate",
+          "White chocolate",
+          "Filled Chocolates",
+          "Composite Chocolate"
+        ],
+        "requirements_table": [
+          {
+            "characteristic": "Total fat (on dry basis)",
+            "unit": "per cent by weight, Not less than",
+            "milk_chocolate": 25,
+            "milk_covering_chocolate": 25,
+            "plain_chocolate": 25,
+            "plain_covering_chocolate": 25,
+            "white_chocolate": 25,
+            "blended_chocolate": 25
+          },
+          {
+            "characteristic": "Milk fat (on dry basis)",
+            "unit": "per cent by weight, Not less than",
+            "milk_chocolate": 2,
+            "milk_covering_chocolate": 2,
+            "plain_chocolate": "-",
+            "plain_covering_chocolate": "-",
+            "white_chocolate": 2,
+            "blended_chocolate": "—"
+          },
+          {
+            "characteristic": "Cocoa solids",
+            "unit": "(on Moisture-free and fat free basis) percent by weight Not less than",
+            "milk_chocolate": 2.5,
+            "milk_covering_chocolate": 2.5,
+            "plain_chocolate": 12,
+            "plain_covering_chocolate": 12,
+            "white_chocolate": "-",
+            "blended_chocolate": 3.0
+          },
+          {
+            "characteristic": "Milk Solids",
+            "unit": "(on Moisture-free and fat-free basis) percent by weight. Not less than",
+            "milk_chocolate": 10.5,
+            "milk_covering_chocolate": 10.5,
+            "plain_chocolate": "-",
+            "plain_covering_chocolate": "-",
+            "white_chocolate": 10.5,
+            "blended_chocolate": 1
+          },
+          {
+            "characteristic": "Acid insoluble ash",
+            "unit": "(on moisture fat and sugar free basis) percent by weight. Not more than",
+            "milk_chocolate": 0.2,
+            "milk_covering_chocolate": 0.2,
+            "plain_chocolate": 0.2,
+            "plain_covering_chocolate": 0.2,
+            "white_chocolate": 0.2,
+            "blended_chocolate": 0.2
+          }
+        ]
+      },
+      "ice_lollies_or_edible_ices": {
+        "definition": "Frozen ice product containing sugar, syrup, fruit, etc. No artificial sweetener.",
+        "requirements": {
+          "stabilizers_emulsifiers_max_percent": 0.5
+        }
+      },
+      "ice_candy": {
+        "definition": "Product from freezing a pasteurized mix of water, sweeteners, fruits, and other ingredients.",
+        "requirements": {
+          "total_sugars_as_sucrose_min_percent": 10.0
+        }
+      }
+    },
+    "sweetening_agents_including_honey": {
+      "sugar": {
+        "plantation_white_sugar": {
+          "definition": "Crystallised product from sugarcane or sugar beet.",
+          "requirements": {
+            "moisture_max_percent": 0.5,
+            "sucrose_min_percent": 98
+          }
+        },
+        "refined_sugar": {
+          "definition": "White crystallised sugar from refining plantation white sugar.",
+          "requirements": {
+            "moisture_max_percent": 0.5,
+            "sucrose_min_percent": 99.5
+          }
+        },
+        "khandsari_sugar": {
+          "definition": "Obtained from sugarcane juice by open pan process. Two varieties: Desi and Sulphur Sugar.",
+          "requirements_table": [
+            {
+              "product": "Khandsari Sugar (Sulphur Sugar)",
+              "moisture_max_percent": 1.5,
+              "ash_insoluble_in_dilute_hcl_max_percent": 0.5,
+              "sucrose_min_percent": 96.5
+            },
+            {
+              "product": "Khandsari Sugar (Desi)",
+              "moisture_max_percent": 1.5,
+              "ash_insoluble_in_dilute_hcl_max_percent": 0.7,
+              "sucrose_min_percent": 93.0
+            }
+          ]
+        },
+        "bura_sugar": {
+          "definition": "Fine grain size product from any kind of sugar.",
+          "requirements": {
+            "sucrose_min_percent": 90.0,
+            "ash_insoluble_in_dilute_hydrochloric_acid_max_percent": 0.7
+          }
+        },
+        "cube_sugar": {
+          "definition": "Sugar in the form of cubes from refined crystallised sugar.",
+          "requirements": {
+            "sucrose_min_percent": 99.7,
+            "moisture_max_percent": 0.25,
+            "total_ash_max_percent": 0.03
+          }
+        },
+        "icing_sugar": {
+          "definition": "Sugar manufactured by pulverizing refined sugar or vacuum pan sugar with or without edible starch.",
+          "requirements": {
+            "total_starch_and_sucrose_min_percent_moisture_free": 99.0,
+            "moisture_max_percent": 0.80,
+            "starch_max_percent_dry_basis": 4.0
+          }
+        }
+      },
+      "misri": {
+        "definition": "Product in candy form from sugar or palmyrah juice.",
+        "requirements": {
+          "total_ash_max_percent": 0.4,
+          "total_sugar_as_sucrose_min_percent": 98.0
+        }
+      },
+      "honey": {
+        "definition": "Natural sweet substance produced by honey bees from nectar or plant secretions.",
+        "requirements": {
+          "specific_gravity_at_27c_min": 1.35,
+          "moisture_max_percent": 25.0,
+          "total_reducing_sugars_min_percent": {
+            "general": 65.0,
+            "carbia_colossa_and_honey_dew": 60.0
+          },
+          "sucrose_max_percent": {
+            "general": 5.0,
+            "carbia_colossa_and_honey_dew": 10.0
+          },
+          "fructose_glucose_ratio_min_percent": 0.95,
+          "ash_max_percent": 0.5,
+          "acidity_as_formic_acid_max_percent": 0.2,
+          "fiehe's_test": "Negative",
+          "hydroxy_methyl_furfural_hmf_max_mg_kg": 80
+        }
+      },
+      "gur_or_jaggery": {
+        "definition": "Product from boiling or processing sugarcane or palm juice.",
+        "requirements": {
+          "total_sugars_as_invert_sugar_min_percent": 90,
+          "sucrose_min_percent": 60,
+          "extraneous_matter_insoluble_in_water_max_percent": 2,
+          "total_ash_max_percent": 6,
+          "ash_insoluble_in_hydrochloric_acid_max_percent": 0.5,
+          "moisture_max_percent": 10
+        }
+      },
+      "dextrose": {
+        "definition": "White or light cream granular powder.",
+        "requirements": {
+          "sulphated_ash_max_percent_dry_basis": 0.1,
+          "acidity": "Not more than 0.20 ml of N/10 sodium hydroxide to neutralize 0.5 gm.",
+          "glucose_min_percent_dry_basis": 99.0
+        }
+      },
+      "golden_syrup": {
+        "definition": "Syrup from inversion of sugar.",
+        "requirements": {
+          "moisture_max_percent": 25.0,
+          "total_ash_max_percent": 2.5,
+          "total_sugar_as_invert_sugar_min_percent": 72.0
+        }
+      },
+      "dried_glucose_syrup": {
+        "definition": "White to creamish white powder, sweet to taste.",
+        "requirements": {
+          "total_solid_contents_min_percent": 93.0,
+          "reducing_sugar_content_min_percent": 20.0,
+          "sulfated_ash_max_percent": 1.0
+        }
+      },
+      "saccharin_sodium": {
+        "definition": "Commonly known as soluble Saccharin, with empirical formula C7 H4 NNaO3S.2H2O.",
+        "requirements": {
+          "purity_range_percent": "98.0-100.5",
+          "arsenic_max_ppm": 2,
+          "lead_max_ppm": 10,
+          "melting_point_c": "226-230",
+          "loss_on_drying_at_105c_percent": "12.0-16.0"
+        }
+      },
+      "aspartyl_phenylalanine_methyl_ester_aspertame": {
+        "definition": "Commonly known as Aspertame, with empirical formula C14 H18 N2 O5.",
+        "requirements": {
+          "purity_range_percent_dried_basis": "98-102",
+          "arsenic_max_ppm": 3,
+          "lead_max_ppm": 10,
+          "loss_on_drying_at_105c_max_percent": 4.3,
+          "sulphate_ash_max_percent": 0.2,
+          "diketo_piperazine_max_percent": 1
+        }
+      }
+    }
+  }
+}

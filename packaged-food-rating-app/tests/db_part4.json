@@ -1,0 +1,862 @@
+{
+  "food_additives": {
+    "food_colours": {
+      "tartrazine": {
+        "common_name": "Tartrazine",
+        "synonyms": [
+          "FD and C Yellow No.5",
+          "E.E.C. Serial No.E 102",
+          "L-Gebb 2",
+          "C.I. Food Yellow 4"
+        ],
+        "color_of_0.1_percent_solution": "Yellow",
+        "colour_index_number_1975": "No 19140",
+        "class": "Monoazo",
+        "chemical_name": "Trisodium salt of 5-hydroxy-1-p- sulphopheny1-4-(p- sulphophenylazo) pyrazol-3-carboxylic acid.",
+        "empirical_formula": "C16H9N4O9S2Na3",
+        "molecular_weight": 534.37,
+        "solubility": "Soluble in water. Sparingly soluble in Ethanol.",
+        "general_requirements": {
+          "total_dye_content_min_percent": 87,
+          "loss_on_drying_at_135c_and_chlorides_and_sulphates_max_percent": 13,
+          "water_insoluble_matter_max_percent": 0.2,
+          "combined_ether_extracts_max_percent": 0.2,
+          "subsidiary_dyes_max_percent": 1.0,
+          "dye_intermediates_max_percent": 0.5,
+          "lead_max_mg_kg": 10,
+          "arsenic_max_mg_kg": 3,
+          "heavy_metals_max_mg_kg": 40,
+          "prohibited_substances": "mercury, copper and chromium, aromatic amines, aromatic nitro compounds, aromatic hydrocarbons, and cyanides"
+        }
+      },
+      "sunset_yellow_fcf": {
+        "common_name": "Sunset Yellow",
+        "synonyms": [
+          "FD and C Yellow No.6",
+          "Janus Orange S",
+          "C.l. Food Yelow 3",
+          "Orange 2",
+          "Janune soil",
+          "EEC Serial No.E.10"
+        ],
+        "color_of_0.1_percent_solution": "Orange",
+        "colour_index_number_1975": "No 15985",
+        "class": "Monoazo",
+        "chemical_name": "Disodium salt of 1.(4-sulphophenylazo) 2-napthol-6- sulphonic acid",
+        "empirical_formula": "C20H6O5I4Na2",
+        "molecular_weight": 452.37,
+        "solubility": "Soluble in water. Sparingly soluble in Ethanol",
+        "general_requirements": {
+          "total_dye_content_min_percent": 87,
+          "loss_on_drying_at_135c_and_chlorides_and_sulphates_max_percent": 13,
+          "water_insoluble_matter_max_percent": 0.2,
+          "combined_ether_extracts_max_percent": 0.2,
+          "subsidiary_dyes_max_percent": 3.0,
+          "dye_intermediates_max_percent": 0.5,
+          "lead_max_mg_kg": 10,
+          "arsenic_max_mg_kg": 3,
+          "heavy_metals_max_mg_kg": 40,
+          "prohibited_substances": "mercury, copper and chromium, aromatic amines, aromatic nitro compounds, aromatic hydrocarbons, and cyanides"
+        }
+      },
+      "erythrosine": {
+        "common_name": "Erythrosine",
+        "synonyms": [
+          "FD and C Red No.3",
+          "C.l. Food Red 14",
+          "LB-Rot-I"
+        ],
+        "color_of_0.1_percent_solution": "Red",
+        "colour_index_number_1975": "No 45430",
+        "class": "Xanthene",
+        "chemical_name": "Disodium or dipotassium salt of 2',4', 5', 7', tetraiodo- fluerescein",
+        "empirical_formula": "C20H6O5I4Na2.H2O",
+        "molecular_weight": "879.87 (Disodium Salt)",
+        "solubility": "Soluble in water. Sparingly soluble in Ethanol",
+        "general_requirements": {
+          "total_dye_content_min_percent": 87,
+          "loss_on_drying_at_135c_and_chlorides_and_sulphates_max_percent": 13,
+          "water_insoluble_matter_max_percent": 0.2,
+          "ether_extractable_matter_alkaline_max_percent": 0.2,
+          "inorganic_iodide_as_sodium_iodide_max_percent": 0.1,
+          "subsidiary_colouring_matters_except_flourescein_max_percent": 4,
+          "fluorescein_max_mg_kg": 20,
+          "organic_compounds_other_than_colouring_matter_max_percent": 0.2,
+          "tri_iodoresorcinol_max_percent": 0.2,
+          "2_2_4_dihydroxy_3_5_di_iodobenzoyl_benzoic_acid_max_percent": 0.2,
+          "lead_max_mg_kg": 10,
+          "arsenic_max_mg_kg": 3,
+          "zinc_max_mg_kg": 50,
+          "heavy_metals_max_mg_kg": 40,
+          "prohibited_substances": "mercury, copper and chromium, aromatic amines, aromatic nitro compounds, aromatic hydrocarbons, and cyanides"
+        }
+      },
+      "indigo_carmine": {
+        "common_name": "Indigo carmine",
+        "synonyms": [
+          "Indigotine",
+          "FD and C Blue No.2",
+          "Cl Food Blue 1",
+          "EEC Serial No. E132 L-Blue 2"
+        ],
+        "color_of_0.1_percent_solution": "Blue",
+        "colour_index_number_1975": "No 73015",
+        "class": "Indigoid",
+        "chemical_name": "Disodium Salt of indigotine-5, 5'-Disulphonic acid",
+        "empirical_formula": "C16H8N2O8S2Na2",
+        "molecular_weight": 466.36,
+        "solubility": "Soluble in water. Sparingly soluble in Ethanol",
+        "general_requirements": {
+          "total_dye_content_min_percent": 85,
+          "loss_on_drying_at_135c_and_chlorides_and_sulphates_max_percent": 15,
+          "water_insoluble_matter_max_percent": 0.2,
+          "combined_ether_extracts_max_percent": 0.2,
+          "subsidiary_dyes_max_percent": 1.0,
+          "isatin_sulphonic_acid_max_percent": 0.5,
+          "lead_max_mg_kg": 10,
+          "arsenic_max_mg_kg": 3,
+          "heavy_metals_max_mg_kg": 40,
+          "prohibited_substances": "mercury, copper and chromium, aromatic amines, aromatic nitro compounds, aromatic hydrocarbons, and cyanides"
+        }
+      },
+      "beta_carotene": {
+        "synonyms": "C.I. natural yellow 26",
+        "colour_index_number_1956": "No.75130",
+        "class": "Carotenoids",
+        "chemical_name": "all trans β-Carotene",
+        "empirical_formula": "C40H56",
+        "molecular_weight": 536.89,
+        "melting_point": "183oC ± 1oC",
+        "solubility": "Soluble in carbon disulphide, benzene and chloroform, moderately soluble in normal hexane, cyclohexane, ether, petroleum ether and oils; practically insoluble in methanol ; insoluble in water.",
+        "purity_min_percent": 96.0,
+        "metallic_impurities": {
+          "arsenic_as_as_max_ppm": 3,
+          "lead_as_pb_max_ppm": 10,
+          "heavy_metal_max_ppm": 40
+        },
+        "additional_requirements": {
+          "subsidiary_colouring_matter_max_percent": 3,
+          "sulphated_ash_max_percent_of_total_colouring_matters": 0.1
+        }
+      },
+      "chlorophyll": {
+        "synonyms": "C.I. Natural Green 3; Lebensmittel Green No.1",
+        "colour_index_number_1956": "No.75810",
+        "colour_index_number_1924": "No. 12499",
+        "color": "Green",
+        "class": "Phorbin (dihydrophorphin)",
+        "chemical_name": "Chlorophyll a - magnesium complex of 1,3,5,8-tetramethyl 4-ethyl- 2-vinyl-9-keto-10 carbomethoxy phorbinphytyl-7-propionate. Chlorophyll b magnesium complex 1,5,8 trimethyl-3-formyl-4-ethyl- 2- vinyl-9-keto-10 carbomethoxyphorbinphytyl-7-propionate",
+        "empirical_formula": "Chlorophyll a - C55H72O5N4Mg; Chlorophyll b- C55H70O6N4Mg",
+        "molecular_weight": "Chlorophyll a- 893.54; Chlorophyll b- 907.52",
+        "general_requirements": "Intensely dark green, aqueous, ethanolic, or oily solution of chlorophyll degradation products. Soluble in ethanol, ether, chloroform and benzene. Insoluble in water.",
+        "metallic_impurities": {
+          "arsenic_as_as_max_ppm": 3,
+          "lead_as_pb_max_ppm": 10,
+          "copper_as_cu_max_ppm": 30,
+          "zinc_as_zn_max_ppm": 50
+        },
+        "additional_requirements": {
+          "total_combined_phaeophytines_and_their_magnesium_complexes_max_percent": 10,
+          "residual_solvents_max_mg_kg": {
+            "acetone_methanol_ethanol_propan_2_ol_hexane": 50,
+            "dichloromethane": 10
+          }
+        }
+      },
+      "caramel": {
+        "definition": "Prepared from food grade carbohydrates in the presence of food grade acids, alkalis or salts.",
+        "types": [
+          "Type-I- Plain Caramel (No ammonium or sulphite compounds)",
+          "Type-II-Caustic sulphite caramel (Sulphite compounds used)",
+          "Type - III - Ammonia Process Caramel (Ammonium compounds used)",
+          "Type-IV- Ammonia Sulphite Caramel (Both sulphite and ammonium compounds used)"
+        ],
+        "raw_materials": {
+          "carbohydrates": [
+            "Sucrose",
+            "glucose",
+            "fructose",
+            "invert sugar",
+            "lactose",
+            "malt syrup",
+            "molasses",
+            "starch hydrolysates"
+          ],
+          "acids_and_alkalis": [
+            "sulphuric acid",
+            "phosphoric acid",
+            "acetic acid",
+            "citric acid",
+            "sodium",
+            "potassium or calcium hydroxide"
+          ],
+          "ammonium_compounds": [
+            "Ammonium hydroxide",
+            "Ammonium Carbonate and Bicarbonate",
+            "Ammonium phosphate",
+            "Ammonium sulphate",
+            "Ammonium sulphite, Bisulphite, Metasulphite"
+          ],
+          "sulphite_compounds": [
+            "Sulphurous acid",
+            "Potassium, Sodium or ammonium Sulphite or Bisulphite"
+          ]
+        },
+        "routine_test_requirements": [
+          {
+            "characteristic": "Solid content, per cent by mass",
+            "type_i_plain": "62-77",
+            "type_ii_caustic_sulphite": "65-72",
+            "type_iii_ammonia_process": "53-83",
+            "type_iv_ammonia_sulphite": "40-75"
+          },
+          {
+            "characteristic": "Colour intensity",
+            "type_i_plain": "0.01-0.12",
+            "type_ii_caustic_sulphite": "0.06-0.10",
+            "type_iii_ammonia_process": "0.08-0.36",
+            "type_iv_ammonia_sulphite": "0.10-0.60"
+          },
+          {
+            "characteristic": "Ammonical nitrogen per cent by mass, max.",
+            "type_i_plain": 0.01,
+            "type_ii_caustic_sulphite": 0.01,
+            "type_iii_ammonia_process": 0.4,
+            "type_iv_ammonia_sulphite": 0.5
+          },
+          {
+            "characteristic": "4-Methylimidazole",
+            "type_i_plain": "-",
+            "type_ii_caustic_sulphite": "-",
+            "type_iii_ammonia_process": "Max.300 mg/kg & Max.200 mg/kg on equivalent colour basis",
+            "type_iv_ammonia_sulphite": "Max.1000 mg/kg & Max.250 mg/kg on equivalent colour basis"
+          },
+          {
+            "characteristic": "Lead (as Pb), mg/kg, Max.",
+            "type_i_plain": 5,
+            "type_ii_caustic_sulphite": 5,
+            "type_iii_ammonia_process": 5,
+            "type_iv_ammonia_sulphite": 5
+          },
+          {
+            "characteristic": "Arsenic(as AS) mg/kg.",
+            "type_i_plain": 3,
+            "type_ii_caustic_sulphite": 3,
+            "type_iii_ammonia_process": 3,
+            "type_iv_ammonia_sulphite": 3
+          }
+        ],
+        "type_test_requirements": [
+          {
+            "characteristic": "Total sulphur Per cent by mass",
+            "type_i_plain": "Max.03",
+            "type_ii_caustic_sulphite": "1.3-2.5",
+            "type_iii_ammonia_process": "Max.0.3",
+            "type_iv_ammonia_sulphite": "1.4-10.0"
+          },
+          {
+            "characteristic": "Sulphur dioxide (as SO2)",
+            "type_i_plain": "--",
+            "type_ii_caustic_sulphite": "Max. 0.2%",
+            "type_iii_ammonia_process": "--",
+            "type_iv_ammonia_sulphite": "Max.0.5%"
+          },
+          {
+            "characteristic": "Total nitrogen, Per cent by mass",
+            "type_i_plain": "Max.0.1",
+            "type_ii_caustic_sulphite": "Max.0.2",
+            "type_iii_ammonia_process": "1.3-6.8",
+            "type_iv_ammonia_sulphite": "0.5-7.5"
+          },
+          {
+            "characteristic": "Heavy metals mg/kg (Max.)",
+            "type_i_plain": 25,
+            "type_ii_caustic_sulphite": 25,
+            "type_iii_ammonia_process": 25,
+            "type_iv_ammonia_sulphite": 25
+          },
+          {
+            "characteristic": "2-Acetyl-4- tetra hydroxy butylimidazole (THI)",
+            "type_i_plain": "--",
+            "type_ii_caustic_sulphite": "--",
+            "type_iii_ammonia_process": "Max.40 mg/kg & Max. 25 mg/kg on an equivalent colour basis",
+            "type_iv_ammonia_sulphite": "-—"
+          },
+          {
+            "characteristic": "Mercury (as Hg) mg/kg, Max.",
+            "type_i_plain": 0.1,
+            "type_ii_caustic_sulphite": 0.1,
+            "type_iii_ammonia_process": 0.1,
+            "type_iv_ammonia_sulphite": 0.1
+          },
+          {
+            "characteristic": "Copper (as Cu) mg/kg, Max.",
+            "type_i_plain": 20,
+            "type_ii_caustic_sulphite": 20,
+            "type_iii_ammonia_process": 20,
+            "type_iv_ammonia_sulphite": 20
+          }
+        ]
+      },
+      "annatto": {
+        "class": "Carotenoids",
+        "code_number": "Cl (1975) No. 75120', Cl (1975) Natural Orange 4 EEC No.E-160 b",
+        "chemical_formula": "Bixin C25H30O4 Norbixin C24H28O4",
+        "molecular_weight": "Bixin 394.50 Norbixin 380.48",
+        "types": [
+          "Solution in oil for use in butter and other food products",
+          "Solution in water for use in cheese and other food products"
+        ],
+        "source": "Derived only from the plant Bixa orellana L.",
+        "requirements_table": [
+          {
+            "characteristic": "Carotenoid",
+            "annatto_extract_in_oil_as_bixin_min_percent": 0.24,
+            "water_soluble_annatto_as_norbixin_min_percent": 0.24
+          },
+          {
+            "characteristic": "Arsenic, mg/kg, Max.",
+            "annatto_extract_in_oil_as_bixin_min_percent": 3,
+            "water_soluble_annatto_as_norbixin_min_percent": 3
+          },
+          {
+            "characteristic": "Lead, mg/kg, Max.",
+            "annatto_extract_in_oil_as_bixin_min_percent": 10,
+            "water_soluble_annatto_as_norbixin_min_percent": 10
+          },
+          {
+            "characteristic": "Copper, mg/kg, Max.",
+            "annatto_extract_in_oil_as_bixin_min_percent": 30,
+            "water_soluble_annatto_as_norbixin_min_percent": 30
+          },
+          {
+            "characteristic": "Heavy metal, mg/kg, Max.",
+            "annatto_extract_in_oil_as_bixin_min_percent": 40,
+            "water_soluble_annatto_as_norbixin_min_percent": 40
+          }
+        ]
+      },
+      "riboflavin": {
+        "synonyms": [
+          "Vitamin B2",
+          "Lactoflavin",
+          "Lactroflavine"
+        ],
+        "color": "Yellow to orange-yellow",
+        "class": "Isoalloxazine",
+        "chemical_name": "6.7-dimethyl-9-(d-1-ribityl)- isoalloxazine",
+        "empirical_formula": "C17H20N4O6",
+        "molecular_weight": 376.38,
+        "solubility": "Slightly soluble in water, more soluble in saline solution and in a 10 per cent (w/v) solution of urea, sparingly soluble in alcohol, practically insoluble in chloroform and in solvent ether and soluble in dilute solution of alkali hydroxides.",
+        "purity_min_percent": 97.0,
+        "metallic_impurities": {
+          "arsenic_as_as_max_ppm": 5,
+          "lead_as_pb_max_ppm": 20
+        }
+      },
+      "ponceau_4r": {
+        "common_name": "Ponceau 4R",
+        "synonyms": [
+          "Cl Food Red 7",
+          "L-Rot No.4",
+          "Coccine Nouvelle",
+          "Cochineal Red A",
+          "EEC Serial No.E 124"
+        ],
+        "color_of_0.1_percent_solution": "Red",
+        "colour_index_number_1975": "No. 16255",
+        "class": "Monoazo",
+        "chemical_name": "Trisodium salt of 1-(4-sulpho-1-naphtylazo) naphthol-6, 8- disulphonic acid",
+        "empirical_formula": "C20H11N2O10S3Na2",
+        "molecular_weight": 604.5,
+        "solubility": "Soluble in water. Sparingly soluble in Ethanol",
+        "general_requirements": {
+          "total_dye_content_min_percent": 85,
+          "loss_on_drying_at_135c_and_chlorides_and_sulphates_max_percent": 18,
+          "water_insoluble_matter_max_percent": 0.2,
+          "combined_ether_extracts_max_percent": 0.2,
+          "subsidiary_dyes_max_percent": 1.0,
+          "dye_intermediates_max_percent": 0.5,
+          "lead_max_mg_kg": 10,
+          "arsenic_max_mg_kg": 3,
+          "heavy_metals_max_mg_kg": 40,
+          "prohibited_substances": "mercury, selenium and chromium, aromatic amines, aromatic nitro compounds, aromatic hydrocarbons, and cyanides"
+        }
+      },
+      "carmoisine": {
+        "common_name": "Carmoisine",
+        "synonyms": [
+          "Azorubine",
+          "C.I. Food Red 3",
+          "EEC. Serial No.E 122"
+        ],
+        "color_of_0.1_percent_solution": "Red",
+        "colour_index_number_1956": "No.14720",
+        "class": "Monoazo",
+        "chemical_name": "Disodium salt of 2-(4-sulpho-1-naphthylazo)-1-hydroxy- naphthalene-4-sulphonic acid",
+        "empirical_formula": "C20H12N2O7S2Na2",
+        "molecular_weight": 502.44,
+        "general_requirements": {
+          "total_dye_content_min_percent": 87,
+          "loss_on_drying_at_135c_and_chlorides_and_sulphates_max_percent": 13,
+          "water_insoluble_matter_max_percent": 0.2,
+          "combined_ether_extracts_max_percent": 0.2,
+          "subsidiary_dyes_max_percent": 1.0,
+          "dye_intermediates_max_percent": 0.5,
+          "lead_max_mg_kg": 10,
+          "arsenic_max_mg_kg": 3,
+          "heavy_metals_max_mg_kg": 40,
+          "prohibited_substances": "mercury, selenium and chromium, aromatic amines, aromatic nitro compounds, aromatic hydrocarbons and cyanides"
+        }
+      },
+      "synthetic_food_colour_preparation_and_mixtures": {
+        "colour_preparation": {
+          "definition": "A preparation containing one or more of the permitted synthetic food colours alongwith diluents and/or filler materials.",
+          "permitted_diluents_and_fillers": [
+            "Potable water",
+            "Edible common salt",
+            "Sugar",
+            "Dextrose Monohydrate",
+            "Liquid glucose",
+            "Sodium sulphate",
+            "Tartaric acid",
+            "Glycerine",
+            "Propylene glycol",
+            "Acetic acid",
+            "Sorbitol",
+            "Citric acid",
+            "Sodium carbonate and sodium hydrogen carbonate",
+            "Lactose",
+            "Ammonium, sodium and potassium alginates",
+            "Dextrins",
+            "Ethyl acetate",
+            "Starches",
+            "Diethyl ether",
+            "Ethanol",
+            "Glycerol mono, di and tri acetate",
+            "Edible oils and fats",
+            "Isopropyl alcohol",
+            "Bees wax",
+            "Sodium and ammonium hydroxide",
+            "Lactic acid",
+            "Carragenan and gum arabic",
+            "Gelatin",
+            "Pectin"
+          ]
+        },
+        "colour_mixtures": {
+          "definition": "A mixture of two or more permitted synthetic food colours without diluents and filler material."
+        },
+        "general_requirements_for_preparations_and_mixtures": {
+          "total_synthetic_dye_content_declaration": "Must be declared on the label with specified tolerance limits.",
+          "limits_for_impurities": {
+            "water_insoluble_matter_max_percent": 1.0,
+            "lead_as_pb_max_mg_kg": 10,
+            "arsenic_as_as_max_mg_kg": 3.0,
+            "heavy_metals_max_mg_kg": 40,
+            "prohibited_substances": "mercury, copper and chromium, aromatic amines, aromatic nitro compounds, aromatic hydrocarbons, polycyclic aromatic hydrocarbon, 2-naphthyl aminobenzidine, amino-4-diphenyl (xenylamine) or their derivatives and cyanides"
+          }
+        }
+      },
+      "brilliant_blue_fcf": {
+        "common_name": "Brilliant Blue FCF",
+        "synonyms": [
+          "C.l. Food Blue FD and C Blue No.1",
+          "Blue brilliant FCF"
+        ],
+        "color": "Blue",
+        "colour_index_number_1975": "No.42900",
+        "class": "Triarymethane",
+        "chemical_name": "Disodium salt of alpha 4-(N- ethylbeta sulfobenzylamino)- phenyl] alpha [4-(N-ethyl-3-Sulfonatobenzylimino]cyclohexa- 2, 5-dienylidene] toluene-2-sulfonate",
+        "empirical_formula": "C17H14N2Ha2O9S2",
+        "molecular_weight": 792.86,
+        "general_requirements": {
+          "total_dye_content_min_percent": 85,
+          "loss_on_drying_at_135c_and_chlorides_and_sulphates_max_percent": 15,
+          "water_insoluble_matter_max_percent": 0.2,
+          "combined_ether_extracts_max_percent": 0.2,
+          "subsidiary_dyes_max_percent": 3,
+          "dye_intermediates_max_percent": {
+            "o_sulpho_benzaldehyde": 1.5,
+            "n_n_ethyl_benzyl_aniline_3_sulphonic_acid": 0.3,
+            "leuco_base": 5
+          },
+          "heavy_metals_as_pb_max_mg_kg": 40,
+          "lead_max_mg_kg": 10,
+          "arsenic_max_mg_kg": 3,
+          "chromium_max_mg_kg": 50,
+          "prohibited_substances": "aromatic amines, aromatic nitro compounds, aromatic hydrocarbons and cyanides"
+        }
+      },
+      "fast_green_fcf": {
+        "common_name": "Fast Green FCF",
+        "synonyms": [
+          "C.l. Food Green 3",
+          "FD and C Green No.3",
+          "Vert Solide FCF"
+        ],
+        "class": "Triary methane",
+        "color": "Green",
+        "colour_index_number_1975": "No.42053",
+        "chemical_name": "Disodium salt of 4-[4-(N-ethyl-p-sulfobenzylamino)-phenyl- (4-hydroxy-2-sulphonumphenyl)-methylene]-(N-ethyl-N-p- sulphobenzyl 2, 5-cyclohexadienimine).",
+        "empirical_formula": "C37H34O10N2S2Na2",
+        "molecular_weight": 808.86,
+        "requirements": {
+          "total_dye_content_min_percent": 85,
+          "loss_on_drying_at_135c_and_chlorides_and_sulphates_max_percent": 13,
+          "water_insoluble_matter_max_percent": 0.2,
+          "combined_ether_extracts_max_percent": 0.2,
+          "subsidiary_dyes_max_percent": 1.0,
+          "organic_compound_other_than_colouring_matter_etc": {
+            "sum_of_2_3_4_formyl_benzene_sulphonic_acid_sodium_salts_max_percent": 0.5,
+            "sum_of_3_and_4_ethyl_4_sulfophenyl_amino_methyl_benzene_sulphonic_acid_disodium_salts_max_percent": 0.3,
+            "2_formyl_5_hydroxybenzene_sulphonic_acid_sodium_salt_max_percent": 0.5,
+            "leuco_base_max_percent": 5.0,
+            "unsulphonated_primary_aromatic_amines_as_aniline_max_percent": 0.01
+          },
+          "lead_max_mg_kg": 10,
+          "arsenic_max_mg_kg": 3,
+          "chromium_max_mg_kg": 50,
+          "mercury_max_mg_kg": "Absent",
+          "heavy_metals_max_mg_kg": 40,
+          "prohibited_substances": "aromatic nitro compounds, aromatic hydrocarbons and cyanides"
+        }
+      },
+      "aluminium_lake_of_sunset_yellow_fcf": {
+        "chemical_name": "Sunset Yellow FCF Aluminium Lake -6, hydroxy-5 (4-sulfophenlyazo)-2 Naphthalenesulphonic acid, Aluminium Lake.",
+        "synonyms": [
+          "CI Pigment Yellow, 104",
+          "FD and C Yellow No. 6, Aluminium Lake (USA)",
+          "Food Yellow No. 5 Aluminium Lake (Japan)"
+        ],
+        "sunset_yellow_dye_specifications": "Conforms to table 2 of these Regulations.",
+        "requirements": {
+          "pure_dye_content_min_percent": 17,
+          "substratum_of_aluminium_oxide_max_percent": 83,
+          "aluminium_content_in_the_lake_max_percent": 44,
+          "sodium_chlorides_and_sulphates_as_sodium_salts_max_percent": 2.0,
+          "inorganic_matter_hcl_insoluble_max_percent": 0.5,
+          "lead_as_pb_max_ppm": 10,
+          "arsenic_as_as_max_ppm": 3
+        },
+        "alumina_used_in_colour": {
+          "identity": "White, odourless, tasteless, amorphous powder consisting essentially of Aluminium hydroxide.",
+          "specifications": {
+            "acidity_or_alkalinity": "Neutral to litmus paper",
+            "lead_as_pb_max_ppm": 10,
+            "arsenic_as_as_max_ppm": 1,
+            "mercury_as_hg_max_ppm": 1,
+            "aluminium_oxide_al2o3_min_percent": 50
+          }
+        }
+      }
+    },
+    "appendix_a_list_of_food_additives": {
+      "table_1_for_bread_and_biscuits": {
+        "acidity_regulators": [
+          {
+            "name": "Sodium fumarate",
+            "bread": "GMP",
+            "biscuits": "GMP"
+          },
+          {
+            "name": "Potassium malate",
+            "bread": "GMP",
+            "biscuits": "GMP"
+          },
+          {
+            "name": "Sodium hydroxide",
+            "bread": "GMP",
+            "biscuits": "GMP"
+          },
+          {
+            "name": "Acetic acid or Lactic acid",
+            "bread": "2500 ppm max",
+            "biscuits": "GMP"
+          },
+          {
+            "name": "Citric acid",
+            "bread": "-",
+            "biscuits": "GMP"
+          },
+          {
+            "name": "Malic acid",
+            "bread": "-",
+            "biscuits": "GMP"
+          },
+          {
+            "name": "Tartaric acid",
+            "bread": "-",
+            "biscuits": "GMP"
+          }
+        ],
+        "emulsifying_and_stabilizing_agents": [
+          {
+            "name": "Sucroglycerides",
+            "biscuits": "1000 ppm max"
+          },
+          {
+            "name": "Di- Acetyl tartaric acid esters of mono and di- glycerides",
+            "bread": "GMP",
+            "biscuits": "10000 ppm max"
+          },
+          {
+            "name": "Guar gum",
+            "bread": "5000 ppm max"
+          }
+        ],
+        "improvers": [
+          {
+            "name": "Fungal alpha amylase",
+            "bread": "100 ppm max"
+          },
+          {
+            "name": "Ammonium persulphate",
+            "bread": "2500 ppm max"
+          },
+          {
+            "name": "Potassium bromate and/or Potassium iodate",
+            "bread": "50 ppm max"
+          }
+        ],
+        "flour_treatment_agents": [
+          {
+            "name": "Ammonium chloride",
+            "bread": "500 ppm max"
+          },
+          {
+            "name": "L- cystein mono hydrochloride",
+            "bread": "90 ppm max"
+          }
+        ],
+        "antioxidants": [
+          {
+            "name": "Ascorbic acid",
+            "bread": "GMP",
+            "biscuits": "GMP"
+          }
+        ],
+        "preservatives_mould_inhibitors": [
+          {
+            "name": "Calcium or sodium propionate",
+            "bread": "5000 ppm max"
+          },
+          {
+            "name": "Sorbic acid or its salts",
+            "biscuits": "1000 ppm max"
+          }
+        ],
+        "colours_synthetic": [
+          {
+            "name": "Ponceau 4R",
+            "biscuits": "100 ppm max"
+          },
+          {
+            "name": "Carmoisine",
+            "biscuits": "100 ppm max"
+          }
+        ],
+        "artificial_sweeteners_singly": [
+          {
+            "name": "Aspartame",
+            "bread": "2200 ppm max",
+            "biscuits": "2200 ppm max"
+          },
+          {
+            "name": "Acesulphame K",
+            "bread": "1000 ppm max",
+            "biscuits": "1000 ppm max"
+          }
+        ]
+      },
+      "table_2_for_foods": {
+        "antioxidants": [
+          {
+            "name": "Butylated hydroxy anisole (BHA)",
+            "snacks_savouries": "200 ppm max",
+            "sweets": "200 ppm max",
+            "chewing_gum_bubble_gum": "250 ppm max"
+          },
+          {
+            "name": "Tertiary butyl hydro quinone (TBHQ)",
+            "snacks_savouries": "200 ppm max",
+            "sweets": "200 ppm max"
+          }
+        ],
+        "emulsifier_stabiliser": [
+          {
+            "name": "Gellan gum",
+            "sugar_based_confectionery": "2% max"
+          }
+        ],
+        "preservatives": [
+          {
+            "name": "Sorbic acid and its salts",
+            "sweets": "1000 ppm max",
+            "istant_mixes": "0.5% max",
+            "rice_and_pulses_based_papads": "0.1% max"
+          }
+        ],
+        "artificial_sweeteners_singly": [
+          {
+            "name": "Aspertame",
+            "sweets": "200 ppm max",
+            "chewing_gum_bubble_gum": "10000 ppm max"
+          },
+          {
+            "name": "Acesulphame K",
+            "sweets": "500 ppm max",
+            "chewing_gum_bubble_gum": "5000 ppm max"
+          },
+          {
+            "name": "Saccharin Sodium",
+            "sweets": "500 ppm max",
+            "chewing_gum_bubble_gum": "3000 ppm max"
+          },
+          {
+            "name": "Sucralose",
+            "sweets": "750 ppm max",
+            "lozenges": "1500 ppm max"
+          }
+        ],
+        "polyols": [
+          {
+            "name": "Sorbitol",
+            "sweets": "GMP",
+            "chewing_gum_bubble_gum": "GMP",
+            "sugar_based_confectionery": "GMP",
+            "chocolates": "GMP"
+          }
+        ]
+      },
+      "table_3_for_unspecified_foods": {
+        "colours": {
+          "powdered_soft_drink_concentrate_mix": "Titanium Dioxide (100 ppm max), Ponceau 4R, carmoisine, Erythrosine, Tartrazine, Sunset Yellow FCF, Indigo Carmine, Brilliant Blue FCF, fast green FCF (100 ppm maximum)",
+          "custard_powder_jelly_crystal_icecandy": "Ponceau 4R/ carmoisine/ Erythrosine/ Tartrazine/ Sunset Yellow FCF/ Indigo Carmine/ Brilliant Blue FCF/ fast green FCF (100 ppm maximum)"
+        },
+        "preservatives": {
+          "sausages_and_sausage_meat": "Sulphur dixoide (450 ppm max)",
+          "flour_confectionery": "Sorbic Acid (1500 ppm maximum)",
+          "paneer": "Nisin (12.5 ppm maximum)",
+          "fat_spread": "Sorbic acid (1000 ppm max) or Benzoic Acid (1000 ppm max) or both"
+        },
+        "emulsifiers_stabilisers": {
+          "dairy_based_drinks": "Carageenan, Pectin, Mono diglycerides of fatty acids, lecithin, sodium alginate and calcium alginate, Xantham Gum, Microcrystalline cellulose, Guar Gum (all GMP)",
+          "flavour_emulsion_flavour_paste": "Edible Gums (Arabic and Gum ghatti), glycerols esters of wood resins (ester gum) (all GMP)"
+        }
+      },
+      "table_4_for_edible_oils_and_fats": {
+        "antioxidants": [
+          {
+            "name": "Propyl gallate, ethyl gallate, Octyl gallate, Dodecyl gallate",
+            "tallow": "100 ppm max",
+            "lard": "100 ppm max",
+            "edible_vegetable_oils_and_fats": "100 ppm max",
+            "table_margarine_bakery_and_industrial_margarine_fat_spread": "200 ppm max"
+          },
+          {
+            "name": "Butylated Hydroxy Anisole (BHA)",
+            "tallow": "200 ppm max",
+            "lard": "200 ppm max",
+            "edible_vegetable_oils_and_fats": "200 ppm max",
+            "table_margarine_bakery_and_industrial_margarine_fat_spread": "200 ppm max"
+          }
+        ],
+        "antifoaming_agents": [
+          {
+            "name": "Dimethyl polysiloxane",
+            "tallow": "10 ppm max",
+            "lard": "10 ppm max",
+            "edible_vegetable_oils_and_fats": "10 ppm max"
+          }
+        ],
+        "emulsifying_agents": [
+          {
+            "name": "Mono and di glycerides of fatty acids",
+            "table_margarine_bakery_and_industrial_margarine_fat_spread": "GMP"
+          }
+        ],
+        "preservatives": [
+          {
+            "name": "Sorbic acid",
+            "table_margarine_bakery_and_industrial_margarine_fat_spread": "1000 mg/kg max"
+          }
+        ],
+        "natural_colours": [
+          {
+            "name": "Beta carotene",
+            "table_margarine_bakery_and_industrial_margarine_fat_spread": "25 mg/kg max"
+          },
+          {
+            "name": "Annatto extracts",
+            "table_margarine_bakery_and_industrial_margarine_fat_spread": "20 mg/kg max"
+          }
+        ]
+      },
+      "table_5_for_fish_and_fish_products": {
+        "antioxidants": [
+          {
+            "name": "Ascorbic Acid",
+            "frozen_shrimps": "GMP",
+            "canned_finfish": "GMP"
+          }
+        ],
+        "acidifying_agents": [
+          {
+            "name": "Citric acid",
+            "frozen_shrimps": "GMP",
+            "canned_finfish": "GMP",
+            "canned_shrimps": "GMP",
+            "canned_sardines": "GMP",
+            "canned_tuna_and_bonito": "GMP",
+            "canned_crab_meat": "GMP"
+          }
+        ],
+        "moisture_retention_agents": [
+          {
+            "name": "Potassium Polyphosphate expressed as P2O5",
+            "frozen_shrimps": "10 gms/kg maximum",
+            "frozen_lobsters": "10 gms/kg maximum"
+          }
+        ],
+        "preservatives": [
+          {
+            "name": "Potassium bisulphate expressed as sulphur dioxide",
+            "frozen_shrimps": "100mg/kg maximum raw edible"
+          },
+          {
+            "name": "Sodium sorbate expressed as sorbic acid",
+            "salted_fish": "200 mg/kg maximum"
+          }
+        ],
+        "colours": [
+          {
+            "name": "Ponceau 4 R",
+            "canned_shrimps": "30 mg/kg maximum cooked mass"
+          },
+          {
+            "name": "Sunset Yellow",
+            "canned_shrimps": "30 mg/kg maximum"
+          }
+        ],
+        "thickening_agents": [
+          {
+            "name": "Pectin",
+            "canned_finfish": "2.5 gm/kg maximum"
+          },
+          {
+            "name": "Tragacanth Gum",
+            "canned_sardines": "20 gm/kg maximum",
+            "canned_tuna_and_bonito": "20 gm/kg maximum"
+          }
+        ],
+        "sequestering_agents": [
+          {
+            "name": "Calcium Disodium EDTA",
+            "canned_shrimps": "250 mg/kg maximum"
+          }
+        ]
+      }
+    }
+  }
+}

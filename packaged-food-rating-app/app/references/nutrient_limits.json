@@ -1,0 +1,74 @@
+{
+  "energy-kcal_100g": {
+    "max": 500,
+    "penalty": 15,
+    "unit": "kcal",
+    "note": "Very high energy density food (WHO, FSSAI)"
+  },
+  "sugars_100g": {
+    "max": 15,
+    "penalty": 20,
+    "unit": "g",
+    "note": "Free sugars should be <10% of total energy intake (WHO). <5% is ideal."
+  },
+  "fat_100g": {
+    "max": 17.5,
+    "penalty": 10,
+    "unit": "g",
+    "note": "Total fat >35% energy is not recommended (USDA, WHO)."
+  },
+  "saturated-fat_100g": {
+    "max": 5,
+    "penalty": 15,
+    "unit": "g",
+    "note": "WHO recommends <10% of calories from saturated fat."
+  },
+  "trans-fat_100g": {
+    "max": 1,
+    "penalty": 25,
+    "unit": "g",
+    "note": "WHO: eliminate industrial trans fats, <1% of energy intake."
+  },
+  "salt_100g": {
+    "max": 1.5,
+    "penalty": 15,
+    "unit": "g",
+    "note": "FSSAI: adults should consume <5 g/day salt (~2 g sodium)."
+  },
+  "sodium_100g": {
+    "max": 600,
+    "penalty": 15,
+    "unit": "mg",
+    "note": "Equivalent to ~1.5 g salt per 100 g."
+  },
+  "proteins_100g": {
+    "min": 5,
+    "bonus": 5,
+    "unit": "g",
+    "note": "Higher protein contributes to satiety and muscle maintenance."
+  },
+  "fiber_100g": {
+    "min": 3,
+    "bonus": 5,
+    "unit": "g",
+    "note": "WHO/USDA: 25–30 g/day dietary fiber recommended."
+  },
+  "vitamin-c_100g": {
+    "min": 6,
+    "bonus": 5,
+    "unit": "mg",
+    "note": "Encourage Vitamin C intake for immunity & antioxidant benefits."
+  },
+  "calcium_100g": {
+    "min": 100,
+    "bonus": 5,
+    "unit": "mg",
+    "note": "Dairy & fortified foods should provide calcium (RDA ~1000 mg/day)."
+  },
+  "iron_100g": {
+    "min": 1.5,
+    "bonus": 5,
+    "unit": "mg",
+    "note": "Iron fortification recommended to prevent anemia."
+  }
+}

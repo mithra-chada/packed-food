@@ -1,0 +1,2539 @@
+{
+  "ministry": "Ministry of Health and Family Welfare",
+  "authority": "Food Safety and Standards Authority of India (FSSAI)",
+  "notification": {
+    "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011",
+    "date": "1st August, 2011",
+    "f_no": "F.No. 2-15015/30/2010",
+    "publication_details": {
+      "gazette_reference": "Gazette of India Extraordinary Part III – Sec. 4 dated 20th October 2010",
+      "public_availability_date": "21st October 2010"
+    },
+    "enactment": {
+      "regulations_effective_date": "5th August, 2011",
+      "exceptions": "Regulations 2.1.7.(1)(2)(3)(4), 2.1.8 (1)(3), 2.1.11 (1)(2), 2.1.12(1), including table 14 of Appendix A and table 2 of Appendix B, shall come into force after six months from that date.",
+      "compliance_provisions": "Food Business Operators with existing licenses must comply within six months of the regulations' commencement."
+    }
+  },
+  "chapter_1_general": {
+    "title_and_commencement": {
+      "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011",
+      "commencement_date": "5th August, 2011"
+    },
+    "definitions": {
+      "BOILED MILK": "Milk which has been brought to boil.",
+      "De-oiled meal": "The residual material left over when oil is extracted by a solvent from any oil-bearing material.",
+      "DOUBLE TONED MILK": "Product prepared by admixture of cow or buffalo milk or both with fresh skimmed milk, or by admixture of cow or buffalo milk or both that has been standardised to specific fat and solids-not-fat percentages. It shall be pasteurised and show a negative Phosphatase Test.",
+      "Hydrogenation": "The process of addition of hydrogen to an edible vegetable oil using a catalyst to produce a fat with semi-solid consistency.",
+      "Flavoured Milk": "May contain nuts, chocolate, coffee, edible flavour, edible food colours and cane sugar. Must be pasteurised, sterilised or boiled. Type of milk must be mentioned on the label.",
+      "Full Cream Milk": "Milk or a combination of buffalo or cow milk or both, standardised to specific fat and solids-not-fat percentages. It shall be pasteurised and show a negative phosphatase test.",
+      "Irradiation": "Any physical procedure involving the intentional exposure of food to ionizing radiations.",
+      "Irradiation facility": "Any facility which is capable of being utilized for treatment of food by irradiation.",
+      "Irradiated food": "Articles of food subjected to radiation by Gamma Rays, X-rays, or Sub-atomic particles to dose levels specified in Schedule I of the Atomic Energy (Control of Irradiation of Food) Rules 1991.",
+      "MILK": "The normal mammary secretion derived from complete milking of healthy milch animal without either addition thereto or extraction therefrom. It shall be free from colostrum and urea content shall not be more than 700 ppm.",
+      "MIXED MILK": "A combination of milk of cow, buffalo, sheep, goat or any other milch animal, conforming to specified standards.",
+      "MILK PRODUCTS": "Products obtained from milk such as cream, curd, cheese, ice-cream, etc. Shall not contain any substance not found in milk unless specified.",
+      "Margarine": "An emulsion of edible oils and fats with water.",
+      "Operator of irradiation facility": "Any person appointed by a licensee who satisfies the qualifications and requirements specified in Schedule II of the Atomic Energy (Control of Irradiation of Food) Rules, 1991.",
+      "PASTEURISATION": "Process of heating milk to at least 63°C for 30 minutes or 71.5°C for 15 seconds, or an approved time-temperature combination to give a negative Phosphatase Test. Pasteurized milk must be cooled to 10°C or less.",
+      "RECOMBINED MILK": "Homogenised product prepared from milk fat, non-fat-milk solids and water. Shall be pasteurised and show a negative Phosphatase test.",
+      "Refined vegetable oil": "Any vegetable oil obtained by expression or solvent extraction and refined using specified methods.",
+      "Refining": "Process of deacidifying an expressed or solvent-extracted vegetable oil followed by bleaching and deodorizing.",
+      "SKIMMED MILK": "The product prepared from milk from which almost all the milk fat has been removed mechanically.",
+      "STERILISATION": "Heating milk in sealed containers to 115°C for 15 minutes or 130°C for at least one second and then packed under aseptic conditions.",
+      "STANDARDISED MILK": "Cow or buffalo or sheep or goat milk or a combination thereof standardised to specified fat and solids-not-fat percentages. Shall be pasteurised and show a negative Phosphatase Test.",
+      "Solvent-extracted oil": "Any vegetable oil obtained from oil-bearing material by the process of extraction by a solvent.",
+      "Solvent-extracted edible flour": "The ground material obtained from specially prepared deoiled meal.",
+      "TONED MILK": "Product prepared by admixture of cow or buffalo milk or both with fresh skimmed milk, standardised to specified fat and solids-not-fat percentages. Shall be pasteurised and show a negative Phosphatase Test.",
+      "Vegetable oils": "Oils produced from oilcakes or oilseeds or oil-bearing materials of plant origin and containing glycerides.",
+      "Vegetable oil product": "Any product obtained for edible purposes by subjecting one or more edible oils to processes like refining, blending, hydrogenation or interesterification and winterization."
+    }
+  },
+  "chapter_2_food_product_standards": {
+    "dairy_products_and_analogues": {
+      "milk": {
+        "title": "Standards of different classes and designations of milk",
+        "parameters": [
+          "Milk Fat",
+          "Milk Solids Not Fat"
+        ],
+        "standards": [
+          {
+            "class": "Buffalo Milk",
+            "designation": [
+              "Raw",
+              "Pasteurized",
+              "Boiled",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": [
+              "Assam",
+              "Bihar",
+              "Chandigarh",
+              "Delhi",
+              "Gujarat",
+              "Haryana",
+              "Jharkhand",
+              "Maharashtra",
+              "Meghalaya",
+              "Punjab",
+              "Sikkim",
+              "Uttar Pradesh",
+              "Uttarakhand",
+              "West Bengal"
+            ],
+            "milk_fat_min_percent": 6.0,
+            "milk_solids_not_fat_min_percent": 9.0
+          },
+          {
+            "class": "Buffalo Milk",
+            "designation": [
+              "Raw",
+              "Pasteurized",
+              "Boiled",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": [
+              "Andaman and Nicobar",
+              "Andhra Pradesh",
+              "Arunachal Pradesh",
+              "Chhatisgarh",
+              "Dadra & Nagar haveli",
+              "Goa, Daman & Diu",
+              "Himachal Pradesh",
+              "Jammu & Kashmir & Karnataka",
+              "Kerala",
+              "Lakshadweep, Minicoy & Amindivi Island",
+              "Madhya Pradesh",
+              "Manipur",
+              "Mizoram",
+              "Nagaland",
+              "Orissa",
+              "Puducherry",
+              "Rajasthan",
+              "Tamil Nadu",
+              "Tripura"
+            ],
+            "milk_fat_min_percent": 5.0,
+            "milk_solids_not_fat_min_percent": 9.0
+          },
+          {
+            "class": "Cow Milk",
+            "designation": [
+              "Raw",
+              "Pasteurized",
+              "Boiled",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": [
+              "Chandigarh",
+              "Haryana",
+              "Punjab"
+            ],
+            "milk_fat_min_percent": 4.0,
+            "milk_solids_not_fat_min_percent": 8.5
+          },
+          {
+            "class": "Cow Milk",
+            "designation": [
+              "Raw",
+              "Boiled",
+              "Pasteurized",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": [
+              "Andaman & Nicobar Islands",
+              "Andhra Pradesh",
+              "Arunachal Pradesh",
+              "Assam",
+              "Bihar",
+              "Chhatisgarh",
+              "Dadra & Nagar haveli",
+              "Delhi",
+              "Goa, Daman & Diu",
+              "Gujarat",
+              "Himachal Pradesh",
+              "Jammu & Kashmir",
+              "Jharkhand",
+              "Karnataka",
+              "Kerala",
+              "Lakshadweep, Minicoy & Adminidive Islands",
+              "Madhya Pradesh",
+              "Maharashtra",
+              "Manipur",
+              "Meghalaya",
+              "Nagaland",
+              "Puducherry",
+              "Rajasthan",
+              "Sikkim",
+              "Tamil Nadu",
+              "Tripura",
+              "Uttar Pradesh",
+              "Uttarakhand",
+              "West Bengal"
+            ],
+            "milk_fat_min_percent": 3.5,
+            "milk_solids_not_fat_min_percent": 8.5
+          },
+          {
+            "class": "Cow Milk",
+            "designation": [
+              "Raw",
+              "Boiled",
+              "Pasteurized",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": [
+              "Mizoram",
+              "Orissa"
+            ],
+            "milk_fat_min_percent": 3.0,
+            "milk_solids_not_fat_min_percent": 8.5
+          },
+          {
+            "class": "Goat or Sheep Milk",
+            "designation": [
+              "Raw",
+              "Boiled",
+              "Pasteurized",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": [
+              "Chandigarh",
+              "Chhatisgarh",
+              "Haryana",
+              "Kerala",
+              "Madhya Pradesh",
+              "Maharashtra",
+              "Punjab",
+              "Uttar Pradesh",
+              "Uttarakhand"
+            ],
+            "milk_fat_min_percent": 3.5,
+            "milk_solids_not_fat_min_percent": 9.0
+          },
+          {
+            "class": "Goat or Sheep Milk",
+            "designation": [
+              "Raw",
+              "Boiled",
+              "Pasteurized",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": [
+              "Andaman & Nicobar Islands",
+              "Andhra Pradesh",
+              "Arunachal Pradesh",
+              "Assam",
+              "Bihar",
+              "Chhatisgarh",
+              "Dadra and Nagar haveli",
+              "Delhi",
+              "Goa, Daman & Diu",
+              "Gujarat",
+              "Himachal Pradesh",
+              "Jammu & Kashmir",
+              "Jharkhand",
+              "Karnataka",
+              "Lakshadweep, Minicoy & Amindive Islands",
+              "Manipur",
+              "Meghalaya’",
+              "Mizoram",
+              "Nagaland",
+              "Orissa",
+              "Puducherry",
+              "Rajasthan",
+              "Sikkim",
+              "Tamil Nadu",
+              "Tripura",
+              "West Bengal"
+            ],
+            "milk_fat_min_percent": 3.0,
+            "milk_solids_not_fat_min_percent": 9.0
+          },
+          {
+            "class": "Mixed Milk",
+            "designation": [
+              "Raw",
+              "Pasteurised",
+              "Boiled",
+              "Flavoured",
+              "Sterilised"
+            ],
+            "locality": "All India",
+            "milk_fat_min_percent": 4.5,
+            "milk_solids_not_fat_min_percent": 8.5
+          },
+          {
+            "class": "Standardized milk",
+            "designation": [
+              "Pasteurised",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": "All India",
+            "milk_fat_min_percent": 4.5,
+            "milk_solids_not_fat_min_percent": 8.5
+          },
+          {
+            "class": "Recombined Milk",
+            "designation": [
+              "Pasteurised",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": "All India",
+            "milk_fat_min_percent": 3.0,
+            "milk_solids_not_fat_min_percent": 8.5
+          },
+          {
+            "class": "Toned Milk",
+            "designation": [
+              "Pasteurised",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": "All India",
+            "milk_fat_min_percent": 3.0,
+            "milk_solids_not_fat_min_percent": 8.5
+          },
+          {
+            "class": "Double Toned milk",
+            "designation": [
+              "Pasteurised",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": "All India",
+            "milk_fat_min_percent": 1.5,
+            "milk_solids_not_fat_min_percent": 9.0
+          },
+          {
+            "class": "Skimmed Milk",
+            "designation": [
+              "Raw",
+              "Boiled",
+              "Pasteurised",
+              "Flavoured",
+              "Sterilized"
+            ],
+            "locality": "All India",
+            "milk_fat_max_percent": 0.5,
+            "milk_solids_not_fat_min_percent": 8.7
+          },
+          {
+            "class": "Full Cream Milk",
+            "designation": [
+              "Pasteurised",
+              "Sterilized"
+            ],
+            "locality": "All India",
+            "milk_fat_min_percent": 6.0,
+            "milk_solids_not_fat_min_percent": 9.0
+          }
+        ],
+        "notes": [
+          "When milk is offered for sale without indication of the class, the standards for buffalo milk shall apply.",
+          {
+            "designation": "Raw",
+            "heat_treatment": "Nil"
+          },
+          {
+            "designation": "Pasteurised",
+            "heat_treatment": "Pasteurisation"
+          },
+          {
+            "designation": "Boiled",
+            "heat_treatment": "Boiling"
+          },
+          {
+            "designation": "Flavoured",
+            "heat_treatment": "Pasteurisation or Sterilisation"
+          },
+          {
+            "designation": "Sterilised",
+            "heat_treatment": "Sterilisation"
+          }
+        ]
+      },
+      "cream": {
+        "definition": "Product of cow or buffalo milk or a combination thereof, free from starch and other foreign ingredients.",
+        "categories": [
+          {
+            "name": "Low fat cream",
+            "milk_fat_min_percent": 25.0
+          },
+          {
+            "name": "Medium fat cream",
+            "milk_fat_min_percent": 40.0
+          },
+          {
+            "name": "High fat cream",
+            "milk_fat_min_percent": 60.0
+          }
+        ],
+        "note": "Cream sold without indication of milk fat content shall be treated as high fat cream."
+      },
+      "cream_powder": {
+        "definition": "Product obtained by partial removal of water from cream. Fat/protein content may be adjusted. Shall have uniform color and pleasant taste/flavor. Free from vegetable oil/fat, mineral oil, added flavor, and any substance foreign to milk.",
+        "requirements": {
+          "moisture_max_percent": 5.0,
+          "milk_fat_min_percent": 42.0,
+          "milk_protein_in_milk_solid_not_fat_min_percent": 34.0
+        }
+      },
+      "malai": {
+        "definition": "Product rich in butter fat prepared by boiling and cooling cow or buffalo milk or a combination thereof.",
+        "requirements": {
+          "milk_fat_min_percent": 25.0
+        }
+      },
+      "dahi_or_curd": {
+        "definition": "Product from pasteurised or boiled milk by souring with harmless lactic acid or other bacterial cultures. May contain added cane sugar.",
+        "requirements": {
+          "milk_fat_and_solids_not_fat_min_percentage": "Same as the milk from which it is prepared."
+        },
+        "note": "If sold without an indication of class of milk, the standards for dahi prepared from buffalo milk shall apply."
+      },
+      "chhana_or_paneer": {
+        "definition": "Product obtained from cow or buffalo milk by precipitation with sour milk, lactic acid or citric acid.",
+        "requirements": {
+          "moisture_max_percent": 70.0,
+          "milk_fat_min_percent_of_dry_matter": 50.0
+        },
+        "low_fat_paneer_or_chhana": {
+          "requirements": {
+            "moisture_max_percent": 70.0,
+            "milk_fat_max_percent_of_dry_matter": 15.0
+          },
+          "packaging": "Shall be sold in a sealed package with proper label declaration."
+        }
+      },
+      "cheese": {
+        "definition": "Ripened or unripened soft, semi-hard, hard and extra hard product, obtained by coagulating milk. May contain starter cultures, enzymes and sodium chloride.",
+        "types": [
+          {
+            "name": "Ripened Cheese",
+            "definition": "Not ready for consumption shortly after manufacture, requires holding for biochemical changes."
+          },
+          {
+            "name": "Mould Ripened cheese",
+            "definition": "Ripening accomplished primarily by characteristic mould growth inside or on the surface."
+          },
+          {
+            "name": "Unripened cheese including fresh cheese",
+            "definition": "Ready for consumption shortly after manufacture."
+          }
+        ],
+        "general_requirements": {
+          "taste_and_flavor": "Pleasant, free from off-flavor and rancidity."
+        },
+        "product_standards": [
+          {
+            "product": "Hard Pressed Cheese",
+            "moisture_max_percent": 39.0,
+            "milk_fat_on_dry_basis_min_percent": 48.0
+          },
+          {
+            "product": "Semi Hard Cheese",
+            "moisture_max_percent": 45.0,
+            "milk_fat_on_dry_basis_min_percent": 40.0
+          },
+          {
+            "product": "Semi Soft Cheese",
+            "moisture_max_percent": 52.0,
+            "milk_fat_on_dry_basis_min_percent": 45.0
+          },
+          {
+            "product": "Soft Cheese",
+            "moisture_max_percent": 80.0,
+            "milk_fat_on_dry_basis_min_percent": 20.0
+          },
+          {
+            "product": "Extra Hard Cheese",
+            "moisture_max_percent": 36.0,
+            "milk_fat_on_dry_basis_min_percent": 32.0
+          },
+          {
+            "product": "Mozzarella Cheese",
+            "moisture_max_percent": 60.0,
+            "milk_fat_on_dry_basis_min_percent": 35.0
+          },
+          {
+            "product": "Pizza Cheese",
+            "moisture_max_percent": 54.0,
+            "milk_fat_on_dry_basis_min_percent": 35.0
+          }
+        ],
+        "processed_cheese": {
+          "definition": "Product obtained by grinding, mixing, melting and emulsifying one or more varieties of cheeses with heat and emulsifying agents. May contain other ingredients like cream, butter, etc.",
+          "requirements": {
+            "moisture_max_percent": 47.0,
+            "milk_fat_on_dry_basis_min_percent": 40.0
+          },
+          "note": "Processed cheese chiplets (packed sliced cheese) shall not contain more than 50.0% moisture."
+        },
+        "processed_cheese_spread": {
+          "definition": "Product obtained by grinding, mixing, melting and emulsifying one or more varieties of cheese with heat and emulsifying agents. May contain various ingredients like cream, sugars, spices, etc.",
+          "requirements": {
+            "moisture_max_percent": 60.0,
+            "milk_fat_on_dry_basis_min_percent": 40.0
+          }
+        },
+        "specific_cheese_types": [
+          {
+            "name": "Cheddar Cheese",
+            "type": "Ripened hard cheese",
+            "description": "Obtained by coagulating milk with lactic acid bacteria and rennet. Hard pressed block, waxy texture, pale straw to orange color.",
+            "requirements": {
+              "moisture_max_percent": 39.0,
+              "milk_fat_on_dry_basis_min_percent": 48.0
+            }
+          },
+          {
+            "name": "Danbo Cheese",
+            "type": "Ripened semi-hard cheese",
+            "description": "Obtained by coagulating milk with lactic acid bacteria and rennet. Smooth appearance, firm texture, uniform yellow color.",
+            "requirements": {
+              "moisture_max_percent": 39.0,
+              "milk_fat_on_dry_basis_min_percent": 45.0
+            }
+          },
+          {
+            "name": "Edam Cheese",
+            "type": "Ripened semi-hard cheese",
+            "description": "Obtained by coagulating milk. Firm texture, yellowish color, hard rind.",
+            "requirements": {
+              "moisture_max_percent": 46.0,
+              "milk_fat_on_dry_basis_min_percent": 40.0
+            }
+          },
+          {
+            "name": "Gouda Cheese",
+            "type": "Ripened semi-hard cheese",
+            "description": "Obtained by coagulating milk. Firm texture, straw to yellowish color, hard rind.",
+            "requirements": {
+              "moisture_max_percent": 43.0,
+              "milk_fat_on_dry_basis_min_percent": 48.0
+            }
+          },
+          {
+            "name": "Havarti Cheese",
+            "type": "Ripened semi-hard cheese",
+            "description": "Obtained by coagulating milk. Firm texture, light yellow color, may have a greasy rind.",
+            "requirements_table": [
+              {
+                "product": "Havarti",
+                "moisture_max_percent": 48.0,
+                "milk_fat_on_dry_basis_min_percent": 45.0
+              },
+              {
+                "product": "30 percent Havarti",
+                "moisture_max_percent": 53.0,
+                "milk_fat_on_dry_basis_min_percent": 30.0
+              },
+              {
+                "product": "60 percent Havarti",
+                "moisture_max_percent": 60.0,
+                "milk_fat_on_dry_basis_min_percent": 60.0
+              }
+            ]
+          },
+          {
+            "name": "Tilsiter",
+            "type": "Ripened semi-hard cheese",
+            "description": "Obtained by coagulating milk with lactic acid bacteria and Bacterium linens. Firm texture, ivory to yellow color, firm rind.",
+            "requirements_table": [
+              {
+                "product": "Tilsiter",
+                "moisture_max_percent": 47.0,
+                "milk_fat_on_dry_basis_min_percent": 45.0
+              },
+              {
+                "product": "30 percent Tilsiter",
+                "moisture_max_percent": 53.0,
+                "milk_fat_on_dry_basis_min_percent": 30.0
+              },
+              {
+                "product": "60 percent Tilsiter",
+                "moisture_max_percent": 39.0,
+                "milk_fat_on_dry_basis_min_percent": 60.0
+              }
+            ]
+          },
+          {
+            "name": "Cottage Cheese and Creamed Cottage Cheese",
+            "type": "Soft unripened cheese",
+            "description": "Obtained by coagulation of pasteurised skimmed milk. Creamed Cottage Cheese has a creaming mixture added. Soft texture, natural white color.",
+            "requirements": {
+              "moisture_max_percent": 80.0,
+              "creamed_cottage_cheese_milk_fat_min_percent": 4.0
+            }
+          },
+          {
+            "name": "Cream Cheese (Rahmfrischkase)",
+            "type": "Soft unripened cheese",
+            "description": "Obtained by coagulation of pasteurised milk and cream. Soft smooth texture, white to light cream color.",
+            "requirements": {
+              "moisture_max_percent": 55.0,
+              "milk_fat_on_dry_basis_min_percent": 70.0
+            }
+          },
+          {
+            "name": "Coulommiers Cheese",
+            "type": "Soft unripened cheese",
+            "description": "Obtained by coagulation of milk with lactic acid bacteria, rennet, and moulds. Soft texture, white to cream yellow color.",
+            "requirements": {
+              "moisture_max_percent": 56.0,
+              "milk_fat_on_dry_basis_min_percent": 46.0
+            }
+          },
+          {
+            "name": "Camembert Cheese",
+            "type": "Ripened soft cheese",
+            "description": "Obtained by coagulating milk with specific cultures. Flat cylindrical shape with white mould.",
+            "requirements_table": [
+              {
+                "product": "30 percent Camembert cheese",
+                "moisture_max_percent": 62.0,
+                "milk_fat_on_dry_basis_min_percent": 30.0
+              },
+              {
+                "product": "40 percent Camembert cheese",
+                "moisture_max_percent": 56.0,
+                "milk_fat_on_dry_basis_min_percent": 40.0
+              },
+              {
+                "product": "45 percent Camembert cheese",
+                "moisture_max_percent": 56.0,
+                "milk_fat_on_dry_basis_min_percent": 45.0
+              },
+              {
+                "product": "50 percent Camembert cheese",
+                "moisture_max_percent": 56.0,
+                "milk_fat_on_dry_basis_min_percent": 50.0
+              }
+            ]
+          },
+          {
+            "name": "Brie Cheese",
+            "type": "Soft ripened cheese",
+            "description": "Obtained by coagulating milk with specific cultures. White to creamy yellow color, smooth texture with white mould on rind.",
+            "requirements": {
+              "moisture_max_percent": 56.0,
+              "milk_fat_on_dry_basis_min_percent": 40.0
+            }
+          },
+          {
+            "name": "Saint Paulin",
+            "type": "Ripened semi-hard cheese",
+            "description": "Obtained by coagulating milk with rennet and lactic acid bacteria. White to yellow color, firm and flexible texture, hard rind.",
+            "requirements": {
+              "moisture_max_percent": 56.0,
+              "milk_fat_on_dry_basis_min_percent": 40.0
+            }
+          },
+          {
+            "name": "Samsoe",
+            "type": "Hard ripened cheese",
+            "description": "Obtained by coagulating milk with rennet and lactic acid bacteria. Yellow color, firm texture.",
+            "requirements_table": [
+              {
+                "product": "Samsoe",
+                "moisture_max_percent": 44.0,
+                "milk_fat_on_dry_basis_min_percent": 45.0
+              },
+              {
+                "product": "30 percent Samsoe",
+                "moisture_max_percent": 50.0,
+                "milk_fat_on_dry_basis_min_percent": 30.0
+              }
+            ]
+          },
+          {
+            "name": "Emmentaler",
+            "type": "Hard ripened cheese with round holes",
+            "description": "Obtained by coagulating milk with rennet and lactic acid bacteria. Light yellow color, firm texture.",
+            "requirements": {
+              "moisture_max_percent": 40.0,
+              "milk_fat_on_dry_basis_min_percent": 45.0
+            },
+            "additional_info": "May contain Cupric Sulphate not exceeding 15 mgm/Kg."
+          },
+          {
+            "name": "Provolone",
+            "type": "Pasta filata cheese",
+            "description": "Obtained by coagulating milk with cultures and rennet. May be smoked. White to yellow straw color, fibrous or smooth body.",
+            "requirements": {
+              "unsmoked_cheese_moisture_max_percent": 47.0,
+              "smoked_cheese_moisture_max_percent": 45.0,
+              "milk_fat_on_dry_basis_min_percent": 45.0
+            }
+          },
+          {
+            "name": "Extra Hard Grating Cheese",
+            "type": "Ripened cheese",
+            "description": "Obtained by coagulating milk. White to light cream color, slightly brittle texture, extra hard rind.",
+            "requirements": {
+              "moisture_max_percent": 36.0,
+              "milk_fat_on_dry_basis_min_percent": 32.0
+            }
+          }
+        ]
+      },
+      "dairy_based_desserts_and_confections": {
+        "ice_cream": {
+          "definition": "Product obtained by freezing a pasteurized mix from milk and/or other milk products with optional additions like fruits, nuts, etc. Can be frozen hard or soft.",
+          "requirements_table": [
+            {
+              "product": "Ice Cream",
+              "total_solid_min_percent": 36.0,
+              "wt_vol_min_gms_l": 525,
+              "milk_fat_min_percent": 10.0,
+              "milk_protein_min_percent": 3.5
+            },
+            {
+              "product": "Medium Fat Ice Cream",
+              "total_solid_min_percent": 30.0,
+              "wt_vol_min_gms_l": 475,
+              "milk_fat_range_percent": "2.5 < fat < 10.0",
+              "milk_protein_min_percent": 3.5
+            },
+            {
+              "product": "Low Fat Ice Cream",
+              "total_solid_min_percent": 26.0,
+              "wt_vol_min_gms_l": 475,
+              "milk_fat_max_percent": 2.5,
+              "milk_protein_min_percent": 3.0
+            }
+          ]
+        },
+        "dried_ice_cream_mix": {
+          "definition": "Powder which, when mixed with water, conforms to ice cream standards (except weight/volume).",
+          "requirements": {
+            "moisture_max_percent": 4.0
+          }
+        },
+        "frozen_dessert_frozen_confection": {
+          "definition": "Product obtained by freezing a pasteurized mix with milk fat and/or edible vegetable oils/fats and proteins.",
+          "requirements_table": [
+            {
+              "product": "Frozen Dessert/ Frozen Confection",
+              "total_solid_min_percent": 36.0,
+              "wt_vol_min_gms_l": 525,
+              "total_fat_min_percent": 10.0,
+              "total_protein_min_percent": 3.5
+            },
+            {
+              "product": "Medium Fat Frozen Dessert/ Frozen Confection",
+              "total_solid_min_percent": 30.0,
+              "wt_vol_min_gms_l": 475,
+              "total_fat_range_percent": "2.5 < fat < 10.0",
+              "total_protein_min_percent": 3.5
+            },
+            {
+              "product": "Low Fat Frozen Dessert/ Frozen Confection",
+              "total_solid_min_percent": 26.0,
+              "wt_vol_min_gms_l": 475,
+              "total_fat_max_percent": 2.5,
+              "total_protein_min_percent": 3.0
+            }
+          ]
+        },
+        "milk_ice_or_milk_lolly": {
+          "definition": "Product obtained by freezing a pasteurized mix prepared from milk and/or other milk products with optional additions.",
+          "requirements": {
+            "total_solids_min_percent": 20.0,
+            "milk_fat_max_percent": 2.0,
+            "milk_protein_min_percent": 3.5
+          }
+        },
+        "khoya": {
+          "definition": "Product obtained from cow, buffalo, goat or sheep milk or milk solids by rapid drying.",
+          "requirements": {
+            "milk_fat_min_percent_on_dry_weight": 30.0
+          },
+          "additives": "May contain citric acid (max 0.1%). Shall be free from added starch, sugar, and colouring matter."
+        }
+      },
+      "evaporated_condensed_milk_and_milk_products": {
+        "evaporated_milk": {
+          "definition": "Product obtained by partial removal of water from milk. Fat and protein content may be adjusted.",
+          "requirements_table": [
+            {
+              "product": "Evaporated milk",
+              "milk_fat_min_percent": 8.0,
+              "milk_solids_min_percent": 26.0,
+              "milk_protein_in_msnf_min_percent": 34.0
+            },
+            {
+              "product": "Evaporated partly skimmed milk",
+              "milk_fat_range_percent": "1.0 - 8.0",
+              "milk_solids_min_percent": 20.0,
+              "milk_protein_in_msnf_min_percent": 34.0
+            },
+            {
+              "product": "Evaporated skimmed milk",
+              "milk_fat_max_percent": 1.0,
+              "milk_solids_min_percent": 20.0,
+              "milk_protein_in_msnf_min_percent": 34.0
+            },
+            {
+              "product": "Evaporated high fat milk",
+              "milk_fat_min_percent": 15.0,
+              "milk_solids_min_percent": 27.0,
+              "milk_protein_in_msnf_min_percent": 34.0
+            }
+          ]
+        },
+        "sweetened_condensed_milk": {
+          "definition": "Product obtained by partial removal of water from milk with added sugar.",
+          "requirements_table": [
+            {
+              "product": "Sweetened condensed milk",
+              "milk_fat_min_percent": 9.0,
+              "milk_solids_min_percent": 31.0,
+              "milk_protein_in_msnf_min_percent": 34.0
+            },
+            {
+              "product": "Sweetened condensed skimmed milk",
+              "milk_fat_max_percent": 1.0,
+              "milk_solids_min_percent": 26.0,
+              "milk_protein_in_msnf_min_percent": 34.0
+            },
+            {
+              "product": "Sweetened condensed partly skimmed milk",
+              "milk_fat_range_percent": "3.0 - 9.0",
+              "milk_solids_min_percent": 28.0,
+              "milk_protein_in_msnf_min_percent": 34.0
+            },
+            {
+              "product": "Sweetened condensed high fat milk",
+              "milk_fat_min_percent": 16.0,
+              "milk_solids_min_percent": 30.0,
+              "milk_protein_in_msnf_min_percent": 34.0
+            }
+          ]
+        },
+        "milk_powder": {
+          "definition": "Product obtained by partial removal of water from milk. Fat and protein content may be adjusted.",
+          "requirements_table": [
+            {
+              "product": "Whole milk powder",
+              "moisture_max_percent": 4.0,
+              "milk_fat_min_percent": 26.0,
+              "milk_protein_in_msnf_min_percent": 34.0,
+              "titrable_acidity_max": "18.0 ml 0.1N NAOH / 10gm solids not fat",
+              "insolubility_index_max_ml": 2.0,
+              "total_ash_on_dry_weight_max_percent": 7.3
+            },
+            {
+              "product": "Partly skimmed milk powder",
+              "moisture_max_percent": 5.0,
+              "milk_fat_range_percent": "1.5 - 26.0",
+              "milk_protein_in_msnf_min_percent": 34.0,
+              "titrable_acidity_max": "18.0 ml 0.1N NAOH / 10gm solids not fat",
+              "insolubility_index_max_ml": 2.0,
+              "total_ash_on_dry_weight_max_percent": 8.2
+            },
+            {
+              "product": "Skimmed milk powder",
+              "moisture_max_percent": 5.0,
+              "milk_fat_max_percent": 1.5,
+              "milk_protein_in_msnf_min_percent": 34.0,
+              "titrable_acidity_max": "18.0 ml 0.1N NAOH / 10gm solids not fat",
+              "insolubility_index_max_ml": 2.0,
+              "total_ash_on_dry_weight_max_percent": 8.2
+            }
+          ]
+        }
+      },
+      "foods_for_infant_nutrition": {
+        "infant_milk_food": {
+          "definition": "Product prepared by spray drying of cow or buffalo milk, modified with carbohydrates, salts, vitamins and minerals.",
+          "requirements_table": [
+            {
+              "characteristic": "Moisture",
+              "unit": "% by weight",
+              "limit": "Not more than 4.5"
+            },
+            {
+              "characteristic": "Total milk protein",
+              "unit": "% by weight",
+              "limit": "Not less than 12.0"
+            },
+            {
+              "characteristic": "Milk fat",
+              "unit": "% by weight",
+              "limit": "Not less than 18.0"
+            },
+            {
+              "characteristic": "Total ash",
+              "unit": "% by weight",
+              "limit": "Not more than 8.5"
+            },
+            {
+              "characteristic": "Ash insoluble in dilute Hydrochloric acid",
+              "unit": "% by weight",
+              "limit": "Not more than 0.1"
+            },
+            {
+              "characteristic": "Solubility Index",
+              "unit": "ml",
+              "limit": "Maximum 2.0"
+            },
+            {
+              "characteristic": "Solubility",
+              "unit": "% by weight",
+              "limit": "Not less than 98.5"
+            },
+            {
+              "characteristic": "Vitamin A (as retinol)",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 350"
+            },
+            {
+              "characteristic": "Added Vitamin D",
+              "unit": "μg per 100g",
+              "limit": "Not less than 4.5"
+            },
+            {
+              "characteristic": "Vitamin C",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 35"
+            },
+            {
+              "characteristic": "Thiamine",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 185"
+            },
+            {
+              "characteristic": "Riboflavin",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 275"
+            },
+            {
+              "characteristic": "Niacin",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 1160"
+            },
+            {
+              "characteristic": "Pyridoxine",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 160"
+            },
+            {
+              "characteristic": "Folic acid",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 20"
+            },
+            {
+              "characteristic": "Pantothenic acid",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 1.4"
+            },
+            {
+              "characteristic": "Vitamin B12",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 0.7"
+            },
+            {
+              "characteristic": "Choline",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 32"
+            },
+            {
+              "characteristic": "Vitamin K",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 18"
+            },
+            {
+              "characteristic": "Biotin",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 7.0"
+            },
+            {
+              "characteristic": "Sodium",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 90"
+            },
+            {
+              "characteristic": "Potassium",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 370"
+            },
+            {
+              "characteristic": "Chloride",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 250"
+            },
+            {
+              "characteristic": "Calcium",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 230"
+            },
+            {
+              "characteristic": "Phosphorous",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 115"
+            },
+            {
+              "characteristic": "Magnesium",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 22"
+            },
+            {
+              "characteristic": "Iron",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 5.0"
+            },
+            {
+              "characteristic": "Iodine",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 20"
+            },
+            {
+              "characteristic": "Copper",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 280"
+            },
+            {
+              "characteristic": "Zinc",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 2.5 and not more than 5.0"
+            },
+            {
+              "characteristic": "Manganese",
+              "unit": "μg per 100g",
+              "limit": "Not less than 20"
+            },
+            {
+              "characteristic": "Selenium",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 14"
+            },
+            {
+              "characteristic": "Bacterial count",
+              "unit": "per g",
+              "limit": "Not more than 10,000"
+            },
+            {
+              "characteristic": "Coliform count",
+              "unit": "gram",
+              "limit": "absent in 0.1"
+            },
+            {
+              "characteristic": "Yeast and mould count",
+              "unit": "gram",
+              "limit": "absent in 0.1"
+            },
+            {
+              "characteristic": "Salmonella and Shigella",
+              "unit": "gram",
+              "limit": "absent in 25"
+            },
+            {
+              "characteristic": "E. coli",
+              "unit": "gram",
+              "limit": "absent in 0.1"
+            },
+            {
+              "characteristic": "Staphylococcus aureas",
+              "unit": "gram",
+              "limit": "absent in 0.1"
+            }
+          ]
+        },
+        "infant_formula": {
+          "definition": "Product prepared by spray drying milk of cow or buffalo or a mixture thereof, with partial replacement of milk fat with vegetable oils rich in polyunsaturated fatty acids.",
+          "requirements_table": [
+            {
+              "characteristic": "Moisture",
+              "unit": "% by weight",
+              "limit": "Not more than 4.5"
+            },
+            {
+              "characteristic": "Total milk protein",
+              "unit": "% by weight",
+              "limit": "10.0 - 16.0"
+            },
+            {
+              "characteristic": "Total fat",
+              "unit": "% by weight",
+              "limit": "Not less than 18.0"
+            },
+            {
+              "characteristic": "Milk Fat",
+              "unit": "% by weight",
+              "limit": "Not less than 12.0"
+            },
+            {
+              "characteristic": "Linoleate",
+              "unit": "g per 100 g",
+              "limit": "Not less than 1.398"
+            },
+            {
+              "characteristic": "Total ash",
+              "unit": "% by weight",
+              "limit": "Not more than 8.5"
+            },
+            {
+              "characteristic": "Ash insoluble in dilute Hydrochloric acid",
+              "unit": "% by weight",
+              "limit": "Not more than 0.1"
+            },
+            {
+              "characteristic": "Solubility Index",
+              "unit": "ml",
+              "limit": "Maximum 2.0"
+            },
+            {
+              "characteristic": "Solubility",
+              "unit": "% by weight",
+              "limit": "Not less than 98.5"
+            },
+            {
+              "characteristic": "Vitamin A (as retinol)",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 350"
+            },
+            {
+              "characteristic": "Added Vitamin D",
+              "unit": "μg per 100g",
+              "limit": "Not less than 4.5"
+            },
+            {
+              "characteristic": "Vitamin C",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 35"
+            },
+            {
+              "characteristic": "Thiamine",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 185"
+            },
+            {
+              "characteristic": "Riboflavin",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 275"
+            },
+            {
+              "characteristic": "Niacin",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 1160"
+            },
+            {
+              "characteristic": "Pyridoxine",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 160"
+            },
+            {
+              "characteristic": "Folic acid",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 20"
+            },
+            {
+              "characteristic": "Pantothenic acid",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 1.4"
+            },
+            {
+              "characteristic": "Vitamin B12",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 0.7"
+            },
+            {
+              "characteristic": "Choline",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 32"
+            },
+            {
+              "characteristic": "Vitamin K",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 18"
+            },
+            {
+              "characteristic": "Biotin",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 7.0"
+            },
+            {
+              "characteristic": "Vitamin E (as a-tocopherol compounds)",
+              "unit": "IU per 100g",
+              "limit": "Not less than 3.15"
+            },
+            {
+              "characteristic": "Sodium",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 90"
+            },
+            {
+              "characteristic": "Potassium",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 370"
+            },
+            {
+              "characteristic": "Chloride",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 250"
+            },
+            {
+              "characteristic": "Calcium",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 230"
+            },
+            {
+              "characteristic": "Phosphorous",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 115"
+            },
+            {
+              "characteristic": "Magnesium",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 22"
+            },
+            {
+              "characteristic": "Iron",
+              "unit": "mg per 100 g",
+              "limit": "Not less than 5.0"
+            },
+            {
+              "characteristic": "Iodine",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 20"
+            },
+            {
+              "characteristic": "Copper",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 280"
+            },
+            {
+              "characteristic": "Zinc",
+              "unit": "mg per 100 g",
+              "limit": "2.5 - 5.0"
+            },
+            {
+              "characteristic": "Manganese",
+              "unit": "μg per 100g",
+              "limit": "Not less than 20"
+            },
+            {
+              "characteristic": "Selenium",
+              "unit": "μg per 100 g",
+              "limit": "Not less than 14"
+            },
+            {
+              "characteristic": "Bacterial count",
+              "unit": "per g",
+              "limit": "Not more than 10,000"
+            },
+            {
+              "characteristic": "Coliform count",
+              "unit": "gram",
+              "limit": "absent in 0.1"
+            },
+            {
+              "characteristic": "Yeast and mould count",
+              "unit": "gram",
+              "limit": "absent in 0.1"
+            },
+            {
+              "characteristic": "Salmonella and Shigella",
+              "unit": "gram",
+              "limit": "absent in 25"
+            },
+            {
+              "characteristic": "E. coli",
+              "unit": "gram",
+              "limit": "absent in 0.1"
+            },
+            {
+              "characteristic": "Staphylococcus aureas",
+              "unit": "gram",
+              "limit": "absent in 0.1"
+            }
+          ]
+        },
+        "premature_low_birth_weight_infant_milk_substitutes": {
+          "protein_per_100_kcal": "2.25 - 2.75 gram",
+          "mineral_content_per_100_kcal": "Not less than 0.5 gram",
+          "calcium_phosphorous_ratio": "2:1",
+          "sodium_potassium_chloride_combined_meq_L": "Not less than 40",
+          "whey_casein_ratio": "60:40"
+        },
+        "lactose_free_infant_milk_substitute": {
+          "description": "Edible vegetable oil may be used in place of milk fat and lecithin as an emulsifier. Soy protein-based or cow's/buffalo's milk-based with specific carbohydrates."
+        },
+        "hypoallergenic_infant_milk_substitutes": {
+          "protein_source": "Hydrolyzed whey or casein or 100% free amino acids."
+        },
+        "milk_cereal_based_complementary_food": {
+          "definition": "Foods based on milk, cereal and/or legumes (pulses), soyabean, millets, nuts and edible oil seeds. Intended to supplement diet for infants after six months.",
+          "requirements": {
+            "moisture_max_percent": 5.0,
+            "total_protein_min_percent": 15.0,
+            "fat_min_percent": 7.5,
+            "total_carbohydrate_min_percent": 55.0,
+            "total_ash_max_percent": 5.0,
+            "ash_insoluble_in_dilute_hcl_max_percent": 0.1,
+            "crude_fibre_max_percent": 1.0,
+            "milk_protein_min_percent": 10.0,
+            "milk_fat_min_percent": 5.0
+          }
+        },
+        "processed_cereal_based_complementary_food": {
+          "definition": "Foods based on cereal and/or legumes, soyabean, millets, nuts and edible oil seeds. Intended for infants after six months up to two years.",
+          "requirements": {
+            "milled_cereal_and_legumes_min_percent": 75.0,
+            "protein_min_percent": 15.0,
+            "sodium_content_max_mg_per_100g": 100,
+            "moisture_max_percent": 4.0,
+            "total_protein_min_percent": 15.0,
+            "total_carbohydrate_min_percent": 55.0,
+            "total_ash_max_percent": 5.0,
+            "ash_insoluble_in_dilute_hcl_max_percent": 0.1,
+            "crude_fibre_max_percent": 1.0
+          }
+        },
+        "follow_up_formula_complementary_food": {
+          "definition": "Product prepared by spray drying milk of cow or buffalo or a mixture thereof, for infants after six months and up to two years. Provides 60-85 kcal per 100 ml ready-for-consumption.",
+          "requirements": {
+            "protein_g_per_100_cal": "3.0 - 5.5",
+            "fat_g_per_100_cal": "4.0 - 6.0",
+            "linoleic_acid_mg_per_100_cal": "Not less than 310",
+            "moisture_max_percent": 4.5,
+            "total_milk_protein_range_percent": "13.5 - 24.75",
+            "total_fat_range_percent": "18.0 - 27.0",
+            "linoleate_min_g_per_100g": 1.398,
+            "total_ash_max_percent": 8.5,
+            "ash_insoluble_in_hcl_max_percent": 0.1,
+            "solubility_index_max_ml": 2.0,
+            "solubility_min_percent": 98.5
+          }
+        }
+      },
+      "butter_ghee_milk_fats": {
+        "butter": {
+          "definition": "Fatty product derived exclusively from milk of cow and/or buffalo. May contain common salt and starter cultures. Table butter shall be from pasteurised milk.",
+          "requirements_table": [
+            {
+              "product": "Table Butter",
+              "moisture_max_percent": 16.0,
+              "milk_fat_min_percent": 80.0,
+              "milk_solids_not_fat_max_percent": 1.5,
+              "common_salt_max_percent": 3.0
+            },
+            {
+              "product": "Desi Cooking Butter",
+              "moisture_max_percent": "-",
+              "milk_fat_min_percent": 76.0,
+              "milk_solids_not_fat_max_percent": "-",
+              "common_salt_max_percent": "—"
+            }
+          ],
+          "note": "If sold without indication of class, standards for table butter apply."
+        },
+        "ghee": {
+          "definition": "Pure clarified fat derived solely from milk or curd or from desi butter or cream. No colouring or preservative added. Standards vary by state/union territory.",
+          "standards_table": [
+            {
+              "state": "Andhra Pradesh",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Andaman & Nicobar Islands",
+              "butyro_refractometer_reading_at_40c": "41.0 - 44.0",
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Arunachal Pradesh",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Assam",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Bihar",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 28,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Chandigarh",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 28,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Chattisgarh",
+              "butyro_refractometer_reading_at_40c": "40.0 - 44.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Dadra and Nagar haveli",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Delhi",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 28,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Goa",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Daman & Diu",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.5",
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Gujarat",
+              "sub_region": "Areas other than cotton tract areas",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.5",
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Gujarat",
+              "sub_region": "Cotton tract areas",
+              "butyro_refractometer_reading_at_40c": "41.5 - 45.0",
+              "reichert_value_min": 21,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Haryana",
+              "sub_region": "Areas other than cotton tract areas",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 28,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Haryana",
+              "sub_region": "Cotton tract areas",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Himachal Pradesh",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Jammu & Kashmir",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Jharkhand",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 28,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Karnataka",
+              "sub_region": "Areas other than Belgaum district",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Karnataka",
+              "sub_region": "Belgaum district",
+              "butyro_refractometer_reading_at_40c": "40.0 - 44.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Kerela",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Lakshwadeep",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Madhya Pradesh",
+              "sub_region": "Areas other than cotton tract areas",
+              "butyro_refractometer_reading_at_40c": "40.0 - 44.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Madhya Pradesh",
+              "sub_region": "Cotton tract areas",
+              "butyro_refractometer_reading_at_40c": "41.5 - 45.0",
+              "reichert_value_min": 21,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Maharashtra",
+              "sub_region": "Areas other than cotton tract areas",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Maharashtra",
+              "sub_region": "Cotton tract areas",
+              "butyro_refractometer_reading_at_40c": "41.5 - 45.0",
+              "reichert_value_min": 21,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Manipur",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Meghalya",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Mizoram",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Nagaland",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Orisssa",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Pondicherry",
+              "butyro_refractometer_reading_at_40c": "40.0 - 44.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Punjab",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 28,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Rajasthan",
+              "sub_region": "Areas other than Jodhpur District",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Rajasthan",
+              "sub_region": "Jodhpur district",
+              "butyro_refractometer_reading_at_40c": "41.5 - 45.0",
+              "reichert_value_min": 21,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Tamil Nadu",
+              "butyro_refractometer_reading_at_40c": "41.0 - 44.0",
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Tripura",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Uttar Pradesh",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Uttarakhand",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 26,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "West Bengal",
+              "sub_region": "Areas other than Bishnupur sub division",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 28,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "West Bengal",
+              "sub_region": "Bishnupur sub division",
+              "butyro_refractometer_reading_at_40c": "41.5 - 45.0",
+              "reichert_value_min": 21,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            },
+            {
+              "state": "Sikkim",
+              "butyro_refractometer_reading_at_40c": "40.0 - 43.0",
+              "reichert_value_min": 28,
+              "ffa_as_oleic_acid_max_percent": 3,
+              "moisture_max_percent": 0.5
+            }
+          ],
+          "additional_tests": {
+            "baudouin_test": "Negative"
+          },
+          "explanation": "Cotton tract means areas where cotton seed is extensively fed to cattle."
+        },
+        "milkfat_butter_oil_and_anhydrous_milk_fat_anhydrous_butter_oil": {
+          "definition": "Fatty products derived exclusively from milk with almost total removal of water and solids not fat.",
+          "requirements_table": [
+            {
+              "product": "Milk fat/Butter Oil",
+              "br_reading_at_40c": "40-44",
+              "moisture_max_percent": 0.4,
+              "milk_fat_min_percent": 99.6,
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 0.4,
+              "peroxide_value_max_meq_o2_kg": 0.6,
+              "baudouins_test": "Negative"
+            },
+            {
+              "product": "Anhydrous milk fat/ Anhydrous Butter Oil",
+              "br_reading_at_40c": "40-44",
+              "moisture_max_percent": 0.1,
+              "milk_fat_min_percent": 99.8,
+              "reichert_value_min": 24,
+              "ffa_as_oleic_acid_max_percent": 0.3,
+              "peroxide_value_max_meq_o2_kg": 0.3,
+              "baudouins_test": "Negative"
+            }
+          ]
+        }
+      },
+      "chakka_and_shrikhand": {
+        "chakka": {
+          "definition": "White to pale yellow semi-solid product from yoghurt by draining whey. Good texture and consistency. Free from foreign ingredients, mouldness, seepage, extraneous color and flavors.",
+          "requirements_table": [
+            {
+              "product": "Chakka",
+              "total_solids_min_percent": 30.0,
+              "milk_fat_on_dry_basis_min_percent": 33.0,
+              "milk_protein_on_dry_basis_min_percent": 30.0,
+              "titrable_acidity_max_percent": 2.5,
+              "total_ash_on_dry_basis_max_percent": 3.5
+            },
+            {
+              "product": "Skimmed Milk Chakka",
+              "total_solids_min_percent": 20.0,
+              "milk_fat_on_dry_basis_max_percent": 5.0,
+              "milk_protein_on_dry_basis_min_percent": 60.0,
+              "titrable_acidity_max_percent": 2.5,
+              "total_ash_on_dry_basis_max_percent": 5.0
+            },
+            {
+              "product": "Full Cream Chakka",
+              "total_solids_min_percent": 28.0,
+              "milk_fat_on_dry_basis_min_percent": 38.0,
+              "milk_protein_on_dry_basis_min_percent": 30.0,
+              "titrable_acidity_max_percent": 2.5,
+              "total_ash_on_dry_basis_max_percent": 3.5
+            }
+          ]
+        },
+        "shrikhand": {
+          "definition": "Product obtained from chakka with added milk fat. May contain fruits, nuts, sugar, cardamom, saffron and other spices. No added coloring and artificial flavoring.",
+          "requirements_table": [
+            {
+              "product": "Shrikhand",
+              "total_solids_min_percent": 58.0,
+              "milk_fat_on_dry_basis_min_percent": 8.5,
+              "milk_protein_on_dry_basis_min_percent": 9.0,
+              "titrable_acidity_max_percent": 1.4,
+              "sugar_sucrose_on_dry_basis_max_percent": 72.5,
+              "total_ash_on_dry_basis_max_percent": 0.9
+            },
+            {
+              "product": "Full Cream Shrikhand",
+              "total_solids_min_percent": 58.0,
+              "milk_fat_on_dry_basis_min_percent": 10.0,
+              "milk_protein_on_dry_basis_min_percent": 7.0,
+              "titrable_acidity_max_percent": 1.4,
+              "sugar_sucrose_on_dry_basis_max_percent": 72.5,
+              "total_ash_on_dry_basis_max_percent": 0.9
+            },
+            {
+              "product": "Fruit Shrikhand",
+              "milk_fat_on_dry_basis_min_percent": 7.0,
+              "milk_protein_on_dry_basis_min_percent": 9.0
+            }
+          ]
+        }
+      },
+      "fermented_milk_products": {
+        "yoghurt": {
+          "definition": "Coagulated product from pasteurised milk/cream by lactic acid fermentation using Lactobacillus bulgaricus and Streptococcus thermophilus. May contain other cultures. Shall be viable and abundant.",
+          "requirements_table": [
+            {
+              "product": "Yoghurt",
+              "milk_fat_min_percent": 3.0,
+              "milk_solids_not_fat_min_percent": 8.5,
+              "milk_protein_min_percent": 3.2,
+              "sugar_min_percent": "-"
+            },
+            {
+              "product": "Partly skimmed Yoghurt",
+              "milk_fat_range_percent": "0.5 - 3.0",
+              "milk_solids_not_fat_min_percent": 8.5,
+              "milk_protein_min_percent": 3.2,
+              "sugar_min_percent": "-"
+            },
+            {
+              "product": "Skimmed Yoghurt",
+              "milk_fat_max_percent": 0.5,
+              "milk_solids_not_fat_min_percent": 8.5,
+              "milk_protein_min_percent": 3.2,
+              "sugar_min_percent": "-"
+            },
+            {
+              "product": "Sweetened Flavoured Yoghurt",
+              "milk_fat_min_percent": 3.0,
+              "milk_solids_not_fat_min_percent": 8.5,
+              "milk_protein_min_percent": 3.2,
+              "sugar_min_percent": 6.0
+            },
+            {
+              "product": "Fruit Yoghurt",
+              "milk_fat_min_percent": 1.5,
+              "milk_solids_not_fat_min_percent": 8.5,
+              "milk_protein_min_percent": 2.6,
+              "sugar_min_percent": 6.0
+            }
+          ],
+          "additional_requirements": {
+            "titrable_acidity_as_lactic_acid_percent": "0.85 - 1.2",
+            "bacterial_count_per_gram": "Not less than 1,000,000"
+          },
+          "note": "Heat treated yoghurt shall be labeled accordingly and conform to standards except for bacterial count."
+        }
+      },
+      "whey_products": {
+        "whey_powder": {
+          "definition": "Product obtained by drying sweet or acid whey. Uniform color, pleasant taste/flavor.",
+          "requirements_table": [
+            {
+              "product": "Whey Powder",
+              "moisture_max_percent": 5.0,
+              "milk_fat_max_percent": 2.0,
+              "milk_protein_min_percent": 10.0,
+              "total_ash_max_percent": 9.5,
+              "ph_min_in_10_percent_solution": 5.1,
+              "lactose_content_as_anhydrous_lactose_min_percent": 61.0
+            },
+            {
+              "product": "Acid Whey Powder",
+              "moisture_max_percent": 4.5,
+              "milk_fat_max_percent": 2.0,
+              "milk_protein_min_percent": 7.0,
+              "total_ash_max_percent": 15.0,
+              "ph_max_in_10_percent_solution": 5.1,
+              "lactose_content_as_anhydrous_lactose_min_percent": 61.0
+            }
+          ]
+        }
+      },
+      "edible_casein_products": {
+        "definition": "Products obtained by separating, washing and drying the coagulum of skimmed milk.",
+        "requirements_table": [
+          {
+            "product": "Non-animal rennet Casein",
+            "moisture_max_percent": 12.0,
+            "milk_fat_max_percent": 2.0,
+            "milk_protein_on_dry_weight_basis_min_percent": 84.0,
+            "casein_in_protein_min_percent": 95.0,
+            "ash_including_p2o5_min_percent": 7.5,
+            "lactose_max_percent": 1.0
+          },
+          {
+            "product": "Acid Casein",
+            "moisture_max_percent": 12.0,
+            "milk_fat_max_percent": 2.0,
+            "milk_protein_on_dry_weight_basis_min_percent": 90.0,
+            "casein_in_protein_min_percent": 95.0,
+            "ash_including_p2o5_max_percent": 2.5,
+            "lactose_max_percent": 1.0,
+            "free_fatty_acid_max": "0.27 percent"
+          },
+          {
+            "product": "Caseinate",
+            "moisture_max_percent": 8.0,
+            "milk_fat_max_percent": 2.0,
+            "milk_protein_on_dry_weight_basis_min_percent": 88.0,
+            "casein_in_protein_min_percent": 95.0,
+            "ash_including_p2o5_max_percent": "-",
+            "lactose_max_percent": 1.0,
+            "ph_value_max_in_10_percent_solution": 8.0
+          }
+        ]
+      }
+    },
+    "fats_oils_and_fat_emulsions": {
+      "oils": {
+        "general_requirements_refined_oils": "Refined vegetable oil shall be clear and free from rancidity, adulterants, sediments, suspended and other foreign matter, separated water, added colouring and flavouring substances and mineral oil. Test for argemone oil shall be negative. The refined oil shall not contain Hexane more than 5.00 ppm. The oil must be obtained from one of the listed vegetable oils. Moisture shall not exceed 0.10%.",
+        "coconut_oil_naryal_ka_tel": {
+          "source": "Copra from Cocos mucifera nuts",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "34.0 - 35.5",
+            "refractive_index_at_40c": "1.4481-1.4491",
+            "saponification_value_min": 250,
+            "iodine_value": "7.5 - 10",
+            "polenske_value_min": 13,
+            "unsaponifiable_matter_max_percent": 1.0,
+            "acid_value_max": 6.0,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "cotton_seed_oil_binola_ka_tel": {
+          "source": "Delinted and decorticated cotton seeds (genus Gossypium)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "55.6 - 60.2",
+            "refractive_index_at_40c": "1.4630-1.4660",
+            "saponification_value": "190 - 198",
+            "iodine_value": "98 - 112",
+            "unsaponifiable_matter_max_percent": 1.5,
+            "acid_value_max": 0.50,
+            "turbidity_at_30c_for_24h": "No turbidity",
+            "bellier_test_turbidity_temp_c": "19.0 - 21.0",
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "groundnut_oil_moongh_phali_ka_tel": {
+          "source": "Clean and sound groundnuts (Arachis hypogoes)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "54.0 - 57.1",
+            "refractive_index_at_40c": "1.4620-1.4640",
+            "saponification_value": "188 - 196",
+            "iodine_value": "85 - 99",
+            "unsaponifiable_matter_max_percent": 1.0,
+            "acid_value_max": 6.0,
+            "bellier_test_turbidity_temp_c": "39 - 41",
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "linseed_oil_tili_ka_tel": {
+          "source": "Clean and sound linseed (linum usitatissimum)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "69.5 - 74.3",
+            "refractive_index_at_40c": "1.4720-1.4750",
+            "saponification_value": "188 - 195",
+            "iodine_value_min": 170,
+            "unsaponifiable_matter_max_percent": 1.5,
+            "acid_value_max": 4.0,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "mahua_oil": {
+          "source": "Seeds or nuts of Madhuca (Bassi latifolia or B. longifolia)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "49.5 - 52.7",
+            "refractive_index_at_40c": "1.4590 - 1.4611",
+            "saponification_value": "187 - 196",
+            "iodine_value": "58 - 70",
+            "unsaponifiable_matter_max_percent": 2.0,
+            "acid_value_max": 0.50,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "rape_seed_oil_toria_oil_mustard_oil_sarson_ka_tel": {
+          "source": "Clean and sound mustard seeds (Brassica)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "58.0 - 60.5",
+            "refractive_index_at_40c": "1.4646 - 1.4662",
+            "saponification_value": "168 - 177",
+            "iodine_value": "96 - 112",
+            "polybromide_test": "Negative",
+            "unsaponifiable_matter_max_percent": 1.2,
+            "acid_value_max": 6.0,
+            "bellier_test_turbidity_temp_c": "23.0 - 27.5",
+            "argemone_oil_test": "Negative",
+            "hydrocyanic_acid_test": "Negative"
+          }
+        },
+        "rapeseed_or_mustard_oil_low_erucic_acid": {
+          "source": "Low erucic acid oil bearing seeds of Brassica",
+          "requirements": {
+            "erucic_acid_max_percent_of_total_fatty_acids": 2,
+            "butyro_refractometer_reading_at_40c": "58.6 - 61.7",
+            "refractive_index_at_40c": "1.465 - 1.467",
+            "iodine_value": "105 - 126",
+            "saponification_value": "182 - 193",
+            "unsaponifiable_matter_max_g_kg": 20,
+            "acid_value_max": 0.6,
+            "bellier_test_turbidity_temp_c": "Not more than 19.0",
+            "argemone_oil_test": "Negative",
+            "hydrocyanic_acid_test": "Passes"
+          }
+        },
+        "olive_oil": {
+          "source": "Fruit of the olive tree (Olea europaea sativa Hoffm. et Link)",
+          "types": [
+            {
+              "type": "Virgin olive oil",
+              "definition": "Obtained by mechanical or physical means. Suitable for consumption in natural state."
+            },
+            {
+              "type": "Refined olive oil",
+              "definition": "Obtained from virgin olive oil by refining methods without altering glyceridic structure."
+            },
+            {
+              "type": "Refined olive-pomace oil",
+              "definition": "Obtained from 'olive pomace' by solvent extraction and refining."
+            }
+          ],
+          "requirements_table": [
+            {
+              "product": "Virgin olive oil",
+              "br_reading_at_40c": "51.0-55.6",
+              "refractive_index_at_40c": "1.4600-1.4630",
+              "saponification_value_mg_koh_g": "184-196",
+              "iodine_value": "75-94",
+              "unsaponifiable_matter_max_g_kg": 15,
+              "acid_value_max": 6.0,
+              "bellier_test_max_temp_c": 17,
+              "semi_siccative_oil_test": "Negative",
+              "olive_pomace_oil_test": "Negative",
+              "cotton_seed_oil_test": "Negative",
+              "teaseed_oil_test": "Negative",
+              "sesame_seed_oil_test": "Negative",
+              "argemone_oil_test": "Negative"
+            },
+            {
+              "product": "Refined olive oil",
+              "br_reading_at_40c": "51.0-55.6",
+              "refractive_index_at_40c": "1.4600-1.4630",
+              "saponification_value_mg_koh_g": "184-196",
+              "iodine_value": "75-94",
+              "unsaponifiable_matter_max_g_kg": 15,
+              "acid_value_max": 0.5,
+              "bellier_test_max_temp_c": 17,
+              "semi_siccative_oil_test": "Negative",
+              "olive_pomace_oil_test": "Negative",
+              "cotton_seed_oil_test": "Negative",
+              "teaseed_oil_test": "Negative",
+              "sesame_seed_oil_test": "Negative",
+              "argemone_oil_test": "Negative"
+            },
+            {
+              "product": "Refined olive-pomace oil",
+              "br_reading_at_40c": "51.6-55.9",
+              "refractive_index_at_40c": "1.4604-1.4632",
+              "saponification_value_mg_koh_g": "182-193",
+              "iodine_value": "75-92",
+              "unsaponifiable_matter_max_g_kg": 30,
+              "acid_value_max": 0.5,
+              "bellier_test_max_temp_c": "Not applicable",
+              "semi_siccative_oil_test": "Negative",
+              "olive_pomace_oil_test": "Negative",
+              "cotton_seed_oil_test": "Negative",
+              "teaseed_oil_test": "Negative",
+              "sesame_seed_oil_test": "Negative",
+              "argemone_oil_test": "Negative"
+            }
+          ]
+        },
+        "poppy_seed_oil": {
+          "source": "Poppy seeds (papaver somniferum)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "60.0 - 64.0",
+            "refractive_index_at_40c": "1.4659 - 1.4685",
+            "saponification_value": "186 - 194",
+            "iodine_value": "133 - 143",
+            "unsaponifiable_matter_max_percent": 1.0,
+            "acid_value_max": 6.0,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "safflower_seed_oil_berry_ka_tel": {
+          "source": "Seeds of Carthamus tinctorius",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "62.4 - 64.7",
+            "refractive_index_at_40c": "1.4674-1.4689",
+            "saponification_value": "186-196",
+            "iodine_value": "135-148",
+            "unsaponifiable_matter_max_percent": 1.0,
+            "acid_value_max": 6.0,
+            "bellier_test_turbidity_temp_c": "Not more than 16",
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "safflowerseed_oil_and_safflowerseed_oil_high_oleic_acid": {
+          "source": "Seeds of Carthamus tinctorious L.",
+          "requirements_table": [
+            {
+              "product": "High Oleic Acid Safflowerseed Oil",
+              "oleic_acid_min_percent_of_total_fatty_acids": 70,
+              "br_reading_at_40c": "51.0-57.1",
+              "refractive_index_at_40c": "1.460-1.464",
+              "iodine_value": "80-100",
+              "saponification_value": "186-194",
+              "unsaponifiable_matter_max_g_kg": 10,
+              "acid_value_max": "4.0 mg/KOH/g oil",
+              "bellier_test_turbidity_temp_c": "Not more than 16",
+              "argemone_oil_test": "Negative"
+            },
+            {
+              "product": "Safflowerseed Oil",
+              "br_reading_at_40c": "61.7-66.4",
+              "refractive_index_at_40c": "1.467-1.470",
+              "iodine_value": "136-148",
+              "saponification_value": "186-198",
+              "unsaponifiable_matter_max_g_kg": 15,
+              "acid_value_max": "4.0 mg/KOH/g oil",
+              "bellier_test_turbidity_temp_c": "Not more than 16",
+              "argemone_oil_test": "Negative"
+            }
+          ]
+        },
+        "taramira_oil": {
+          "source": "Seeds of Taramira (Eruca sativa)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "58.0 - 60.0",
+            "refractive_index_at_40c": "1.4646-1.4659",
+            "saponification_value": "174 - 177",
+            "iodine_value": "99 - 105",
+            "unsaponifiable_matter_max_percent": 1.0,
+            "acid_value_max": 6.0,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "til_oil_gingelly_or_sesame_oil": {
+          "source": "Seeds of Til (Sesamum indicum)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "58.0 - 61.0",
+            "refractive_index_at_40c": "1.4646-1.4665",
+            "saponification_value": "188-193",
+            "iodine_value": "103-120",
+            "unsaponifiable_matter_max_percent": 1.5,
+            "acid_value_max": 6.0,
+            "bellier_test_turbidity_temp_c": "Not more than 22",
+            "argemone_oil_test": "Negative"
+          },
+          "special_requirements_for_white_sesame_seeds_from_tripura_assam_and_west_bengal": {
+            "butyro_refractometer_reading_at_40c": "60.5 - 65.4",
+            "refractive_index_at_40c": "1.4662-1.4694",
+            "saponification_value": "185 - 190",
+            "iodine_value": "115 - 120",
+            "acid_value_max": 6.0,
+            "unsaponifiable_matter_max_percent": 2.5,
+            "bellier_test_turbidity_temp_c": "Not more than 22",
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "niger_seed_oil_sargiya_ka_tel": {
+          "source": "Seeds of Guizotia abyssinica",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "61.0-65.0",
+            "refractive_index_at_40c": "1.4665-1.4691",
+            "saponification_value": "188-193",
+            "iodine_value": "110-135",
+            "unsaponifiable_matter_max_percent": 1.0,
+            "acid_value_max": 6.0,
+            "bellier_test_turbidity_temp_c": "25-29",
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "soyabean_oil": {
+          "source": "Clean and sound soyabeans (Soja max)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "58.5 - 68.0",
+            "refractive_index_at_40c": "1.4649-1.4710",
+            "saponification_value": "189 - 195",
+            "iodine_value": "120 - 141",
+            "unsaponifiable_matter_max_percent": 1.5,
+            "acid_value_max": 2.50,
+            "phosphorus_max_percent": 0.02,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "maize_corn_oil": {
+          "source": "Germ of clean and sound seeds of zea mays linn.",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "56.7 - 62.5",
+            "refractive_index_at_40c": "1.4637-1.4675",
+            "saponification_value": "187 - 195",
+            "iodine_value": "103 - 128",
+            "unsaponifiable_matter_max_percent": 1.5,
+            "acid_value_max": 0.50,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "refined_vegetable_oil": {
+          "definition": "Any vegetable oil obtained by expression or solvent extraction and refined.",
+          "requirements": {
+            "moisture_max_percent": 0.10,
+            "argemone_oil_test": "Negative",
+            "hexane_max_ppm": 5.00
+          },
+          "allowed_sources": [
+            "Coconut Oil",
+            "Cottonseed Oil",
+            "Groundnut Oil",
+            "Nigerseed Oil",
+            "Safflower Oil",
+            "Sesame Oil",
+            "Soyabean Oil",
+            "Sunflower Oil",
+            "Mustard/Rapeseed Oil",
+            "Linseed Oil",
+            "Mahua Oil",
+            "Olive Oil",
+            "Poppyseed Oil",
+            "Taramira Oil",
+            "Maize (Corn) oil",
+            "Watermelonseed Oil",
+            "Palm Oil",
+            "Palmolein",
+            "Palm Kernel Oil",
+            "Rice Bran Oil",
+            "Salseed fat",
+            "Mango Kernel fat",
+            "Kokum fat",
+            "Dhupa fat",
+            "Phulwara fat"
+          ]
+        },
+        "almond_oil": {
+          "source": "Seeds of prunus amygdalus Batach, var, dulcis koehne (sweet almond) or of Prunus amygdalus Batach, var Amara Focke (bitter almond)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "54 - 57",
+            "refractive_index_at_40c": "1.4620-1.4639",
+            "saponification_value": "186 - 195",
+            "iodine_value": "90 - 109",
+            "acid_value_max": 6.0,
+            "bellier_test_turbidity_temp_c_max": 60,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "water_melon_seed_oil": {
+          "source": "Clean, sound seeds of the fruit of water-melon (citrullus vulgaris schrad)",
+          "requirements": {
+            "moisture_and_volatile_matter_max_percent": 0.25,
+            "butyro_refractometer_reading_at_40c": "55.6 - 61.7",
+            "refractive_index_at_40c": "1.4630-1.4670",
+            "saponification_value": "190 - 198",
+            "iodine_value": "115 - 125",
+            "acid_value_max": 6.0,
+            "unsaponifiable_matter_max_percent": 1.5,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "palm_oil": {
+          "source": "Fleshy mesocarp of fruits of the oil palm (Elaeis Guinensis)",
+          "requirements": {
+            "butyro_refractometer_reading_at_50c": "35.5 - 44.0",
+            "refractive_index_at_50c": "1.4491-1.4552",
+            "melting_point_max_c": 37,
+            "iodine_value": "45-56",
+            "saponification_value": "195-205",
+            "unsaponifiable_matter_max_percent": 1.2,
+            "acid_value_max": 10.0,
+            "argemone_oil_test": "Negative"
+          },
+          "special_notes": "Indigenously produced raw palm oil can have acid value up to 6.0. Imported or solvent-extracted palm oil must be refined and conform to standards for refined vegetable oil."
+        },
+        "palmolein": {
+          "source": "Liquid fraction of palm oil",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "43.7 - 52.5",
+            "refractive_index_at_40c": "1.4550-1.4610",
+            "iodine_value": "54-62",
+            "saponification_value": "195-205",
+            "cloud_point_max_c": 18,
+            "unsaponifiable_matter_max_percent": 1.2,
+            "acid_value_max": 6.0,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "palm_kernel_oil": {
+          "source": "Sound kernel of the fruits of oil palm (Elaeis guinensis)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "35.3-39.5",
+            "refractive_index_at_40c": "1.4490-1.4520",
+            "iodine_value": "10-23",
+            "saponification_value": "237-255",
+            "unsaponifiable_matter_max_percent": 1.2,
+            "acid_value_max": 6.0,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "sun_flower_seed_oil": {
+          "source": "Clean and sound sunflower seeds or cake (Helianthus annus linn)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "57.1-65.0",
+            "refractive_index_at_40c": "1.4640-1.4691",
+            "iodine_value": "100-145",
+            "saponification_value": "188-194",
+            "unsaponifiable_matter_max_percent": 1.5,
+            "acid_value_max": 6.0,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "sunflowerseed_oil_and_sunflowerseed_oil_high_oleic_acid": {
+          "source": "Clean and sound Sunflowerseed or the High Oleic acid oil bearing Sunflowerseeds (Helianthus annuus L.)",
+          "requirements_table": [
+            {
+              "product": "High Oleic Acid Sunflowerseed Oil",
+              "oleic_acid_min_percent_of_total_fatty_acids": 75,
+              "br_reading_at_25c": "61.7-68.0",
+              "br_reading_at_40c": "52.5-63.2",
+              "refractive_index_at_25c": "1.467-1.471",
+              "refractive_index_at_40c": "1.461-1.468",
+              "iodine_value": "78-90",
+              "saponification_value": "182-194",
+              "unsaponifiable_matter_max_g_kg": 15,
+              "acid_value_max": "4.0 mg/KOH/g oil",
+              "argemone_oil_test": "Negative"
+            },
+            {
+              "product": "Sunflowerseed Oil",
+              "br_reading_at_40c": "52.5-63.2",
+              "refractive_index_at_40c": "1.461-1.468",
+              "iodine_value": "118-141",
+              "saponification_value": "188-194",
+              "unsaponifiable_matter_max_g_kg": 15,
+              "acid_value_max": "4.0 mg/KOH/g oil",
+              "argemone_oil_test": "Negative"
+            }
+          ]
+        },
+        "rice_bran_oil": {
+          "source": "Layer around the endosperm of rice from paddy (Oryza Sativa Linn.)",
+          "requirements": {
+            "moisture_and_volatile_matter_max_percent": 0.1,
+            "refractive_index_at_40c": "1.4600-1.4700",
+            "butyro_refractometer_reading_at_40c": "51.0-66.4",
+            "saponification_value": "180-195",
+            "iodine_value": "90-105",
+            "acid_value_max": 0.5,
+            "unsaponifiable_matter_max_percent_chem_refined": 3.5,
+            "unsaponifiable_matter_max_percent_phys_refined": 4.5,
+            "oryzanol_content_min_percent": 1.0,
+            "flash_point_min_c": 250,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "blended_edible_vegetable_oil": {
+          "definition": "Admixture of any two edible vegetable oils, with proportion of each being at least 20%.",
+          "general_requirements": "Clear, free from rancidity, foreign matter, etc. Individual oils must conform to their respective standards.",
+          "requirements": {
+            "moisture_and_volatile_matter_max_percent": 0.2,
+            "acid_value": {
+              "both_raw": "Not more than 6.0",
+              "one_raw_one_refined": "Not more than 5.0",
+              "both_refined": "Not more than 0.5"
+            },
+            "unsaponifiable_matter_max_percent": {
+              "blended_with_chemically_refined_rice_bran_oil": 3.0,
+              "blended_with_other_edible_vegetable_oil": 1.5
+            },
+            "flash_point_min_c": 250,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "interesterified_vegetable_fat": {
+          "definition": "Edible fatty material treated to rearrange fatty acid positions, changing physical properties.",
+          "requirements": {
+            "moisture_max_percent": 0.25,
+            "melting_point_c": "31-41",
+            "butyro_refractometer_reading_at_40c_min": 48,
+            "refractive_index_at_40c_min": 1.4580,
+            "unsaponifiable_matter_max_percent": 2.0,
+            "free_fatty_acids_as_oleic_acid_max_percent": 0.25,
+            "sesame_til_oil_min_percent": 5,
+            "synthetic_vitamin_a_min_iu_per_g": 25,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "partially_hydrogenated_soyabean_oil": {
+          "requirements_table": [
+            {
+              "product": "Partially hydrogenated and winterised soyabean oil",
+              "moisture_max_percent": 0.1,
+              "refractive_index_at_40c": "1.4630-1.4690",
+              "butyro_refractometer_reading_at_40c": "55.6-64.8",
+              "saponification_value": "189-195",
+              "iodine_value": "107-120",
+              "acid_value_max": 0.50,
+              "unsaponifiable_matter_max_percent": 1.5,
+              "linolenic_acid_max_percent": 3,
+              "cloud_point_max_c": 10,
+              "flash_point_min_c": 250,
+              "argemone_oil_test": "Negative"
+            },
+            {
+              "product": "Partially hydrogenated soyabean oil",
+              "moisture_max_percent": 0.1,
+              "refractive_index_at_40c": "1.4630-1.4670",
+              "butyro_refractometer_reading_at_40c": "55.6-61.7",
+              "saponification_value": "189-195",
+              "iodine_value": "95-110",
+              "acid_value_max": 0.50,
+              "unsaponifiable_matter_max_percent": 1.5,
+              "linolenic_acid_max_percent": 3,
+              "cloud_point_max_c": 25,
+              "flash_point_min_c": 250,
+              "argemone_oil_test": "Negative"
+            }
+          ],
+          "note": "All edible oils shall be free from Castor oil."
+        }
+      },
+      "edible_fats": {
+        "beef_fat_or_suet": {
+          "source": "Beef carcass",
+          "requirements": {
+            "saponification_value": "193-200",
+            "iodine_value": "35-46"
+          }
+        },
+        "mutton_fat": {
+          "source": "Carcass of sheep",
+          "requirements": {
+            "saponification_value": "192-195",
+            "iodine_value": "35-46"
+          }
+        },
+        "goat_fat": {
+          "source": "Rendered fat from goat",
+          "requirements": {
+            "saponification_value": "193-196",
+            "iodine_value": "36-45"
+          }
+        },
+        "lard": {
+          "source": "Rendered fat from hogs",
+          "requirements": {
+            "non_fatty_acid_and_fat_substances_max_percent": 1,
+            "saponification_value": "192-198",
+            "iodine_value": "52-65"
+          }
+        },
+        "cocoa_butter": {
+          "source": "Nibs of the beans of Theobroma cocoa L.",
+          "requirements": {
+            "free_fatty_acids_as_oleic_acid_max_percent": 1.5,
+            "iodine_value": "32-42",
+            "melting_point_c": "29-34",
+            "butyro_refractometer_reading_at_40c": "40.9-48.0",
+            "refractive_index_at_40c": "1.4530-1.4580",
+            "saponification_value": "188-200"
+          }
+        },
+        "refined_salseed_fat": {
+          "source": "Seed kernels of sal trees, shorea robusta Gaertn.",
+          "requirements": {
+            "moisture_max_percent": 0.1,
+            "butyro_refractometer_reading_at_40c": "36.7-51.0",
+            "refractive_index_at_40c": "1.4500-1.4600",
+            "iodine_value": "31-45",
+            "saponification_value": "180-195",
+            "unsaponifiable_matter_max_percent": 2.5,
+            "free_fatty_acids_as_oleic_acid_max_percent": 0.25,
+            "acid_value_max": 0.5,
+            "epoxy_and_dihydroxy_stearic_acid_max_percent": 3.0,
+            "flash_point_min_c": 250,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "kokum_fat": {
+          "source": "Kernels of Kokum (Garcinia indica choisy)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "45.9-47.3",
+            "refractive_index_at_40c": "1.4565-1.4575",
+            "saponification_value": "187-191.7",
+            "unsaponifiable_matters_max_percent": 1.5,
+            "iodine_value": "32-40",
+            "acid_value_max": 0.5,
+            "flash_point_min_c": 250,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "mango_kernel_fat": {
+          "source": "Kernels of Mango (Magifera Indica Linn)",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "43.7-51.6",
+            "refractive_index_at_40c": "1.4550-1.4604",
+            "saponification_value": "185-198",
+            "unsaponifiable_matters_max_percent": 1.5,
+            "iodine_value": "32-57",
+            "acid_value_max": 0.5,
+            "flash_point_min_c": "Not more than 250",
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "dhupa_fat": {
+          "source": "Seed kernels of Dhupa (Vateria Indica Linn) tree",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "47.5-49.5",
+            "refractive_index_at_40c": "1.4576-1.4590",
+            "saponification_value": "187-192",
+            "unsaponifiable_matters_max_percent": 1.5,
+            "iodine_value": "36-43",
+            "acid_value_max": 0.5,
+            "flash_point_min_c": 250,
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "phulwara_fat": {
+          "source": "Seed kernels of Phulwara [Aisandra Butyrace (Roxb) Baelni, Madhuca Butyracea or Bassia Butyracea]",
+          "requirements": {
+            "butyro_refractometer_reading_at_40c": "48.6-51.0",
+            "refractive_index_at_40c": "1.4584-1.4600",
+            "saponification_value": "192.5-199.4",
+            "unsaponifiable_matters_max_percent": 1.5,
+            "iodine_value": "43.8-47.4",
+            "acid_value_max": 0.5,
+            "flash_point_min_c": 250,
+            "argemone_oil_test": "Negative"
+          }
+        }
+      },
+      "margarine_and_fat_spreads": {
+        "table_margarine": {
+          "definition": "Emulsion of edible oils and fats with water. Free from rancidity, mineral oil, animal body fats.",
+          "requirements": {
+            "fat_min_percent": 80,
+            "moisture_range_percent": "12 - 16",
+            "vitamin_a_min_iu_per_g": 30,
+            "melting_point_of_extracted_fat_c": "31-37",
+            "unsaponifiable_matter_of_extracted_fat_max_percent": 1.5,
+            "free_fatty_acids_as_oleic_acid_max_percent": 0.25,
+            "acid_value_max": 0.5,
+            "til_oil_min_percent": 5,
+            "starch_content_ppm": "100-150",
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "bakery_and_industrial_margarine": {
+          "definition": "Emulsion of vegetable oil product with water. Free from added color and flavor, rancidity, mineral oil, animal body fats.",
+          "requirements": {
+            "fat_min_percent": 80,
+            "moisture_range_percent": "12-16",
+            "vitamin_a_min_iu_per_g": 30,
+            "melting_point_c": "31-41",
+            "unsaponifiable_matter_max_percent": {
+              "general": 2.0,
+              "with_more_than_30_percent_rice_bran_oil": 2.5
+            },
+            "free_fatty_acid_max_percent": 0.25,
+            "acid_value_max": 0.5,
+            "sesame_oil_content": "sufficient to pass Boudouin test",
+            "argemone_oil_test": "Negative"
+          }
+        },
+        "fat_spread": {
+          "definition": "Water in oil emulsion of edible oils and fats, excluding animal body fats.",
+          "classifications": [
+            {
+              "type": "Milk fat spread",
+              "characteristics": "Fat content is exclusively milk fat."
+            },
+            {
+              "type": "Mixed fat spread",
+              "characteristics": "Fat content is a mixture of milk fat with other fats."
+            },
+            {
+              "type": "Vegetable fat spread",
+              "characteristics": "Fat content is a mixture of any two or more hydrogenated, unhydrogenated, or interesterified vegetable oils."
+            }
+          ],
+          "requirements": {
+            "fat_content_range_percent": "40 - 80",
+            "moisture_content_range_percent": "16 - 56",
+            "melting_point_max_c": 37,
+            "unsaponifiable_matter_max_percent": {
+              "milk_fat_and_mixed_fat_spread": 1.0,
+              "vegetable_fat_spread": 1.5
+            },
+            "acid_value_max": 0.5,
+            "vitamin_a_min_iu_per_g": 25,
+            "starch_content_ppm": "100-150"
+          },
+          "labeling": "Fat content must be declared. In mixed fat spread, milk fat content must also be declared. The word 'butter' shall not be used."
+        }
+      }
+    }
+  }
+}

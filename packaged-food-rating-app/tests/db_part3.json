@@ -1,0 +1,1458 @@
+{
+  "sweeteners": {
+    "acesulfame_potassium": {
+      "common_name": "Acesulfame-K",
+      "empirical_formula": "C4H4KNO4S",
+      "molecular_weight": 201.24,
+      "description": "Odourless, white crystalline powder, intensely sweet taste, very slightly soluble in ethanol but freely soluble in water.",
+      "purity_range_percent": "99 - 101",
+      "impurities": {
+        "fluoride_max_ppm": 3,
+        "heavy_metals_max_ppm": 10
+      },
+      "loss_on_drying_max_percent": 1
+    },
+    "sucralose": {
+      "chemical_name": "1, 6-Dichloro-1, 6-Dideoxy-β-D-Fructofuranosyl-4-Chloro-4-Deoxy-a-D-galactopyranoside",
+      "ins_number": 955,
+      "chemical_formula": "C12H19Cl3O8",
+      "molecular_weight": 397.64,
+      "description": "White to off-white, odourless, crystalline powder with a sweet taste. Freely soluble in water, methanol, and alcohol; slightly soluble in ethyl acetate.",
+      "purity_range_percent_anhydrous": "98.0 - 102.0",
+      "impurities": {
+        "arsenic_as_as_max_ppm": 3,
+        "heavy_metals_as_pb_max_ppm": 10,
+        "methanol_max_percent": 0.1,
+        "residue_on_ignition_max_percent": 0.7,
+        "water_max_percent": 0.2
+      }
+    }
+  },
+  "salt_spices_condiments_and_related_products": {
+    "notes": "Extraneous matter is classified as organic (chaff, stems) and inorganic (dust, stones), with inorganic not exceeding 2% by weight of the total.",
+    "microbiological_standards": "All spices, condiments, and related products from 2.9.1 to 2.9.29 must conform to microbiological requirements in Table 3 of Appendix B.",
+    "caraway_siahjira_whole": {
+      "mericarps": "Carum carvi L. (Blond Caraway) or Carum bulbocastanum (Black Caraway)",
+      "standards_table": [
+        {
+          "type": "Blond Caraway (Carum carvi)",
+          "extraneous_matter_max_percent": 1.0,
+          "moisture_max_percent": 13.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 2.5,
+          "insect_damaged_matter_max_percent": 1.0
+        },
+        {
+          "type": "Caraway Black (Siahjira)",
+          "extraneous_matter_max_percent": 1.0,
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 9.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 2.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.5,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      ]
+    },
+    "caraway_siahjira_powder": {
+      "source": "Dried mature fruit of Carum Carvi L.",
+      "standards": {
+        "moisture_max_percent": 12.0,
+        "total_ash_on_dry_basis_max_percent": 8.0,
+        "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+        "volatile_oil_content_on_dry_basis_min_percent_v_w": {
+          "black": 2.25,
+          "blond": 1.33
+        }
+      }
+    },
+    "cardamom_elaichi": {
+      "small_cardamom_chhoti_elaichi_whole": {
+        "source": "Dried capsules of Elettaria cardamomum L. Maton Var. Minuscula Burkill",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "empty_and_malformed_capsules_by_count_max_percent": 3.0,
+          "immature_and_shrivelled_capsules_max_percent": 3.0,
+          "moisture_max_percent": 13.0,
+          "total_ash_on_dry_basis_max_percent": 9.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 3.5,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "small_cardamom_chhoti_elaichi_seeds": {
+        "source": "Decorticated seeds of Elettaria Cardamomum L. Maton var miniscula Burkill",
+        "standards": {
+          "extraneous_matter_max_percent": 2.0,
+          "light_seeds_max_percent": 3.0,
+          "moisture_max_percent": 13.0,
+          "total_ash_on_dry_basis_max_percent": 9.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 3.5,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "small_cardamom_chhoti_elaichi_powder": {
+        "source": "Dried seeds of Elettaria Cardamomum L. Maton var miniscula Burkill",
+        "standards": {
+          "moisture_max_percent": 11.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 3.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 3.0
+        }
+      },
+      "large_cardamom_badi_elaichi_whole": {
+        "source": "Dried nearly ripe fruit of Amomum subulatum Roxb.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "empty_and_malformed_capsules_by_count_max_percent": 2.0,
+          "immature_and_shrivelled_capsules_max_percent": 2.0,
+          "moisture_max_percent": 12.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 2.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "volatile_oil_content_of_seeds_on_dry_basis_min_percent_v_w": 1.0,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "large_cardamom_badi_elaichi_seeds": {
+        "source": "Seeds from decorticated capsules of Amomum subulatum Roxb.",
+        "standards": {
+          "extraneous_matter_max_percent": 2.0,
+          "light_seeds_brown_red_seeds_max_percent": 3.0,
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 2.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.0,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "large_cardamom_badi_elaichi_powder": {
+        "source": "Ground seeds of Amomum subulatum Roxb.",
+        "standards": {
+          "moisture_max_percent": 11.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 2.0,
+          "volatile_oil_content_on_dry_basis_min_percent": 1.0
+        }
+      }
+    },
+    "chillies_and_capsicum_lal_mirchi": {
+      "whole": {
+        "source": "Dried ripe fruits or pods of Capsicum annum L & Capsicum frutescens L.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "unripe_and_marked_fruits_max_percent": 2.0,
+          "broken_fruits_seed_and_fragments_max_percent": 5.0,
+          "moisture_max_percent": 11.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.3,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "powder": {
+        "source": "Ground clean ripe fruits or pods of Capsicum annum L and Capsicum frutescens L.",
+        "standards": {
+          "moisture_max_percent": 11.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.3,
+          "crude_fibre_max_percent": 30.0,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 12.0
+        }
+      }
+    },
+    "cinnamon_dalchini": {
+      "whole": {
+        "source": "Inner bark of trunks or branches of Cinnamomum Zeylanicum Blume.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 7.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 2.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 0.7,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "powder": {
+        "source": "Ground inner bark of Cinnamomum Zeylanicum Blume.",
+        "standards": {
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 7.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 2.0,
+          "volatile_oil_content_on_dry_basis_min_percent": 0.5
+        }
+      }
+    },
+    "cassia_taj": {
+      "whole": {
+        "source": "Bark of trees of Cinnamomum Cassia (Nees) ex Blume, Cinnamomum aromaticum, Cinnamomum burmanii and Cinnamomum loureini Nees.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 5.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 2.0
+        }
+      },
+      "powder": {
+        "source": "Ground bark of Cinnamomum Cassia (Nees) ex Blume, Cinnamomum aromaticum, Cinnamomum burmanii and Cinnamomum loureini Nees.",
+        "standards": {
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 5.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.0,
+          "volatile_oil_content_on_dry_basis_min_percent": 1.5
+        }
+      }
+    },
+    "cloves_laung": {
+      "whole": {
+        "source": "Dried unopened flower buds of Eugenia Caryophyllus (C. Sprengel) Bullock and Harrision.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "tendrils_mother_cloves_max_percent": 2.0,
+          "khokar_cloves_max_percent": 2.0,
+          "moisture_max_percent": 12.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 17.0,
+          "headless_cloves_max_percent": 2.0,
+          "insect_damaged_cloves_max_percent": 2.0
+        }
+      },
+      "powder": {
+        "source": "Ground dried unopened flower buds of Eugenia Caryophyllus (C. Sprengel) Bullock and Harrision.",
+        "standards": {
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 7.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 0.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 16.0,
+          "crude_fibre_max_percent": 13.0
+        }
+      }
+    },
+    "coriander_dhania": {
+      "whole": {
+        "source": "Dried mature fruits (seeds) of Coriandrum sativum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "split_fruits_max_percent": 10.0,
+          "damaged_discoloured_fruits_max_percent": 2.0,
+          "moisture_max_percent": 9.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 0.1,
+          "total_ash_on_dry_basis_max_percent": 7.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "powder": {
+        "source": "Ground dried mature fruits of Coriandrum sativum L.",
+        "standards": {
+          "moisture_max_percent": 9.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 0.09,
+          "total_ash_on_dry_basis_max_percent": 7.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5
+        }
+      }
+    },
+    "cumin_zeera_kalonji": {
+      "white_cumin_safed_zeera_whole": {
+        "source": "Dried mature fruits of Cuminum Cyminum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 3.0,
+          "broken_fruits_max_percent": 5.0,
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 9.5,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 3.0,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 15.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.5,
+          "proportion_of_edible_seeds_other_than_cumin_seeds": "Absent",
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "white_cumin_safed_zeera_powder": {
+        "source": "Ground dried mature seeds of Cuminum Cyminum L.",
+        "standards": {
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 9.5,
+          "acid_insoluble_ash_on_dry_basis_max_percent": 1.5,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 15.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.3
+        }
+      },
+      "black_cumin_kalonji_whole": {
+        "source": "Seeds of Nigella sativa L.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.5,
+          "broken_fruits_max_percent": 5.0,
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 12.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.0,
+          "edible_seeds_other_than_cumin_black_max_percent": 2.0,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "black_cumin_kalonji_powder": {
+        "source": "Ground dried seeds of Nigella sativa L.",
+        "standards": {
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 7.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 0.9,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 12.0
+        }
+      }
+    },
+    "fennel_saunf": {
+      "whole": {
+        "source": "Dried ripe fruit of Foeniculum vulgare P. Miller Var. Vulgare.",
+        "standards": {
+          "extraneous_matter_max_percent": 2.0,
+          "defective_seeds_max_percent": 5.0,
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 10.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 2.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.0,
+          "edible_seeds_other_than_fennel": "Absent",
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "powder": {
+        "source": "Ground ripe fruits (seeds) of Foeniculum Vulgare P. Miller Var Vulgare.",
+        "standards": {
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 9.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 2.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.0
+        }
+      }
+    },
+    "fenugreek_methi": {
+      "whole": {
+        "source": "Dried mature seeds of Trigonella foenum graecum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 2.0,
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 5.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "cold_water_soluble_extract_on_dry_basis_min_percent": 30.0,
+          "edible_seeds_other_than_fenugreek_max_percent": 2.0,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "powder": {
+        "source": "Ground dried mature seeds of Trigonella foenum graecum L.",
+        "standards": {
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 5.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "cold_water_soluble_extract_on_dry_basis_min_percent": 30.0
+        }
+      }
+    },
+    "ginger_sonth_adrak": {
+      "whole": {
+        "source": "Dried rhizome of Zingiber officinale Roscoe.",
+        "standards_table": [
+          {
+            "product_type": "Unbleached",
+            "extraneous_matter_max_percent": 1.0,
+            "moisture_max_percent": 12.0,
+            "total_ash_on_dry_basis_max_percent": 8.0,
+            "calcium_as_calcium_oxide_on_dry_basis_max_percent": 1.1,
+            "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.5,
+            "insect_damaged_matter_max_percent": 1.0
+          },
+          {
+            "product_type": "Bleached with lime",
+            "extraneous_matter_max_percent": 1.0,
+            "moisture_max_percent": 12.0,
+            "total_ash_on_dry_basis_max_percent": 12.0,
+            "calcium_as_calcium_oxide_on_dry_basis_max_percent": 2.5,
+            "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.5,
+            "insect_damaged_matter_max_percent": 1.0
+          }
+        ]
+      },
+      "powder": {
+        "source": "Ground rhizome of Zingiber officinale Roscoe.",
+        "standards_table": [
+          {
+            "product_type": "Unbleached",
+            "moisture_max_percent": 12.0,
+            "total_ash_on_dry_basis_max_percent": 8.0,
+            "calcium_as_calcium_oxide_on_dry_basis_max_percent": 1.1,
+            "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.5,
+            "water_soluble_ash_on_dry_basis_min_percent": 1.7,
+            "acid_insoluble_ash_on_dry_basis_max_percent": 1.0,
+            "alcohol_90_percent_soluble_extract_on_dry_basis_min_percent": 5.1,
+            "cold_water_soluble_extract_on_dry_basis_min_percent": 11.4
+          },
+          {
+            "product_type": "Bleached",
+            "moisture_max_percent": 12.0,
+            "total_ash_on_dry_basis_max_percent": 12.0,
+            "calcium_as_calcium_oxide_on_dry_basis_max_percent": 2.5,
+            "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.5,
+            "water_soluble_ash_on_dry_basis_min_percent": 1.7,
+            "acid_insoluble_ash_on_dry_basis_max_percent": 1.0,
+            "alcohol_90_percent_soluble_extract_on_dry_basis_min_percent": 5.1,
+            "cold_water_soluble_extract_on_dry_basis_min_percent": 11.4
+          }
+        ]
+      }
+    },
+    "mace_jaipatri": {
+      "whole": {
+        "source": "Dried coat or aril of the seed of Myristica fragrans Houttuyn.",
+        "standards": {
+          "extraneous_matter_max_percent": 0.5,
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 4.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 0.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 7.5,
+          "insect_damaged_matter_max_percent": 1.0,
+          "nutmeg_in_mace_max_percent": 1.0
+        }
+      },
+      "powder": {
+        "source": "Ground dried coat or aril of the seed of Myristica fragrans Houttuyn.",
+        "standards": {
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 3.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 0.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 5.0,
+          "crude_fibre_max_percent": 10.0,
+          "non_volatile_ether_extract_on_dry_basis_percent": "20.0-30.0"
+        }
+      }
+    },
+    "mustard_rai_sarson": {
+      "whole": {
+        "source": "Dried, clean mature seeds of Brassica species.",
+        "standards": {
+          "extraneous_matter_max_percent": 2.0,
+          "damaged_or_shrivelled_seeds_max_percent": 2.0,
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 6.5,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.0,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 28.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 0.3,
+          "insect_damaged_matter_max_percent": 1.0,
+          "allyl_iso_thiocyanate_m_m_on_dry_basis_min_percent": {
+            "b_nigra": 1.0,
+            "b_juncea": 0.7
+          },
+          "p_hydroxybenzyl_iso_thiocyanate_m_m_on_dry_basis_min_percent_in_sinapist_alba": 2.3,
+          "argemone_seeds": "Absent"
+        }
+      },
+      "powder": {
+        "source": "Ground dried, clean mature seeds of Brassica species.",
+        "standards": {
+          "moisture_max_percent": 7.0,
+          "total_ash_on_dry_basis_max_percent": 6.5,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.0,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 28.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 0.3,
+          "crude_fibre_max_percent": 8.0,
+          "starch_max_percent": 2.5,
+          "test_for_argemone_oil": "Negative"
+        }
+      }
+    },
+    "nutmeg_jaiphal": {
+      "whole": {
+        "source": "Dried seed (kernel) of Myristica fragrans Houttuyn.",
+        "standards": {
+          "extraneous_matter": "Absent",
+          "mace_in_nutmeg_max_percent": 3.0,
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 3.0,
+          "water_insoluble_ash_on_dry_basis_max_percent": 1.5,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 0.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 6.5,
+          "calcium_content_as_calcium_oxide_on_dry_basis_max_percent": 0.35
+        }
+      },
+      "powder": {
+        "source": "Ground dried seeds (kernel) of Myristica fragrans Houttuyn.",
+        "standards": {
+          "moisture_max_percent": 8.0,
+          "total_ash_on_dry_basis_max_percent": 3.0,
+          "water_insoluble_ash_on_dry_basis_max_percent": 1.5,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 0.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 6.0,
+          "crude_fibre_max_percent": 10.0,
+          "non_volatile_ether_extract_on_dry_basis_percent": "Not less than 25.0"
+        }
+      }
+    },
+    "pepper_black_kalimirch": {
+      "whole": {
+        "source": "Dried berries of Piper nigrum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "light_berries_max_percent": 5.0,
+          "pinheads_or_broken_berries_max_percent": 4.0,
+          "bulk_density_min_g_litre": 490,
+          "moisture_max_percent": 13.0,
+          "total_ash_on_dry_basis_max_percent": 6.0,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 6.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 2.0,
+          "peperine_content_on_dry_basis_min_percent": 4.0,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "powder": {
+        "source": "Ground dried berries of Piper nigrum L.",
+        "standards": {
+          "moisture_max_percent": 12.5,
+          "total_ash_on_dry_basis_max_percent": 6.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.2,
+          "crude_fibre_on_dry_basis_max_percent": 17.5,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 6.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.75,
+          "peperine_content_on_dry_basis_min_percent": 4.0
+        }
+      },
+      "light_black_pepper": {
+        "source": "Dried berries of Piper nigrum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "other_foreign_edible_seeds_max_percent": 2.0
+        }
+      },
+      "pinheads": {
+        "source": "Derived from the spikes of piper nigrum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0
+        }
+      }
+    },
+    "poppy_khas_khas": {
+      "whole": {
+        "source": "Dried mature seeds of Papaver somniferum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 2.0,
+          "moisture_max_percent": 11.0,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 40.0
+        }
+      }
+    },
+    "saffron_kesar": {
+      "whole": {
+        "source": "Dried stigmas or tops of styles of Crocus Sativus Linnaeus.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "floral_waste_max_percent": 10.0,
+          "moisture_and_volatile_matter_at_103c_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "solubility_in_cold_water_on_dry_weight_basis_min_percent": 65.0,
+          "bitterness_min_percent": 30.0,
+          "safranal_percent": "20.0-50.0",
+          "colouring_strength_min_percent": 80.0,
+          "total_nitrogen_on_dry_basis_max_percent": 2.0,
+          "crude_fibre_on_dry_basis_max_percent": 6.0
+        }
+      },
+      "powder": {
+        "source": "Crushed dried stigmas of Crocus Sativus Linnaeus.",
+        "standards": {
+          "moisture_and_volatile_matter_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 8.0,
+          "acid_insoluble_ash_on_dry_basis_max_percent": 1.5,
+          "solubility_in_cold_water_on_dry_weight_basis_max_percent": 65.0,
+          "bitterness_min_percent": 30.0,
+          "safranal_percent": "20.0-50.0",
+          "colouring_strength_min_percent": 80.0,
+          "total_nitrogen_on_dry_basis_max_percent": 3.0,
+          "crude_fibre_on_dry_basis_max_percent": 6.0
+        }
+      }
+    },
+    "turmeric_haldi": {
+      "whole": {
+        "source": "Primary or secondary rhizomes of Curcuma Longa L.",
+        "standards": {
+          "extraneous_matter_max_percent": 1.0,
+          "defective_rhizomes_max_percent": 5.0,
+          "moisture_max_percent": 12.0,
+          "insect_damaged_matter_max_percent": 1.0,
+          "test_for_lead_chromate": "Negative"
+        }
+      },
+      "powder": {
+        "source": "Ground dried rhizomes or bulbous roots of Curcuma Longa L.",
+        "standards": {
+          "moisture_max_percent": 10.0,
+          "total_ash_on_dry_basis_max_percent": 9.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "colouring_power_expressed_as_curcuminoid_content_on_dry_basis_min_percent": 2.0,
+          "total_starch_max_percent": 60.0,
+          "test_for_lead_chromate": "Negative"
+        }
+      }
+    },
+    "curry_powder": {
+      "definition": "Powder from grinding clean, dried, and sound spices from the specified group.",
+      "standards": {
+        "moisture_max_percent": 14.0,
+        "volatile_oil_min_percent_v_w_on_dry_basis": 0.25,
+        "non_volatile_ether_extract_min_percent_on_dry_basis": 7.5,
+        "edible_common_salt_max_percent_on_dry_basis": 5.0,
+        "ash_insoluble_in_dilute_hcl_max_percent_on_dry_basis": 2.0,
+        "crude_fibre_max_percent_on_dry_basis": 15.0,
+        "lead_max_ppm_on_dry_basis": 10.0
+      }
+    },
+    "mixed_masala_whole": {
+      "definition": "Mixture of clean, dried, and sound aromatic herbs and spices.",
+      "standards": {
+        "extraneous_matter_max_percent": 5.0,
+        "organic_matter_including_foreign_edible_seeds_max_percent": 3.0,
+        "inorganic_matter_max_percent": 2.0
+      }
+    },
+    "aniseed_saunf": {
+      "whole": {
+        "source": "Dried and mature fruit of Pimpinella anisum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 2.0,
+          "shrivelled_immature_damaged_insect_damaged_broken_fruit_max_percent": 5.0,
+          "moisture_max_percent": 12.0,
+          "total_ash_on_dry_basis_max_percent": 9.0,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 1.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.0,
+          "insect_damaged_matter_max_percent": 1.0,
+          "foreign_edible_seeds_max_percent": 2.0
+        }
+      }
+    },
+    "ajowan_bishops_seed": {
+      "whole": {
+        "source": "Dried ripe fruits (seeds) of Trachyspermum ammi. L Sprague.",
+        "standards": {
+          "moisture_max_percent": 11.0,
+          "extraneous_matter_max_percent": 2.0,
+          "shrivelled_damaged_insect_damaged_broken_fruit_max_percent": 2.0,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.5
+        }
+      }
+    },
+    "dried_mango_slices": {
+      "definition": "Dried wholesome, edible part of raw mango fruit.",
+      "standards": {
+        "moisture_max_percent": 12.0,
+        "damaged_slices_max_percent": 5.0,
+        "seed_coatings_max_percent": 6.0
+      }
+    },
+    "dried_mango_powder_amchur": {
+      "definition": "Powder from grinding dried mango slices.",
+      "standards": {
+        "moisture_max_percent": 12.0,
+        "total_ash_salt_free_basis_max_percent": 6.0,
+        "ash_insoluble_in_dilute_hcl_max_percent": 1.5,
+        "crude_fibre_max_percent": 6.0,
+        "acidity_as_anhydrous_tartaric_acid_percent": "12-26"
+      }
+    },
+    "pepper_white": {
+      "whole": {
+        "source": "Dried berries of Piper nigrum L. with outer pericap removed.",
+        "standards": {
+          "extraneous_matter_max_percent": 0.8,
+          "broken_berries_max_percent": 3.0,
+          "black_berries_max_percent": 5.0,
+          "bulk_density_min_g_litre": 600,
+          "moisture_max_percent": 13.0,
+          "total_ash_on_dry_basis_max_percent": 3.5,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 6.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 1.0,
+          "peperine_content_on_dry_basis_min_percent": 4.0,
+          "insect_damaged_matter_max_percent": 1.0
+        }
+      },
+      "powder": {
+        "source": "Ground dried berries of Piper nigrum L. with outer pericarp removed.",
+        "standards": {
+          "moisture_max_percent": 13.0,
+          "total_ash_on_dry_basis_max_percent": 3.5,
+          "ash_insoluble_in_dil_hcl_on_dry_basis_max_percent": 0.3,
+          "crude_fibre_on_dry_basis_max_percent": 6.5,
+          "non_volatile_ether_extract_on_dry_basis_min_percent": 6.5,
+          "volatile_oil_content_on_dry_basis_min_percent_v_w": 0.7,
+          "peperine_content_on_dry_basis_min_percent": 4.0
+        }
+      }
+    },
+    "garlic_lahsun": {
+      "dried_dehydrated_garlic": {
+        "source": "Dried cloves of Allium sativum L.",
+        "standards": {
+          "extraneous_matter_max_percent": 0.5,
+          "moisture_max_percent": {
+            "powdered_garlic": 5.0,
+            "other_forms": 8.0
+          },
+          "total_ash_on_dry_basis_max_percent": 5.0,
+          "ash_insoluble_in_dil_hcl_max_percent": 0.5,
+          "cold_water_soluble_extract_on_dry_basis_percent": "70.0-90.0",
+          "volatile_organic_sulphur_compound_on_dry_basis_min_percent": 0.3,
+          "peroxidase_test": "Negative"
+        }
+      }
+    },
+    "celery": {
+      "whole": {
+        "source": "Dried ripe fruits (seeds) of Apium graveoleans L.",
+        "standards": {
+          "extraneous_matter_max_percent": 2.0,
+          "moisture_max_percent": 10.0
+        }
+      }
+    },
+    "dehydrated_onion_sukha_pyaj": {
+      "definition": "Product from drying sound bulbs of Allium cepa.L.",
+      "standards": {
+        "extraneous_matter_max_percent": 0.5,
+        "moisture_max_percent": {
+          "powdered_onion": 5.0,
+          "other_forms": 8.0
+        },
+        "total_ash_on_dry_basis_max_percent": 5.0,
+        "ash_insoluble_in_dil_hcl_max_percent": 0.5,
+        "peroxidase": "Negative"
+      }
+    },
+    "asafoetida": {
+      "hing": {
+        "definition": "Oleogumresin from Ferula species.",
+        "standards": {
+          "total_ash_content_max_percent": 15,
+          "ash_insoluble_in_dilute_hydrochloric_acid_max_percent": 2.5,
+          "alcoholic_extract_min_percent": 12,
+          "starch_max_percent": 1
+        }
+      },
+      "hingra": {
+        "definition": "Oleogumresin from Ferula species.",
+        "standards": {
+          "total_ash_content_max_percent": 20,
+          "ash_insoluble_in_dilute_hydrochloric_acid_max_percent": 8,
+          "alcoholic_extract_min_percent": 50,
+          "starch_max_percent": 1
+        }
+      },
+      "compounded_asafoetida_bandhani_hing": {
+        "definition": "Mixture of asafoetida with gum arabic, edible starches or cereal flour.",
+        "prohibited_substances": "colophony resin, galbanum resin, ammoniaccum resin, other foreign resin, coal tar dyes, mineral pigment.",
+        "standards": {
+          "total_ash_max_percent": 10,
+          "ash_insoluble_in_dilute_hydrochloric_acid_max_percent": 1.5,
+          "alcoholic_extract_min_percent": 5
+        }
+      }
+    },
+    "edible_common_salt": {
+      "definition": "Crystalline solid, white, pale, pink or light grey, free from contamination.",
+      "standards_table": [
+        {
+          "period_of_validity": "From 1-4-1985 onwards",
+          "moisture_max_percent": 6.0,
+          "sodium_chloride_content_as_nacl_min_percent_on_dry_basis": 96.0,
+          "matter_soluble_in_water_other_than_sodium_chloride_max_percent_on_dry_basis": 3.0,
+          "matter_insoluble_in_water_max_percent_on_dry_basis": 1.0
+        }
+      ],
+      "with_anticaking_agent": {
+        "total_matter_insoluble_in_water_max_percent": 2.2,
+        "sodium_chloride_content_on_dry_basis_min_percent": 97.0
+      }
+    },
+    "iodised_salt": {
+      "definition": "Crystalline salt, white or pale, pink or light grey, with iodine added.",
+      "standards": {
+        "moisture_max_percent": 6.0,
+        "sodium_chloride_nacl_min_percent_on_dry_basis": 96.0,
+        "matter_insoluble_in_water_max_percent_on_dry_basis": 1.0,
+        "matter_soluble_in_water_other_than_sodium_chloride_max_percent_on_dry_basis": 3.0,
+        "iodine_content_min_ppm_on_dry_weight_basis": {
+          "manufacture_level": 30,
+          "distribution_channel_and_retail_level": 15
+        }
+      },
+      "with_anticaking_agent": {
+        "total_matter_insoluble_in_water_max_percent": 2.2,
+        "sodium_chloride_content_on_dry_basis_min_percent": 97.0
+      }
+    },
+    "iron_fortified_common_salt": {
+      "definition": "Crystalline solid with added iron.",
+      "standards": {
+        "moisture_max_percent": 5.0,
+        "water_insoluble_matter_max_percent_on_dry_basis": 1.0,
+        "chloride_content_as_nacl_min_percent_on_dry_basis": 96.5,
+        "matter_insoluble_in_dilute_hcl_max_percent_on_dry_basis": 3.0,
+        "matter_soluble_in_water_other_than_nacl_max_percent_on_dry_basis": 2.5,
+        "iron_content_as_fe_ppm": "850-1100",
+        "phosphorous_as_inorganic_po4_ppm": "1500-2000",
+        "sulphate_as_so4_max_percent": 1.1,
+        "magnesium_as_mg_water_soluble_max_percent": 0.10,
+        "ph_value_in_5_percent_aqueous_solution": "2-3.5"
+      },
+      "with_anticaking_agent": {
+        "total_matter_insoluble_in_water_max_percent_on_dry_basis": 2.2
+      }
+    },
+    "potassium_iodate": {
+      "definition": "Crystalline powder, white in color, free from impurities.",
+      "standards": {
+        "potassium_iodate_as_kio3_min_percent": 99.0,
+        "solubility": "Soluble in '30 Parts of water",
+        "iodine_as_i_max_percent": 0.002,
+        "sulphate_as_so4_max_percent": 0.02,
+        "bromate_bromide_chlorate_and_chloride_max_percent": 0.01,
+        "matter_insoluble_in_water_max_percent": 0.10,
+        "loss_on_drying_max_percent": 0.1,
+        "ph_5_percent_solution": "Neutral",
+        "heavy_metal_as_pb_max_ppm": 10,
+        "arsenic_as_as_max_ppm": 3,
+        "iron_as_fe_max_ppm": 10
+      }
+    },
+    "iron_fortified_iodized_salt_double_fortified_salt": {
+      "definition": "Crushed Crystalline Solid, with iron and iodine added.",
+      "standards": {
+        "moisture_max_percent": 1.5,
+        "water_insoluble_matter_max_percent_on_dry_basis": 1.0,
+        "chloride_content_as_nacl_min_percent_on_dry_basis": 97.0,
+        "matter_insoluble_in_dilute_hcl_max_percent_on_dry_basis": 0.30,
+        "matter_soluble_in_water_other_than_nacl_max_percent_on_dry_basis": 2.5,
+        "iron_content_as_fe_ppm": "850-1100",
+        "iodine_content_min_ppm": {
+          "manufacturers_level": 30,
+          "distribution_channel_and_retail_level": 15
+        },
+        "phosphorous_as_p2o5_ppm": "2800-3100",
+        "sulphate_as_so4_max_percent": 1.1,
+        "magnesium_as_mg_water_soluble_max_percent": 0.10,
+        "ph_value_in_5_percent_aqueous_solution": "3.5-5.5"
+      }
+    }
+  },
+  "beverages_other_than_dairy_and_fruits_and_vegetables_based": {
+    "tea": {
+      "definition": "Tea from leaves, buds, and tender stems of Camellia sinensis (L) O. Kuntze.",
+      "standards": {
+        "total_ash_m_m_on_dry_basis_percent": "4.0-8.0",
+        "water_soluble_ash_min_percent_of_total_ash": 45.0,
+        "alkalinity_of_water_soluble_ash_as_koh_m_m_percent": "1.0-3.0",
+        "acid_insoluble_ash_m_m_max_percent": 1.0,
+        "water_extract_m_m_min_percent": 32.0,
+        "crude_fibre_m_m_max_percent": 16.5
+      },
+      "kangra_tea": {
+        "definition": "Tea from Camellia sinensis grown in Kangra and Mandi valleys of Himachal Pradesh.",
+        "standards": {
+          "total_ash_on_dry_basis_percent": "4.5-9.0",
+          "total_ash_soluble_in_boiling_distilled_water_min_percent_of_total_ash": 34,
+          "ash_insoluble_in_dilute_hcl_max_percent_on_dry_basis": 1.2,
+          "extract_by_boiling_min_percent": 23,
+          "alkalinity_of_soluble_ash_as_k2o_on_dry_basis_percent": "1.0-2.2",
+          "crude_fibre_max_percent": 18.5
+        }
+      },
+      "green_tea": {
+        "definition": "Product from leaves, buds, and tender stems of Camellia sinensis (L) O. Kuntze.",
+        "standards": {
+          "total_ash_m_m_on_dry_basis_percent": "4.0-8.0",
+          "water_soluble_ash_min_percent_of_total_ash": 45.0,
+          "alkalinity_of_water_soluble_ash_as_koh_m_m_percent": "1.0-3.0",
+          "acid_insoluble_ash_m_m_max_percent": 1.0,
+          "water_extract_m_m_min_percent": 32.0,
+          "crude_fibre_m_m_max_percent": 16.5,
+          "total_catechins_m_m_percent": "9.0-19.0"
+        }
+      }
+    },
+    "coffee": {
+      "coffee_green_raw_or_unroasted": "Dried seeds of Coffea species with husks removed.",
+      "roasted_coffee": "Properly cleaned green coffee roasted to a brown color.",
+      "ground_coffee": "Powdered product from 'roasted coffee' only, free from husk.",
+      "roasted_and_ground_coffee_standards": {
+        "moisture_on_dry_basis_m_m_max_percent": 5.0,
+        "total_ash_on_dry_basis_m_m_percent": "3.0-6.0",
+        "acid_insoluble_ash_on_dry_basis_m_m_max_percent": 0.1,
+        "water_soluble_ash_on_dry_basis_m_m_min_percent_of_total_ash": 65,
+        "alkainity_of_soluble_ash_ml_0_1_n_hcl_per_g_on_dry_basis_m_m": "3.5-5.0",
+        "aqueous_extracts_on_dry_basis_m_m_percent": "26.0-35.0",
+        "caffeine_anhydrous_on_dry_basis_m_m_min_percent": 1.0
+      },
+      "soluble_coffee_powder": {
+        "definition": "Coffee powder from freshly roasted and ground pure coffee beans.",
+        "standards": {
+          "moisture_on_dry_basis_m_m_max_percent": 4.0,
+          "total_ash_on_dry_basis_m_m_max_percent": 12.0,
+          "caffeined_content_on_dry_basis_m_m_min_percent": 2.8,
+          "solubility_in_boiling_water": "Dissolves readily in 30 seconds",
+          "solubility_in_cold_water_at_16c_3c": "Soluble in 3 minutes"
+        }
+      }
+    },
+    "chicory": {
+      "definition": "Roasted chicory powder from cleaned and dried roots of chicorium intybus Lin.",
+      "standards": {
+        "total_ash_on_dry_basis_m_m_percent": "3.5-8.0",
+        "acid_insoluble_ash_on_dry_basis_m_m_max_percent": 2.5,
+        "aqueous_extracts_on_dry_basis_m_m_min_percent": 55.0
+      }
+    },
+    "coffee_chicory_mixture": {
+      "coffee_chicory_mixture_powder": {
+        "definition": "Roasted and ground coffee and chicory mixture.",
+        "standards": {
+          "coffee_content_min_percent": 51,
+          "moisture_max_percent": 5.0,
+          "total_ash_on_dry_basis_max_percent": 7.50,
+          "acid_insoluble_ash_on_dry_basis_max_percent": 0.6,
+          "caffeine_content_on_dry_basis_min_percent": 0.6,
+          "aqueous_extracts_max_percent": 50
+        }
+      },
+      "instant_coffee_chicory_mixture": {
+        "definition": "Product manufactured from roasted and ground coffee and chicory.",
+        "standards": {
+          "coffee_content_min_percent_on_dry_basis": 51,
+          "moisture_max_percent": 4.0,
+          "total_ash_on_dry_basis_max_percent": 10,
+          "acid_insoluble_ash_on_dry_basis_max_percent": 0.6,
+          "caffeine_anhydrous_min_percent_on_dry_basis": 1.4,
+          "solubility_in_boiling_water": "Dissolves readily in 30 seconds",
+          "solubility_in_cold_water_at_16c_3c": "Soluble in 3 minutes"
+        }
+      }
+    },
+    "beverages_alcoholic": {
+      "toddy": {
+        "definition": "Sap from palm trees that has undergone alcoholic fermentation.",
+        "standards": {
+          "alcoholic_content_min_percent_v_v": 5,
+          "total_acid_as_tartaric_acid_min_g_100l_absolute_alcohol": 400,
+          "volatile_acid_as_acetic_acid_max_g_100l_absolute_alcohol": 100
+        }
+      }
+    },
+    "beverages_non_alcoholic_carbonated": {
+      "carbonated_water": {
+        "definition": "Water conforming to packaged drinking water standards, impregnated with carbon dioxide.",
+        "permitted_ingredients": "Sugar, liquid glucose, dextrose, fruit/vegetable extracts, flavors, colors, preservatives, acids, gums, salts, vitamins, caffeine (max 145 ppm), estergum (max 100 ppm), gellan gum, quinine salts (max 100 ppm), and specific artificial sweeteners.",
+        "microbiological_requirements": {
+          "total_plate_count_max_cfu_ml": 50,
+          "coliform_count_cfu_100ml": 0,
+          "yeast_and_mould_count_max_cfu_ml": 2
+        }
+      }
+    },
+    "mineral_water": {
+      "description_and_types": "Water from underground sources, characterized by mineral salts, trace elements, and constant composition.",
+      "types": [
+        "Naturally Carbonated Natural Mineral Water",
+        "Non-Carbonated Natural Mineral Water",
+        "Decarbonated Natural Mineral Water",
+        "Natural Mineral Water Fortified with Carbon Dioxide from the Source",
+        "Carbonated Natural Mineral Water"
+      ],
+      "standards": {
+        "colour_hazen_unit_max": 2,
+        "turbidity_ntu_max": 2,
+        "total_dissolved_solids_mg_litre": "150-700",
+        "ph_range": "6.5-8.5",
+        "nitrates_as_no3_max_mg_litre": 50,
+        "nitrites_as_no2_max_mg_litre": 0.02,
+        "mineral_oil": "Absent",
+        "phenolic_compounds": "Absent",
+        "manganese_as_mn_max_mg_litre": 2.0,
+        "copper_as_cu_max_mg_litre": 1,
+        "zinc_as_zn_max_mg_litre": 5,
+        "fluoride_as_f_max_mg_litre": 1,
+        "barium_as_ba_max_mg_litre": 1.0,
+        "arsenic_as_as_max_mg_litre": 0.05,
+        "cadmium_as_cd_max_mg_litre": 0.003,
+        "cyanide_as_cn": "Absent",
+        "chromium_as_cr_max_mg_litre": 0.05,
+        "mercury_as_hg_max_mg_litre": 0.001,
+        "lead_as_pb_max_mg_litre": 0.01
+      },
+      "microbiological_standards": {
+        "yeast_and_mould_counts": "Absent",
+        "salmonella_and_shigella": "Absent",
+        "e_coli_or_thermotolerant_coliforms": "Absent 1 x 250 ml"
+      }
+    },
+    "packaged_drinking_water_other_than_mineral_water": {
+      "definition": "Water from surface, underground, or sea water subjected to specific treatments and disinfection.",
+      "standards": {
+        "colour_hazen_unit_max": 2,
+        "turbidity_ntu_max": 2,
+        "total_dissolved_solids_max_mg_litre": 500,
+        "ph_range": "6.5-8.5",
+        "nitrates_as_no3_max_mg_litre": 45,
+        "nitrites_as_no2_max_mg_litre": 0.02,
+        "manganese_as_mn_max_mg_litre": 0.1,
+        "copper_as_cu_max_mg_litre": 0.05,
+        "zinc_as_zn_max_mg_litre": 5,
+        "fluoride_as_f_max_mg_litre": 1.0,
+        "lead_as_pb_max_mg_litre": 0.01,
+        "selenium_as_se_max_mg_litre": 0.01,
+        "iron_as_fe_max_mg_litre": 0.1,
+        "aluminium_as_al_max_mg_litre": 0.03,
+        "residual_free_chlorine_max_mg_litre": 0.2
+      },
+      "microbiological_standards": {
+        "e_coli_or_thermotolerant_bacteria": "Absent 1 x 250 ml",
+        "coliform_bacteria": "Absent 1 x 250 ml",
+        "aerobic_microbial_count_max_per_ml": "100 at 20-22C in 72h; 20 at 37C in 24h"
+      }
+    }
+  },
+  "other_food_product_and_ingredients": {
+    "baking_powder": {
+      "definition": "A combination of sodium bicarbonate and an acid-reacting material, capable of yielding carbon dioxide.",
+      "requirements": {
+        "carbon_dioxide_yield_min_percent": 10
+      }
+    },
+    "catechu_edible": {
+      "definition": "Dried aqueous extract from the heart-wood of Acacia Catechu.",
+      "standards": {
+        "loss_on_drying_at_100c_max_percent": 16,
+        "water_insoluble_residue_max_percent": 25,
+        "alcohol_insoluble_residue_max_percent": 30,
+        "total_ash_on_dry_basis_max_percent": 8,
+        "ash_insoluble_in_hcl_on_dry_weight_basis_max_percent": {
+          "general": 0.5,
+          "bhatti_katha": 1.5
+        }
+      }
+    },
+    "gelatin": {
+      "definition": "Purified product from partial hydrolysis of collagen from animal tissues.",
+      "standards": {
+        "moisture_max_percent": 15,
+        "total_ash_max_percent": 3.0,
+        "sulphur_dioxide_max_ppm": 1000,
+        "nitrogen_min_percent_on_dry_weight_basis": 15
+      }
+    },
+    "silver_leaf_chandi_ka_warq_food_grade": {
+      "definition": "Sheets of silver.",
+      "requirements": {
+        "silver_content_min_percent": 99.9
+      }
+    },
+    "pan_masala": {
+      "definition": "Food taken with Pan, containing betelnut, lime, coconut, catechu, etc.",
+      "prohibited_substances": "Added coaltar colouring matter, any other ingredient injurious to health.",
+      "standards": {
+        "total_ash_max_percent_on_dry_basis": 8.0,
+        "ash_insoluble_in_dilute_hcl_acid_max_percent_on_dry_basis": 0.5
+      }
+    },
+    "low_and_high_fat_cocoa_powder": {
+      "definition": "Partially defatted product from the cocoa bean.",
+      "standards": {
+        "total_ash_on_moisture_and_fat_free_basis_max_percent": 14.0,
+        "ash_insoluble_in_dilute_hcl_on_moisture_and_fat_free_basis_max_percent": 1.0,
+        "alkalinity_of_total_ash_as_k2o_on_moisture_and_fat_free_basis_max_percent": 6.0,
+        "cocoa_butter_on_moisture_free_basis_min_percent": {
+          "low_fat": 10.0,
+          "high_fat": 20.0
+        }
+      }
+    },
+    "carob_powder": {
+      "definition": "Powder from the roasted pods of carob (Ceratonia Siliqua).",
+      "standards": {
+        "total_ash_max_percent": 1.2,
+        "acid_insoluble_matter_max_percent": 5,
+        "tannin_content_percent": "0.1-0.15"
+      }
+    }
+  },
+  "proprietary_food": {
+    "definition": "A food that has not been standardized under these regulations.",
+    "requirements": "Must have a name describing its nature/composition, comply with all regulatory provisions, and meet standards in Appendices A and B."
+  },
+  "irradiation_of_food": {
+    "dose_of_irradiation": {
+      "no_food_shall_be_irradiated": "Unless specified in the table.",
+      "dose_limits_table": [
+        {
+          "name_of_foods": "Onions",
+          "minimum_kgy": 0.03,
+          "maximum_kgy": 0.09,
+          "overall_average_kgy": 0.06
+        },
+        {
+          "name_of_foods": "Spices",
+          "minimum_kgy": 6,
+          "maximum_kgy": 14,
+          "overall_average_kgy": 10
+        },
+        {
+          "name_of_foods": "Potatoes",
+          "minimum_kgy": 0.06,
+          "maximum_kgy": 0.15,
+          "overall_average_kgy": 0.10
+        },
+        {
+          "name_of_foods": "Rice",
+          "minimum_kgy": 0.25,
+          "maximum_kgy": 1.0,
+          "overall_average_kgy": 0.62
+        },
+        {
+          "name_of_foods": "Semolina (Sooji or Rawa), Wheat, atta and Maida",
+          "minimum_kgy": 0.25,
+          "maximum_kgy": 1.0,
+          "overall_average_kgy": 0.62
+        },
+        {
+          "name_of_foods": "Mango",
+          "minimum_kgy": 0.25,
+          "maximum_kgy": 0.75,
+          "overall_average_kgy": 0.50
+        },
+        {
+          "name_of_foods": "Raisins, Figs and Dried Dates",
+          "minimum_kgy": 0.25,
+          "maximum_kgy": 0.75,
+          "overall_average_kgy": 0.50
+        },
+        {
+          "name_of_foods": "Ginger, Garlic and Shallots (Small Onions)",
+          "minimum_kgy": 0.03,
+          "maximum_kgy": 0.15,
+          "overall_average_kgy": 0.09
+        },
+        {
+          "name_of_foods": "Meat and Meat Products including Chicken",
+          "minimum_kgy": 2.5,
+          "maximum_kgy": 4.0,
+          "overall_average_kgy": 3.25
+        },
+        {
+          "name_of_foods": "Fresh Sea foods",
+          "minimum_kgy": 1.0,
+          "maximum_kgy": 3.0,
+          "overall_average_kgy": 2.00
+        },
+        {
+          "name_of_foods": "Frozen Sea foods",
+          "minimum_kgy": 4.0,
+          "maximum_kgy": 6.0,
+          "overall_average_kgy": 5.00
+        },
+        {
+          "name_of_foods": "Dried Sea foods",
+          "minimum_kgy": 0.25,
+          "maximum_kgy": 1.0,
+          "overall_average_kgy": 0.62
+        },
+        {
+          "name_of_foods": "Pulses",
+          "minimum_kgy": 0.25,
+          "maximum_kgy": 1.0,
+          "overall_average_kgy": 0.62
+        }
+      ]
+    },
+    "requirements_for_the_process_of_irradiation": "Facilities must be approved and licensed under the Atomic Energy (Control of Irradiation of Food) Rules, 1991. Food cannot be re-irradiated without permission. A certificate of irradiation must be provided.",
+    "storage_and_sale_of_irradiated_food": "Irradiated food must be sold only in prepackaged conditions.",
+    "record_of_irradiation_of_food": "An authorized officer must record details such as product name, dose, date, batch number, quantity, and appearance before and after irradiation."
+  },
+  "food_additives": {
+    "chapter_3_substances_added_to_food": {
+      "good_manufacturing_practices_gmp": "Food additives should be used at the lowest possible level to achieve their effect, reduced as much as possible if they are incidental components, and handled like any other food ingredient.",
+      "use_of_food_additives": {
+        "traditional_foods": "May contain permitted additives from Table 2 of Appendix A.",
+        "bread_biscuits": "May contain permitted additives from Table 1 of Appendix A.",
+        "other_foods": "A wide range of other foods may contain additives from Table 3 of Appendix A."
+      },
+      "colouring_matter": {
+        "prohibition": "Unauthorized addition of colouring matter is prohibited.",
+        "permitted_natural_colours": [
+          "Carotene & Carotenoids",
+          "Chlorophyll",
+          "Riboflavin (Lactoflavin)",
+          "Caramel",
+          "Annatto",
+          "Saffron",
+          "Curcumin or turmeric"
+        ],
+        "prohibited_inorganic_colours_and_pigments": "Inorganic colouring matters and pigments are prohibited unless otherwise provided.",
+        "permitted_synthetic_food_colours": {
+          "red": [
+            "Ponceau 4R",
+            "Carmoisine",
+            "Erythrosine"
+          ],
+          "yellow": [
+            "Tartrazine",
+            "Sunset Yellow FCF"
+          ],
+          "blue": [
+            "Indigo Carmine",
+            "Brilliant Blue FCF"
+          ],
+          "green": [
+            "Fast Green FCF"
+          ]
+        },
+        "use_of_lake_colours": "Aluminum Lake of Sunset Yellow FCF may be used in powdered dry beverages mix (max 0.04% by weight).",
+        "prohibited_use_of_permitted_synthetic_food_colours": "Use is prohibited in foods not explicitly listed.",
+        "maximum_limit_of_permitted_synthetic_food_colours_ppm": {
+          "general": 100,
+          "specific_food_articles": 200
+        }
+      },
+      "artificial_sweeteners": {
+        "use_and_sale_of_artificial_sweeteners": {
+          "saccharin_sodium_max_ppm": {
+            "carbonated_water": 100,
+            "soft_drink_concentrate": 100,
+            "supari": 4000,
+            "pan_masala": 8000,
+            "pan_flavouring_material_percent": 8.0,
+            "synthetic_syrup_for_dispenser": 450,
+            "sweets": 500,
+            "chocolate": 500,
+            "sugar_based_confectionery": 3000,
+            "chewing_gum_bubble_gum": 3000
+          },
+          "aspartame_methylester_max_ppm": {
+            "carbonated_water": 700,
+            "soft_drink_concentrate": 700,
+            "biscuits_bread_cakes_and_pasteries": 2200,
+            "sweets": 200,
+            "jam_jellies_marmalades": 1000,
+            "chocolate": 2000,
+            "sugar_based_confectionery": 10000,
+            "chewing_gum_bubble_gum": 10000,
+            "synthetic_syrup_for_dispenser": 3000
+          },
+          "acesulfame_potassium_max_ppm": {
+            "carbonated_water": 300,
+            "soft_drink_concentrate": 300,
+            "biscuits_bread_cakes_and_pasteries": 1000,
+            "sweets": 500,
+            "chocolate": 500,
+            "sugar_based_confectionery": 3500,
+            "chewing_gum_bubble_gum": 5000,
+            "synthetic_syrup_for_dispenser": 1500
+          },
+          "sucralose_max_ppm": {
+            "carbonated_water": 300,
+            "soft_drink_concentrate": 300,
+            "biscuits_breads_cakes_and_pastries": 750,
+            "sweets": 750,
+            "yoghurts": 300,
+            "sweetened_butter_milk": 300
+          },
+          "neotame_max_ppm": {
+            "carbonated_water": 33,
+            "soft_drink_concentrate": 33
+          }
+        },
+        "mixture_of_artificial_sweeteners_prohibited": "No mixture of artificial sweeteners shall be added to any article of food or in the manufacture of table top sweeteners.",
+        "exceptions_and_conditions": "Combinations are permitted in certain products like carbonated water, soft drink concentrate, and synthetic syrup for dispenser, provided the proportionate limits are respected."
+      },
+      "use_of_polyols_in_foods": {
+        "polydextrose": {
+          "permitted_foods": [
+            "Ice Cream",
+            "Frozen Desserts",
+            "Cakes",
+            "Biscuits",
+            "Yoghurt",
+            "Whip topping",
+            "Sugar boiled Confectionery",
+            "Lozenges",
+            "Jam",
+            "fruit jelly",
+            "Traditional Indian sweets"
+          ],
+          "maximum_level_of_use": "GMP"
+        }
+      },
+      "preservatives": {
+        "classification": {
+          "class_i": [
+            "Common salt",
+            "Sugar",
+            "Dextrose",
+            "Glucose Syrup",
+            "Spices",
+            "Vinegar or acetic acid",
+            "Honey",
+            "Edible vegetable oils"
+          ],
+          "class_ii": [
+            "Benzoic acid",
+            "Sulphurous acid",
+            "Nitrates or Nitrites of Sodium or Potassium",
+            "Sorbic acid",
+            "Propionates",
+            "Lactic acid",
+            "Nisin",
+            "Sodium and calcium propionate",
+            "Methyl or propyl Parahydroxy-Benzoate",
+            "Propionic acid",
+            "Sodium diacetate"
+          ]
+        },
+        "use_of_more_than_one_class_ii_preservative": "Prohibited, with an exception for combined use in certain cases as long as proportionate limits are followed.",
+        "use_of_class_ii_preservatives_restricted": {
+          "sausages_and_sausage_meat": "Sulphur dioxide (450 ppm)",
+          "fruit_pulp_juice": "Sulphur dioxide (1000-2000 ppm)",
+          "dried_fruits": "Sulphur dioxide (750-2000 ppm)",
+          "non_alcoholic_wines_squashes_etc": "Sulphur dioxide (350 ppm) or Benzoic acid (600 ppm)",
+          "jams_marmalade_etc": "Sulphur dioxide (40 ppm) or Benzoic acid (200 ppm)",
+          "pickles_and_chutneys": "Benzoic Acid (250 ppm) or Sulphur dioxide (100 ppm)",
+          "tomato_and_other_sauces": "Benzoic Acid (750 ppm)",
+          "pickled_meat_and_bacon": "Sodium and/or Potassium Nitrite (200 ppm)",
+          "dehydrated_vegetables": "Sulphur dioxide (2000 ppm)",
+          "cheese_or_processed_cheese": "Sorbic acid (3000 ppm) or Nisin (12.5 ppm)",
+          "fat_spread": "Sorbic acid (1000 ppm) or Benzoic acid (1000 ppm) or both"
+        }
+      },
+      "anti_oxidants": {
+        "restriction_on_use_of_anti_oxidants": "No antioxidant other than lecithin, ascorbic acid and tocopherol shall be added to any food unless otherwise provided.",
+        "permitted_in_edible_oils_and_fats": {
+          "ethyl_gallate_propyl_gallate_octyl_gallate_dodecyl_gallate": "0.01 percent",
+          "ascorbyl_palmitate": "0.02 percent",
+          "butylated_hydroxyanisole_bha": "0.02 percent",
+          "tertiary_butyl_hydro_quinone_tbhq": "0.02 percent"
+        },
+        "use_in_vitamin_d_preparation": "Antioxidants not exceeding 0.08%."
+      },
+      "emulsifying_and_stabilising_agents": {
+        "restriction_on_use": "Shall not be used unless specifically permitted. Certain agents are prohibited in milk and cream.",
+        "permitted_in_bakery_products_and_chocolate": "Polyglycerol esters of fatty acids and Polyglycerol ester of interesterified Ricinoleic acid (max 0.2%).",
+        "permitted_in_fruit_products": [
+          "Pectin",
+          "Sodium alginate",
+          "Calcium alginate",
+          "Alginic acid",
+          "Propylene glycol alginate"
+        ],
+        "use_of_hydroxypropyl_methyl_cellulose": {
+          "non_dairy_whip_topping": "2.0%",
+          "snacks_savouries_etc": "1.0%",
+          "mixes_for_dairy_based_drinks": "0.5%"
+        }
+      },
+      "anticaking_agents": {
+        "restriction_on_use_of_anticaking_agents": "No anticaking agents shall be used unless specifically permitted.",
+        "permitted_in_table_salt_onion_powder_etc_max_percent": 2.0
+      },
+      "antifoaming_agents_in_edible_oils_and_fats": "Dimethyl Polysiloxane (max 10 ppm) may be used.",
+      "use_of_release_agents_in_confectionery": "Spreadasil silicon spray (Dimethyl Polysiloxane) (max 10 ppm) in finished product.",
+      "flavouring_agents_and_related_substances": {
+        "types": [
+          "Natural Flavours and Natural Flavouring substances",
+          "Nature-Identical Flavouring Substances",
+          "Artificial Flavouring Substances"
+        ],
+        "prohibited_flavouring_agents": [
+          "Coumarin and dihydrocoumarin",
+          "Tonkabean",
+          "β-asarone and cinamyl anthracilate",
+          "Estragole",
+          "Ethyl Methyl Ketone",
+          "Ethyl-3-Phenylglycidate",
+          "Eugenyl methyl ether",
+          "Methyl β napthyl Ketone",
+          "P.Propylanisole",
+          "Saffrole and Isosaffrole",
+          "Thujone and Isothujone"
+        ]
+      },
+      "use_of_flavour_enhancers": {
+        "monosodium_glutamate": {
+          "use": "Added to foods as per GMP level with proper label declaration.",
+          "prohibited_in_foods": "Infant foods, milk and milk products, fresh fruits/vegetables/meat/fish, sugar, honey, salt, herbs, spices, natural mineral water, etc."
+        }
+      },
+      "sequestering_and_buffering_agents": {
+        "restriction_on_use": "Use is restricted to specified foods in concentrations not exceeding specified limits.",
+        "use_limits_table": [
+          {
+            "name": "Acetic Acid",
+            "food": "Acidulant, buffering and neutralizing agents in beverages soft drinks",
+            "maximum_level_ppm": "Limited by G.M.P."
+          },
+          {
+            "name": "Adipic acid",
+            "food": "Salt substitute and dietary food",
+            "maximum_level_ppm": 250
+          },
+          {
+            "name": "Calcium Gluconate",
+            "food": "In confections",
+            "maximum_level_ppm": 2500
+          },
+          {
+            "name": "Calcium Carbonate",
+            "food": "As a neutralizer in number of foods",
+            "maximum_level_ppm": 10000
+          },
+          {
+            "name": "Polyphosphate",
+            "food": "Processed cheese, bread, Milk Preparations, Cake Mixes, Protein foods",
+            "maximum_level_ppm": "4000-40000"
+          },
+          {
+            "name": "Calcium Disodium, Ethylene, Diamine tetra acetate",
+            "food": "Emulsions, Salad dressing, Sandwich spread or fat Spread",
+            "maximum_level_ppm": 50
+          }
+        ]
+      },
+      "other_substances_to_be_used_in_specified_limits": {
+        "use_limits_table": [
+          {
+            "substances": "Ammonium Carbonate",
+            "food": "Baked food confections",
+            "maximum_level_ppm": 5000
+          },
+          {
+            "substances": "Ammonium bicarbonate",
+            "food": "Baked food confections",
+            "maximum_level_ppm": "GMP"
+          },
+          {
+            "substances": "Potassium Bromate and /or Potassium Iodate",
+            "food": "Bread",
+            "maximum_level_ppm": 50
+          },
+          {
+            "substances": "Benzoyl Peroxide",
+            "food": "Flour for bakery",
+            "maximum_level_ppm": 40
+          },
+          {
+            "substances": "Ascorbic acid/Iso Ascorbic acid and its salts",
+            "food": "Corned beef, Luncheon Meat, etc.",
+            "maximum_level_ppm": 500
+          },
+          {
+            "substances": "Phosphates",
+            "food": "Luncheon Meat,Cooked Ham, Chopped Meat.",
+            "maximum_level_ppm": 8000
+          }
+        ]
+      },
+      "carry_over_of_food_additives": "Additives can be present in a food from a raw material or ingredient, provided the total amount in the final food does not exceed the permitted maximum limit."
+    }
+  }
+}
