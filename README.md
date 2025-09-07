@@ -1,5 +1,7 @@
 The code is in github codespace
 
+Demo video : https://youtu.be/TntJyHud0f0
+
 # 🥗 Food Health Analyzer
 
 An AI-powered application that analyzes packaged food products to provide detailed health insights. The app uses computer vision to scan barcodes and nutrition labels, cross-references with FSSAI regulations, and provides a comprehensive health analysis.
